@@ -1,0 +1,136 @@
+% El Tor Circular Economy - Master Document
+% This document integrates all unit reports for the El Tor Circular Economy project
+
+\documentclass[12pt,a4paper]{report}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+\newfontfamily\englishfont{Times New Roman}
+
+% Additional packages for better Unicode and math handling
+\usepackage{unicode-math}
+\usepackage{xltxtra}
+\usepackage{xunicode}
+
+% Graphics and layout packages
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+% Fix for Unicode subscripts
+\DeclareUnicodeCharacter{2082}{\ensuremath{_2}}
+\DeclareUnicodeCharacter{2080}{\ensuremath{_0}}
+\DeclareUnicodeCharacter{2081}{\ensuremath{_1}}
+
+% Define common chemical formulas
+\newcommand{\CO}{\ensuremath{\mathrm{CO}}}
+\newcommand{\COtwo}{\ensuremath{\mathrm{CO}_2}}
+\newcommand{\Htwo}{\ensuremath{\mathrm{H}_2}}
+\newcommand{\HtwoO}{\ensuremath{\mathrm{H}_2\mathrm{O}}}
+\newcommand{\Otwo}{\ensuremath{\mathrm{O}_2}}
+
+\title{El Tor Circular Economy\\
+\large Integrated Sustainable Agricultural System}
+\author{FAAS - Takamol Initiative}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\chapter{Introduction to El Tor Circular Economy}
+\input{shared_documents/site_master_plan}
+
+\chapter{Azolla Farming}
+\input{units/azolla_farming/overview}
+\input{units/azolla_farming/strategic_plan}
+\input{units/azolla_farming/operational_plan}
+\input{units/azolla_farming/financial_plan}
+\input{units/azolla_farming/resource_requirements}
+\input{units/azolla_farming/risk_management}
+\input{units/azolla_farming/sustainability_plan}
+\input{units/azolla_farming/integration_plan}
+
+\chapter{Biodiesel Production}
+\input{units/biodiesel_production/overview}
+\input{units/biodiesel_production/strategic_plan}
+\input{units/biodiesel_production/operational_plan}
+\input{units/biodiesel_production/financial_plan}
+\input{units/biodiesel_production/resource_requirements}
+\input{units/biodiesel_production/risk_management}
+\input{units/biodiesel_production/sustainability_plan}
+\input{units/biodiesel_production/integration_plan}
+
+\chapter{Livestock Management}
+\input{units/livestock_management/overview}
+\input{units/livestock_management/strategic_plan}
+\input{units/livestock_management/operational_plan}
+\input{units/livestock_management/financial_plan}
+\input{units/livestock_management/resource_requirements}
+\input{units/livestock_management/risk_management}
+\input{units/livestock_management/sustainability_plan}
+\input{units/livestock_management/integration_plan}
+
+\chapter{Vermicomposting and Biochar}
+\input{units/vermicomposting_biochar/overview}
+\input{units/vermicomposting_biochar/strategic_plan}
+\input{units/vermicomposting_biochar/operational_plan}
+\input{units/vermicomposting_biochar/financial_plan}
+\input{units/vermicomposting_biochar/resource_requirements}
+\input{units/vermicomposting_biochar/risk_management}
+\input{units/vermicomposting_biochar/sustainability_plan}
+\input{units/vermicomposting_biochar/integration_plan}
+
+\chapter{Date Palm Cultivation}
+\input{units/date_palm_cultivation/overview}
+\input{units/date_palm_cultivation/strategic_plan}
+\input{units/date_palm_cultivation/operational_plan}
+\input{units/date_palm_cultivation/financial_plan}
+\input{units/date_palm_cultivation/resource_requirements}
+\input{units/date_palm_cultivation/risk_management}
+\input{units/date_palm_cultivation/sustainability_plan}
+\input{units/date_palm_cultivation/integration_plan}
+
+\chapter{Cactus Fig Cultivation}
+\input{units/cactus_fig_cultivation/overview}
+\input{units/cactus_fig_cultivation/strategic_plan}
+\input{units/cactus_fig_cultivation/operational_plan}
+\input{units/cactus_fig_cultivation/financial_plan}
+\input{units/cactus_fig_cultivation/resource_requirements}
+\input{units/cactus_fig_cultivation/risk_management}
+\input{units/cactus_fig_cultivation/sustainability_plan}
+\input{units/cactus_fig_cultivation/integration_plan}
+
+\chapter{Olive Cultivation}
+\input{units/olive_cultivation/overview}
+\input{units/olive_cultivation/strategic_plan}
+\input{units/olive_cultivation/operational_plan}
+\input{units/olive_cultivation/financial_plan}
+\input{units/olive_cultivation/resource_requirements}
+\input{units/olive_cultivation/risk_management}
+\input{units/olive_cultivation/sustainability_plan}
+\input{units/olive_cultivation/integration_plan}
+
+\chapter{Shared Resources and Infrastructure}
+\input{shared_documents/land_management_plan}
+\input{shared_documents/water_management_plan}
+\input{shared_documents/circular_economy_integration}
+\input{shared_documents/logistics_operations_plan}
+\input{shared_documents/technology_infrastructure}
+\input{shared_documents/governance_framework}
+\input{shared_documents/community_social_impact}
+\input{shared_documents/climate_risk_resilience}
+
+\chapter{Appendices}
+\input{appendices/financial_tables}
+\input{appendices/market_data}
+\input{appendices/experimental_data}
+\input{appendices/compliance_certificates}
+
+\end{document} 

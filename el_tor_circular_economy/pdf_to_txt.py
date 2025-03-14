@@ -16,19 +16,15 @@ def extract_text_with_pdftotext(pdf_path, output_path, is_arabic=False):
     This generally handles Arabic text better than PyMuPDF.
     """
     try:
-        # Set encoding options for Arabic text
+        # Set encoding options for all text
         encoding_option = "-enc UTF-8"
         
-        # Additional options for better text extraction
-        if is_arabic:
-            # For Arabic documents, use raw mode and specific options
-            layout_option = "-raw"  # Raw mode often works better for non-Latin scripts
-            eol_option = "-eol unix"  # Consistent line endings
-            cmd = f"pdftotext {encoding_option} {layout_option} {eol_option} \"{pdf_path}\" \"{output_path}\""
-        else:
-            # For English documents, use layout mode
-            layout_option = "-layout"  # Maintain original layout
-            cmd = f"pdftotext {encoding_option} {layout_option} \"{pdf_path}\" \"{output_path}\""
+        # Use consistent options for both Arabic and English files
+        # Raw mode often works better for multilingual documents
+        layout_option = "-raw"
+        eol_option = "-eol unix"  # Consistent line endings
+        
+        cmd = f"pdftotext {encoding_option} {layout_option} {eol_option} \"{pdf_path}\" \"{output_path}\""
         
         # Execute the command
         result = subprocess.run(cmd, shell=True, capture_output=True, text=True)

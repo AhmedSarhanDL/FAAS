@@ -2,8 +2,13 @@
 % This document integrates all unit reports for the El Tor Circular Economy project
 
 \documentclass[12pt,a4paper]{report}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+% Remove Arabic language setup from main English document
+\newfontfamily\englishfont{Times New Roman}
 \usepackage[utf8]{inputenc}
-\usepackage[arabic,english]{babel}
+\usepackage[english]{babel}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{amsmath}
@@ -24,6 +29,16 @@
 
 \chapter{Introduction to El Tor Circular Economy}
 \input{shared_documents/site_master_plan}
+
+\chapter{Nursery}
+\input{units/nursery/overview}
+\input{units/nursery/strategic_plan}
+\input{units/nursery/operational_plan}
+\input{units/nursery/financial_plan}
+\input{units/nursery/resource_requirements}
+\input{units/nursery/risk_management}
+\input{units/nursery/sustainability_plan}
+\input{units/nursery/integration_plan}
 
 \chapter{Azolla Farming}
 \input{units/azolla_farming/overview}
@@ -95,20 +110,19 @@
 \input{units/olive_cultivation/sustainability_plan}
 \input{units/olive_cultivation/integration_plan}
 
-\chapter{Shared Resources and Infrastructure}
-\input{shared_documents/land_management_plan}
+\chapter{Shared Resources}
+\input{shared_documents/site_master_plan}
 \input{shared_documents/water_management_plan}
-\input{shared_documents/circular_economy_integration}
-\input{shared_documents/logistics_operations_plan}
-\input{shared_documents/technology_infrastructure}
-\input{shared_documents/governance_framework}
-\input{shared_documents/community_social_impact}
-\input{shared_documents/climate_risk_resilience}
+%\input{shared_documents/energy_management}
+%\input{shared_documents/waste_management}
+%\input{shared_documents/marketing_distribution}
+%\input{shared_documents/community_engagement}
+%\input{shared_documents/research_development}
+%\input{shared_documents/governance_management}
 
 \chapter{Appendices}
-\input{appendices/financial_tables}
-\input{appendices/market_data}
-\input{appendices/experimental_data}
-\input{appendices/compliance_certificates}
+%\input{appendices/glossary}
+%\input{appendices/references}
+%\input{appendices/contact_information}
 
 \end{document}

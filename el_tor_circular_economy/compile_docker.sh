@@ -35,18 +35,35 @@ docker pull $DOCKER_IMAGE
 # Compile English version
 echo ""
 echo "===== COMPILING ENGLISH VERSION ====="
-echo "Compiling main.tex using pdflatex..."
+echo "Compiling main.tex using xelatex..."
 
+# Run xelatex twice to resolve references
 docker run --rm -v "$CURRENT_DIR:/workdir" $DOCKER_IMAGE sh -c "cd /workdir && \
-    pdflatex -interaction=nonstopmode main.tex && \
-    pdflatex -interaction=nonstopmode main.tex"
+    xelatex -interaction=nonstopmode main.tex && \
+    xelatex -interaction=nonstopmode main.tex"
 
 # Check if PDF was created
 if [ -f "main.pdf" ]; then
+    # Make a backup copy of the English PDF in case the move fails
+    cp "main.pdf" "main_backup.pdf"
+    # Move the PDF to the output directory
     mv "main.pdf" "output/el_tor_circular_economy_en.pdf"
     echo "✓ Successfully created output/el_tor_circular_economy_en.pdf"
+    # Verify the file exists in the output directory
+    if [ -f "output/el_tor_circular_economy_en.pdf" ]; then
+        echo "✓ Verified English PDF exists in output directory"
+    else
+        # If move failed, use the backup
+        if [ -f "main_backup.pdf" ]; then
+            cp "main_backup.pdf" "output/el_tor_circular_economy_en.pdf"
+            echo "✓ Used backup to create output/el_tor_circular_economy_en.pdf"
+            rm "main_backup.pdf"
+        else
+            echo "✗ Failed to save English PDF to output directory"
+        fi
+    fi
 else
-    echo "✗ Failed to compile main.tex"
+    echo "✗ Failed to compile main.tex with xelatex"
 fi
 
 # Compile Arabic version
