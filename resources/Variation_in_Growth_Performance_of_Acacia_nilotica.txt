@@ -1,0 +1,546 @@
+264
+Silvae Genetica 53, 5–6 (2004)
+ELLEGREN, H. (1992): Polymerase-chain reaction (PCR) analysis
+of microsatelliets-a new approach to studies of genetic rela-
+tionships in birds. Auk 109: 886–895.
+EXCOFFIER, L., P. E. SMOUSE and J. M. QUATTRO (1992): Analysis
+of molecular variance inferred from metric distances among
+DNA haplotypes: application to human mitochondrial DNA
+restriction data. Genetics 131: 479–491.
+GREENWOOD, M. S. (1986): Gene exchange in loblolly pine: the
+relation between pollination mechanism, female receptivity
+and pollen availability. Am J Bot 73: 1443–1451.
+HARDY, O. J., S. C. GONZALES-MARTINEZ, B. COLAS, H. FRVILLE,
+A. MIGNOT and I. OLIVIERI (2004): Fine-scale genetic struc-
+ture and gene dispersal in Centaurea corymbosa (Aster-
+aceae). II. Correlated paternity within and among shibships.
+Genetics 168: 1601–1614.
+ISAGI, Y., T. KANAZASHI, W. SUZUKI, H. TANAKA and T. ABE
+(2000): Microsatellite analysis of the regeneration process of
+Magnolia obovata Thunb. Heredity 84: 143–151.
+ISAGI, Y. and S. SUHANDONO (1997): PCR primers amplifying
+microsatellite loci of Quercus mysinifolia Blume and their
+conservation between oak species. Mol Ecol 6: 897–899.
+ITOW, S. (1991): Species turnover and diversity patterns along
+an evergreen broad-leaved forest cenocline. J Veg Sci 2:
+477–484.
+KAMPFER, S., C. LEXER, J. GLOSSL and H. STEINKELLNER (1998):
+Characterization of (GA)n microsatellite loci from Quercus
+robur. Hereditas 129: 183–186.
+KIRA, T. (1991): Forest ecosystem of east and southeast Asia in
+a global perspective. Ecol Res 6: 185-200.
+LEVIN, D. A. and H. W. KERSTER (1969): The dependence of bee-
+mediated pollen and gene dispersal upon plant density. Evo-
+lution 23: 560–571.
+LINHART, Y. B., W. H. BUSBY, J. H. BEACH and P. FEINSINGER
+(1987): Forager behavior, pollen dispersal and inbreeding in
+two species of hummingbird-pollinated plants. Evolution 41:
+679–682.
+MANABE, T., N. NISHIMURA, M. MIURA and S. YAMAMOTO (2000):
+Population structure and spatial patterns for trees in a tem-
+perate old-growth evergreen broad-leaved forest in Japan.
+Plant Ecol 151: 181–197.
+MANTEL, N. (1967): The detection of disease clustering and a
+generalized regression approach. Cancer Res 27: 209–220.
+MARSHALL, T. C., J. SLATE, L. E. B. KRUUK and J. M. PEMBERTON
+(1998): Statistical confidence for likelihood-based paternity
+inference in natural populations. Mol Ecol 7: 639–655.
+MOSQUIN, T. (1971): Competition for pollinators as a stimulus
+for the evolution of flowering time. Oikos 22: 398–402.
+MURRAY, M. G. and W. F. THOMPSON (1980): Rapid isolation of
+high molecular weight plant DNA. Nucleic Acids Res 8:
+4321–4325.
+NIXON, K. C. (1993): Infrageneric classification of Quercus
+(Fagaceae) and typification of sectional names. Annales des
+sciences forestieres (Suppl) 50: 25–34.
+QUELLER, D. C. and K. F. GOODNIGHT (1989): Estimating relat-
+edness using genetic markers. Evolution 43: 258–275.
+RAYMOND, M. and F. ROUSSET (1995): GENEPOP (version 1.2):
+population genetics software for exact tests and ecumeni-
+cism. Journal of Heredity 86: 248–249.
+SHARP, W. M. and H. H. CHISMAN (1961): Flowering and fruiting
+in the white oaks. I. Staminate flowering through pollen dis-
+persal. Ecology 42: 365–372.
+SMOUSE, P. E., R. J. DYER, R. D. WESTFALL and V. L. SORK
+(2001): Two-generation analysis of pollen flow across a land-
+scape. I. Male gamete heterogeneity among females. Evolu-
+tion 55: 260–271.
+STEINKELLNER, H., S. FLUCH, E. TURETSCHEK, C. LEXER, R.
+STREIFF, A. KREMER, K. BURG and J. GLOSSL (1997): Identifi-
+cation and characterization of (GA/CT)n – microsatellite loci
+from Quercus petraea. Plant Mol Bio 33: 1093–1096.
+STREIFF, R., A. DUCOUSSO, C. LEXER, H. STEINKELLNER, J.
+GLOESSL and A. KREMER (1999): Pollen dispersal inferred
+from paternity analysis in a mixed oak stand of Quercus
+roubur L. and Q. petraea (Matt.) Liebl. Mol Ecol 8: 831–841.
+TAGAWA, H. (1995): Distribution of lucidophyll oak-laurel forest
+formation in Asia and other areas. Tropics 5: 1–40.
+WHITLOCK, M. C. and D. E. MCCAULEY (1999): Indirect mesures
+of gene flow and migration: FST ≠1 / (4Nm + 1). Heredity 82:
+117–125.
+Abstract
+Results of a provenance trial of Acacia nilotica Willd. ex Del.
+laid out in 1993 at Tropical Forest Research Institute Campus,
+Jabalpur (23°N lat., 79°E long. and 400 m altitude) Madhya
+Pradesh, a semi-arid region of India are reported and dis-
+cussed. Nineteen provenances from India, Pakistan, Sudan,
+Senegal and Yemen were evaluated in the field at age three
+and six years. Local source of A. nilotica (S.F.R.I., Jabalpur)
+was used as check material for comparison. Significant differ-
+ences between the provenances (P < 0.05) were observed for
+height, diameter at breast height (DBH), number of branches
+and field survival. The provenances from Gujrat (Punjab), Pak-
+istan, ranked first for growth traits namely height, DBH and
+survival. The next superior provenance was from Beihan,
+Yemen, which scored second highest values of height and DBH
+and had good survival at age six years. Results indicate that
+Variation in Growth Performance of Acacia nilotica Willd. ex Del. Provenances
+of Wide Geographical Origin : Six Year Results
+By H. S. GINWAL* and A. K. MANDAL
+Division of Genetics and Tree Propagation, Forest Research Institute, P.O. I.P.E. Kaulagarh Road, 
+Dehradun (Uttaranchal)  – 248195 INDIA
+(Received 8th November 2004)
+*) Author for correspondence
+(e-mail: ginwalhs@icfre.org; ginwalhs@rediffmail.com)
+
+265
+genetic differences exist between the provenances of A.nilotica.
+None of the traits assessed (viz. height, DBH, number of
+branches, inter-nodal length and survival) were found to corre-
+late with any of the geographical coordinates of the prove-
+nances (latitude, longitude and altitude). Height, DBH and
+number of branches showed significant and positive correlation
+with each other. Fair differences between phenotypic and geno-
+typic coefficient of variability were observed. Heritability val-
+ues were found fairly good for height, DBH and number of
+branches as compared to inter-nodal length. The relative per-
+formance of these provenances was fairly consistent through-
+out the period of observation at three and six year. The two
+sources viz. Gujrat (Punjab), Pakistan and Beihan, Yemen, are
+recommended for plantation programme under semi-arid con-
+ditions.
+Key words: Acacia nilotica, variation, provenance, seed source, genetic
+improvement, productivity, heritability.
+Introduction
+Acacia nilotica Willd. ex Del. is a fast growing multipurpose
+tree species of India that provides high quality wood and other
+products (ANON., 1980). It is recognized into nine subspecies or
+varieties and is a very variable species with a natural distribu-
+tion covering large tracts of tropical and subtropical Africa and
+Asia (BRENAN, 1983; ROSS, 1979). In India, it occurs extensively
+on a wide strip from north to south of the country under varied
+ecological conditions, though it is widely planted in afforesta-
+tion programmes in the plains of arid and semi-arid regions.
+Farmers with small holding value this leguminous species by
+virtue of its nitrogen fixing ability and improving the fertility
+of soil, good coppicing ability, green manure, providing fodder,
+fuel, timber to some extent and excellent characteristics as an
+agroforestry tree species (VISHWANATH and KAUSHIK, 1993). It is
+also a most sought after species for afforestation program in
+controlling the shifting sand dunes, coastal sands, river beds,
+saline lands, dry and degraded lands and waste lands where
+rainfall is scanty and erratic.
+In India, A. nilotica though occurs naturally in extensive
+areas but due to a long history of selective felling and biotic
+interference has resulted it in small discrete populations that
+appear degraded. These dwindling natural populations are the
+basic material for future breeding and are the only source
+material for bringing improvement in future plantations.
+Hence a comprehensive exploration and mapping of natural
+populations, which are disappearing fast needed to be under-
+taken (GINWAL and GERA, 2000). 
+The significance of genetic variation studies and provenance
+testing in forest tree improvement is very well realized (PRYOR,
+1963; CALLAHAM, 1964; WRIGHT, 1976). Exploration of naturally
+Table 1. – Details of provenances of Acacia nilotica and their geographical locations.
+
+266
+existing variability offers scope to tree breeder for making
+rapid genetic advance at relatively low cost in terms of energy
+and finance. The form and growth of A. nilotica varies consid-
+erably in different provenances (SHIVKUMAR and BANERJEE,
+1986; KRISHAN and TOKY, 1995). Considerable seed source and
+provenance difference in A. nilotica have been reported in seed,
+seedling characteristics and early growth performance in many
+recent studies conducted in India (GINWAL et al., 1994, 1995,
+1996; MATHUR et al., 1984; SHIVKUMAR and BANERJEE, 1986;
+BAGCHI et al., 1990; BAGCHI and DOBRIYAL, 1990). However,
+information on field performance of the provenances is little
+(SHIVKUMAR and BANERJEE, 1986; KRISHAN and TOKY, 1995),
+that too on provenances emanating from wide geographical
+zones.
+The apparent high phenotypic variability between the popu-
+lations (SHIVKUMAR and BANERJEE, 1986; GINWAL et al., 1995,
+1996; KRISHAN and TOKY, 1995) in seed and seedling character-
+istics of A. nilotica warrants for evaluating provenances in field
+for achieving the economic benefits through selection. The pre-
+sent investigation was undertaken to find out the pattern and
+magnitude of genetic variation in growth characteristics of 20
+A. nilotica provenances of wide geographical origin represent-
+ing five countries viz. India, Sudan, Senegal, Pakistan and
+Yemen. The objective was to identify the best provenance based
+on growth and adaptability, which could be utilized for refor-
+estation work for enhancement in productivity of the planta-
+tions and also in genetic improvement programme. 
+Material and Methods
+The study was conducted in the experimental area of Tropi-
+cal Forest Research Institute, Jabalpur (situated between 23°
+5’ 07’’ to 23° 6’ 10’’ N lat. and 79° 59’ 49’’ to 79° 59’ 42’’ E. long.,
+400 meter altitude), India. The area enjoys semi-arid type of
+climate with mean annual rainfall 1350 mm. The soil of the
+experimental area is well drained, clay loam with shallow
+depth (25–50 cm) and contains slight surface stoniness (3–5%).
+Seeds of 19 different provenances were received through
+DANIDA Forest Seed Center, Denmark, during 1992 (Table 1).
+The local population from State Forest Research Institute
+(S.F.R.I.), Jabalpur was used as check material (local control).
+Seeds were pretreated with boiled water for 5 minutes prior to
+sowing. 400 seeds of each of the 19 provenances along with con-
+trol (check material) were directly sown in polythene bags (20 x
+40 cm size with one seed per bag) containing potting mixture of
+sand, soil and farm yard manure in the ratio of 1:1:1 (by vol-
+ume). The polythene bags were placed in nursery on a poly-
+thene sheet in randomized complete block design with 4 repli-
+cations in an open ground and watered daily. The germination
+of the seeds was recorded and the seedlings were maintained in
+the nursery till they attained a plantable height.
+Four-month-old seedlings were planted in the field (pit size
+60 x 60 x 60 cm) in August 1993 in a randomized complete
+block design with 4 replications. Each provenance constituted a
+square plot with 25 trees (5 x 5) at the spacing of 3 x 3 m
+between plants. Nine central trees in each plot constituted the
+measuring unit. The assessment of the trial for various traits
+viz. plant height (m), diameter at breast height (cm), number of
+branches, inter-nodal length and survival per cent was made
+on yearly basis in September every year. In this paper the
+growth data recorded in September 1996 and 1999 have been
+reported and described. 
+The data were subjected to analysis of variance (ANOVA) for
+confirming the differences between the provenances and fur-
+ther analyzed for Least Significant Difference (LSD), test for
+checking the homogeneity between the provenances using
+SPSS (Version 6.1) computer program (SPSS Inc. 233 S. Wack-
+er Drive, 11th floor, Chicago, IL 60606-6307). Coefficient of vari-
+ation (CV%) and linear correlation coefficient among the stud-
+ied traits and with latitude, longitude and altitude of seed ori-
+gin of the provenances were calculated as described by
+SNEDECOR and COCHRAN (1967). Genotypic and phenotypic vari-
+ances and their coefficient of variation and heritability were
+calculated using the method of KEMPTHORNE (1957).
+Table 2. – Growth performance of various provenances after three and six year of field planting.
+Means followed by the same letter(s) do not differ (P < 0.05)  by LSD test.
+* P < 0.05  level of significance, *** P < 0.001 level of significance, NS – non significant. CD = critical difference, SE = standard error of mean.
+
+267
+Results
+The provenances under the trial belongs to two African sub-
+species viz. nilotica and tomentosa and two Indian varieties viz.
+subsp. indica var. cupressiformis and subsp. indica var. jaque-
+montii. However, no apparent pattern of differences was
+observed between the different subspecies included in the trial.
+Data on field growth (three and six years) in respect of mor-
+phological traits viz. height, diameter at breast height (DBH),
+number of branches, inter-nodal length and survival percent-
+age pertaining to 20 provenances are presented in Table 2.
+Variation between the provenances in growth traits at the age
+of three years was found significant (P < 0.05) except for sur-
+vival per cent. The provenance S16 attained a maximum
+height, followed by S17, S5, and S15, which were statistically
+at par with each other. These provenances performed better
+than the local (control) seed source S20. Similarly maximum
+diameter (DBH) was registered in S16 followed by S17, and S1.
+These were also statistically at par in performance. The S9
+provenance resulted in the minimum height and DBH. The S5
+provenance was found to be the most-branchy one, however it
+was at par with S17, S16, S2, S19, S13, S10 and S6. Field sur-
+vival was recorded maximum in S16, which was closely fol-
+lowed by S14, S7 and S6. The minimum survival was observed
+in S13 provenance. The range of variation was considerably
+good in respect of the traits studied as evident from the values
+of coefficient of variation. Over all, the performance of S16, S17
+and S5 provenances was found better than others.
+A clear-cut distinction in the performance of the provenances
+was observed at age six years (Table 2) wherein the S16 prove-
+nance out ranked the rest. Though maximum height growth
+was shown by S16 at this age, but was statistically at par with
+other 11 provenances viz. S17, S13, S15, S5, S1, S2, S19, S14,
+S10, S6 and S3. The S9 provenance registered the minimum
+height, but was at par with S18, S8, S20 and S12. The local
+seed source S20 performed very poor and ranked fourth-last in
+respect of height growth. A similar pattern in DBH was
+observed wherein S16 put maximum diameter followed by S17
+and S19. However, these three provenances were observed sta-
+tistically at par in respect of DBH. The lowest DBH was
+recorded in S9 provenance. The S5 provenance maintained its
+superiority even at age six years and produced maximum num-
+ber of branches. However, it was at par with S17, S16, S2, S13,
+S19, S6 and S10 for this trait. The S8 source showed the lowest
+number of branches. The inter-nodal length was recorded max-
+imum in S2 and minimum in S7. No significant differences
+were observed between the provenances for inter-nodal length.
+The S16 provenance also registered its superiority with a fair
+margin in respect of survival per cent (88.9%). The per cent
+survival in local seed source S20 was 61.1%. The lowest sur-
+vival (35.3%) was however recorded in S12. The coefficient of
+variation for height, DBH, number of branches, inter-nodal
+length and field survival was found to be 7.31, 6.63, 11.21, 2.57
+and 19.17 per cent respectively.
+Based on the performance of provenances at age three and
+six years, the fastest growth was recorded in S16 thus making
+it most promising in comparison to other sources. The perfor-
+mance of this provenance remained consistent throughout the
+observation period of three and six years age. The local control
+S20 did not perform well during the period of observation and
+stood far behind many provenances with a fair margin particu-
+larly in height, DBH and survival.
+The correlation coefficient (r) among the various traits across
+the age is presented in Table 3. Height was found to have high-
+er significant positive relationship (P < 0.01) with DBH and
+number of branches at age three and six years. DBH was found
+to have significant positive relationship (P < 0.01) with number
+of branches at both observation periods. Height, DBH and
+number of branches at age three years were found significantly
+and positively correlated with height, DBH and number of
+branches at six age years. Field survival of both the observa-
+tion periods showed inter-correlation significantly and positive-
+ly with each other. 
+Variance components and broad sense heritability for growth
+traits at age six years are presented in Table 4. There were fair
+differences between the values of genotypic and phenotypic
+variance and genotypic and phenotypic co-efficient of variation
+for all the characters. Estimates of heritability (%) of growth
+traits were moderate to high which ranged from 5.46 to
+39.42%. High heritability was obtained for number of branch-
+es, height and DBH, however the values for the same were low
+in respect of inter-nodal length. 
+Discussion
+A. nilotica is a very variable species in habit and morphology
+which evidenced in nine subspecies, and this is reflected in the
+manner in which their prime use varies depending on the
+Table 3. – Correlation coefficient (r) among the various traits.
+**  Significant at the 0.01 level (2-tailed).
+
+268
+region (RAEBILD et al., 2003). The two African subspecies
+included in this trial, nilotica and tomentosa differ in their eco-
+logical requirements (VON MAYDELL, 1986; ROSS, 1979; FAGG
+and BARNES, 1990). Indian subspecies indica is naturally river-
+ine forming low altitude dry forests but it has come to be wide-
+ly planted as a farm tree on the plains throughout the subcon-
+tinent (RAEBILD et al., 2003). One reason of large variability
+may be the existence of subspecies in provenances, which may
+show variability in morphology and growth due to differences
+in their different ecological requirements. The differences in
+growth and adaptability are largely of geographic origin and
+are of genetic nature. It is mainly due to the fact that the
+provenances originated over a wide range of rainfall, tempera-
+ture and soil types in Africa and Asia and might have experi-
+enced marked differences in selective pressure. 
+Height and diameter are considered as the most important
+parameters in the evaluation of species and provenances. Apart
+from indicating productivity and volume they may also be seen
+as a measure of the adaptability of trees to the environment,
+tall provenances/trees usually being better adapted to the site
+than small provenances/trees (RAEBILD et al., 2003). Result of
+this trial indicates that the provenances of countries other than
+India particularly Pakistan and Yemen are better performing
+under the Jabalpur (M.P.) conditions. The provenances from
+Gujrat (Punjab), Pakistan had by far the best performance, and
+the growth of provenances from India was moderately good.
+The local source could not perform well and lagged behind with
+a fair margin. No explanatory reason for the poor performance
+of the local source can be given at this stage however, it
+appears that many of the provenances originated from areas
+having lesser precipitation than that at Jabalpur (M.P.) India.
+They are expected to develop better adaptability characters
+than those provenances, which emanate from higher rain-fed
+areas. The reason for better growth performance of majority of
+Pakistan provenances in India could be attributed to the mon-
+soon rainfall in July, August and September months in both the
+countries. Many Indian provenances also perform well with
+respect to the height and diameter of the trees viz. S5 from
+Nizamabad (A.P.), S6 from Azamgarh (U.P.), S19 from Mahen-
+dergarh (Haryana) and S10 from Maratwara (Maharashtra). 
+Survival of plants indicates the adaptability of the prove-
+nance to the environment at the trial site. There was a large
+variation in the survival, ranging from 35.3 to 88.9%. Among
+the provenances from India, Sudan, Senegal, Pakistan and
+Yemen, only the provenance of Gujrat (Punjab), Pakistan had a
+survival approaching 90%. The provenances from Sudan had
+comparatively better survival (above 70%) than the prove-
+nances from Senegal and Pakistan. Indian provenances viz. S6
+from Ajamgarh (U.P.), S7 from Salem (Tamilnadu), S9 from
+Pune (Maharashtra) and S10 from Marathwara (Maharashtra)
+also performed well in survival per cent. The better survival in
+Sudanese provenances has also been reported by RAEBILD et al.
+(2003). Sudanese provenances are expected to have better
+adaptation mechanism to dryer and harsh conditions and
+therefore may have shown better survival under semi-arid test
+conditions. Comparing the origin of the provenances with the
+conditions of the site no clear picture emerges. One would be
+interested to expect that a match between climate at the origin
+and climate at the test site, but the data do not clearly support
+this.
+The local seed source in the present study ranked very low in
+comparison to others, which is an indication that there is a
+good scope of selection of promising genotypes from the study
+material and introduction of germplasm of superior prove-
+nances from Pakistan, Yemen and other African countries for
+the enhancement of productivity. The extent of variability in
+the base population is measured by different population para-
+meters including genotypic and phenotypic variations and
+genotypic and phenotypic co-efficient of variation (SUBRAMAN-
+IAN et al., 1995). In the present study there were considerable
+differences between the values of genotypic and phenotypic co-
+efficient of variation for all the characters. This indicates that
+these characters are sensitive to environmental changes (SUB-
+RAMANIAN et al., 1995). The genotypic co-efficient of variation is
+comparatively low than the phenotypic coefficient of variation
+for all the studied traits. The heritability values for the studied
+traits were fairly good for height, diameter and number of
+branches. High heritabilities in conjunction with high genetic
+coefficient of variation (GCV) have been reported to be advan-
+tageous for practicing selection (HANSON et al., 1956; BAGCHI et
+al., 1990). Further, the significant provenance difference cou-
+pled with lower error variance signifies heritability for these
+traits. Heritability in broad sense may give useful indication
+about the relative value of selection in material in hand and
+hence an effective selection may bring improvement in those
+traits.
+In view of high heritability for height, diameter, number of
+branches and their significant positive inter-relationship at age
+6 years, indicate that possible simultaneous improvement
+could be obtained while selecting for one or the other trait.
+Such relationships may be used to the advantage of the breeder
+for the improvement of these traits. Variation for all the stud-
+ied traits was observed non-clinal type as none of the studied
+trait was found to bear any significant correlation with any of
+the geographic coordinates i.e. latitude, longitude and altitude.
+It would not be justified to draw a conclusion that the Indian
+provenances cannot perform better than the provenances of
+Pakistan and Yemen until and unless more provenances of
+Indian origin are studied for their performance as A. nilotica
+has wide distribution range in India. However, the results of
+this study can be applied in taking decision of development of
+new breeding populations of selected sources of Pakistan and
+Yemen. Further the existence of significant differences among
+twenty provenances of A. nilotica, for growth performance at
+age 6 years in field, provides a firm base for establishment of
+wide-range provenance test; using more evenly distributed pop-
+ulations from the whole range of the species. The two prove-
+nances, which ranked high on the basis of growth and survival
+viz. Gujrat (Punjab), Pakistan and Beihan, Yemen, can be con-
+sidered for large scale planting programme at Jabalpur (M.P.)
+site and nearby area under semi-arid conditions. The perfor-
+mance of these two provenances was consistent across the age.
+Among the Indian provenances the choice remains between
+provenance from Nizamabad (A.P.), Azamgarh (U.P.), Mahen-
+dergarh (Haryana) and Maratwara (Maharashtra). The work
+further gives a direction to effect and practice selection and ini-
+tiate studies for genetic improvement of this species. 
+Table 4. – Estimates of genetic parameters for growth traits at age 6
+years.
+
+Silvae Genetica 53, 5–6 (2004)
+269
+Acknowledgement
+The authors are grateful to the Director, Tropical Forest
+Research Institute, Jabalpur (M.P.) India, for providing neces-
+sary facilities for conducting the experiments and DFSC for
+supplying the seeds of different provenances.
+References
+ANON. (1980): Fire wood crops : Shrubs and tree species for
+energy production. NAS. Washington, DC, 237 pp. 
+BAGCHI, S. K. and N. D. DOBRIYAL (1990): Provenance variation
+in seed parameters of Acacia nilotica. Indian Forester 116:
+958–961.
+BAGCHI, S. K., D. N. JOSHI and D. S. RAWAT (1990): Variation in
+seed size of Acacia sp. Silvae Genetica 39: 3–4.
+BRENAN, J. P. M. (1983): Manual on taxonomy of Acacia species:
+present taxonomy of four species of Acacia (A. albida, 
+A. senegal, A. nilotica, A. tortilis). FAO, Rome, Italy. 47 pp.
+CALLAHAM, R. Z. (1964): Provenance research: investigation of
+genetic diversity associated with geography. Unasylva 18:
+40–50.
+FAGG, C. W. and R. D. BARNES (1990): African Acacias: Study
+and acquisition of the genetic resources. Final report, ODA
+Research Scheme R.4348, Oxford Forestry Institute, UK. 170
+pp.
+GINWAL, H. S. and M. GERA (2000): Genetic variation in seed
+germination and growth performance of 12 Acacia nilotica
+provenances in India. Journal of Tropical Forest Science 12
+(2): 286–297.
+GINWAL, H. S., M. GERA and R. L. SRIVASTAVA (1994): Germina-
+tion studies on various provenances of Acacia nilotica. Range
+Management and Agroforestry 15 (2): 187–197.
+GINWAL, H. S., M. GERA and R. L. SRIVASTAVA (1995): Prove-
+nance variation in growth and biomass production of Acacia
+nilotica willd. ex Del. seedlings under nursery conditions.
+Annals of Forestry 3 (1): 35–44.
+GINWAL, H. S., M. GERA and R. L. SRIVASTAVA (1996): Seed
+source variability in some seed and seedling characteristics
+of twenty provenances of Acacia nilotica Willd. ex. Del.
+Range Management & Agroforestry 17 (1): 49–59.
+HANSON, C. H., H. F. ROBINSON and R. E. COMSTOCK (1956):
+Biometrical studies of yield in segregating populations of
+Korean Lespedeza. Agron. J. 48: 268–272.
+KEMPTHORNE, O. (1957): An introduction to genetic statistics.
+John Willey and Sons Ltd., New York.
+KRISHAN, B. and O. P. TOKY (1995): Provenance variation in
+growth characteristics of Acacia nilotica ssp. indica in arid
+India. Indian Forester 121(3): 179–186.
+MATHUR, R. S., K. K. SHARMA and M. M. S. RAWAT (1984):
+Germination behaviour of various provenances of Acacia
+nilotica ssp. indica. Indian Forester 110: 435–449.
+PRYOR, L. D. (1963): Provenance in tree improvement with
+particular reference to Eucalyptus. World Consultation on
+Forest Genetics and Tree Improvement. FAO/FORGEN 3/2.
+RAEBILD, A., DIALLO, BOUKARY OUSMANE, GRAUDAL, LARS, DAO,
+MADJELIA and SANOU, JOSIAS (2003): Evaluation of a species
+and provenance trial of Acacia nilotica and A. tortilis at
+Gonsé, Burkina Faso. Trial no. 11 in the arid zone series
+Results and Documentation No. 10. Danida Forest Seed Cen-
+tre, Humlebaek, Denmark.
+ROSS, J. H. (1979): A conspectus of the African Acacia species.
+Memoirs of the Botanical Survey of South Africa, 44, 155 pp.
+SHIVKUMAR, P. and A. C. BANERJEE (1986): Provenance trial of
+Acacia nilotica. Journal of Tree Science 5 (1): 53–56.
+SNEDECOR, G. W. and W. G. COCHRAN (1967): Statistical Meth-
+ods. Oxford and IBH, New Delhi, 593 pp.
+SUBRAMANIAN, K. N., A. K. MANDAL and A. NICODEMUS (1995):
+Genetic variability and character association in Eucalyptus
+grandis. Annals of Forestry 3 (2): 134–137.
+VISHWANATH, S. and P. K. KAUSHIK (1993): Acacia nilotica paddy
+agroforestry system of Chattisgarh India. Asia Pacific Agro-
+forestry Network News. No 5, pp. 8.
+VON MAYDELL, H.-J. (1986): Trees and Shrubs of the Sahel,
+Their Characteristics and Uses. TZ-Verlagsgesellschaft,
+Rossdorf, Germany. 525 pp.
+WRIGHT, J.W. (1976): Introduction to Forest Genetics. Academic
+Press, New York 463 pp.
+Correlation and Path Analysis Studies Between Biomass 
+and Other Characters in Bombax ceiba L.
+By O. P. CHATURVEDI* and N. PANDEY
+Department of Forestry, Rajendra Agricultural University Pusa (Samastipur) – 848 125, Bihar, India
+(Received 2nd February 2005)
+*) Present address: National Research Centre for Agroforestry, Jhansi-
+284003, Uttar Pradesh, India.
+Abstract
+The genotypic and phenotypic correlation and path analysis
+of plant biomass, plant height, stem diameter and other bio-
+mass component traits were analyzed in thirty provenances of
+Bombax ceiba. In general, the magnitude of genotypic correla-
+tions was higher than phenotypic correlations. Stem diameter
+and plant biomass showed highly significant genotypic correla-
+tions with all the traits except the number of secondary
+branches and plant biomass with leaf biomass. Plant height
+had the highest positive direct effect on plant biomass followed
+by the number of primary branches/plant and the number of
+leaves/plant. On the basis of this study, a higher plant biomass
+would be achieved through direct selection based on plant
+height, the number of primary branches and the number of
+leaves/plant. Therefore, the study is important in selection of
+traits of economic importance based on other characters, whose
+direct effect is not visible.
+Key words: Bombax ceiba L., provenance, plant biomass, biomass char-
+acters, genotypic and phenotypic correlation, path coefficient.

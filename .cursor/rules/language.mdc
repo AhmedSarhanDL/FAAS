@@ -1,0 +1,9 @@
+---
+description: Always write your answer in arabic and english within relevant files if possiblex.
+globs: 
+alwaysApply: false
+---
+
+Always write your answer in arabic and english within relevant files if possible
+
+@*.tex
