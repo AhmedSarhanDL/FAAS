@@ -15,12 +15,20 @@
 
 % Graphics and layout packages
 \usepackage{graphicx}
-\usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{float}
 \usepackage{geometry}
 \geometry{margin=2.5cm}
+
+% Better table of contents handling
+\usepackage{tocbibind}  % Include all headings in the TOC
+\usepackage{tocloft}    % For better control of TOC formatting
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftaftertoctitleskip}{1em}
+
+% Hyperref should be loaded last (except for packages that need to be after it)
+\usepackage[hidelinks]{hyperref}
 
 % Fix for Unicode subscripts
 \DeclareUnicodeCharacter{2082}{\ensuremath{_2}}
@@ -41,8 +49,16 @@
 
 \begin{document}
 
+% Title page
 \maketitle
+
+% Table of contents page
+\frontmatter
 \tableofcontents
+\clearpage
+
+% Main content
+\mainmatter
 
 \chapter{Introduction to El Tor Circular Economy}
 \input{el_tor_circular_economy/shared_documents/site_master_plan}
@@ -58,79 +74,79 @@
 \input{el_tor_circular_economy/units/azolla_farming/integration_plan}
 
 \chapter{Biodiesel Production}
-\input{units/biodiesel_production/overview}
-\input{units/biodiesel_production/strategic_plan}
-\input{units/biodiesel_production/operational_plan}
-\input{units/biodiesel_production/financial_plan}
-\input{units/biodiesel_production/resource_requirements}
-\input{units/biodiesel_production/risk_management}
-\input{units/biodiesel_production/sustainability_plan}
-\input{units/biodiesel_production/integration_plan}
+\input{el_tor_circular_economy/units/biodiesel_production/overview}
+\input{el_tor_circular_economy/units/biodiesel_production/strategic_plan}
+\input{el_tor_circular_economy/units/biodiesel_production/operational_plan}
+\input{el_tor_circular_economy/units/biodiesel_production/financial_plan}
+\input{el_tor_circular_economy/units/biodiesel_production/resource_requirements}
+\input{el_tor_circular_economy/units/biodiesel_production/risk_management}
+\input{el_tor_circular_economy/units/biodiesel_production/sustainability_plan}
+\input{el_tor_circular_economy/units/biodiesel_production/integration_plan}
 
 \chapter{Livestock Management}
-\input{units/livestock_management/overview}
-\input{units/livestock_management/strategic_plan}
-\input{units/livestock_management/operational_plan}
-\input{units/livestock_management/financial_plan}
-\input{units/livestock_management/resource_requirements}
-\input{units/livestock_management/risk_management}
-\input{units/livestock_management/sustainability_plan}
-\input{units/livestock_management/integration_plan}
+\input{el_tor_circular_economy/units/livestock_management/overview}
+\input{el_tor_circular_economy/units/livestock_management/strategic_plan}
+\input{el_tor_circular_economy/units/livestock_management/operational_plan}
+\input{el_tor_circular_economy/units/livestock_management/financial_plan}
+\input{el_tor_circular_economy/units/livestock_management/resource_requirements}
+\input{el_tor_circular_economy/units/livestock_management/risk_management}
+\input{el_tor_circular_economy/units/livestock_management/sustainability_plan}
+\input{el_tor_circular_economy/units/livestock_management/integration_plan}
 
 \chapter{Vermicomposting and Biochar}
-\input{units/vermicomposting_biochar/overview}
-\input{units/vermicomposting_biochar/strategic_plan}
-\input{units/vermicomposting_biochar/operational_plan}
-\input{units/vermicomposting_biochar/financial_plan}
-\input{units/vermicomposting_biochar/resource_requirements}
-\input{units/vermicomposting_biochar/risk_management}
-\input{units/vermicomposting_biochar/sustainability_plan}
-\input{units/vermicomposting_biochar/integration_plan}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/overview}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/strategic_plan}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/operational_plan}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/financial_plan}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/resource_requirements}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/risk_management}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/sustainability_plan}
+\input{el_tor_circular_economy/units/vermicomposting_biochar/integration_plan}
 
 \chapter{Date Palm Cultivation}
-\input{units/date_palm_cultivation/overview}
-\input{units/date_palm_cultivation/strategic_plan}
-\input{units/date_palm_cultivation/operational_plan}
-\input{units/date_palm_cultivation/financial_plan}
-\input{units/date_palm_cultivation/resource_requirements}
-\input{units/date_palm_cultivation/risk_management}
-\input{units/date_palm_cultivation/sustainability_plan}
-\input{units/date_palm_cultivation/integration_plan}
+\input{el_tor_circular_economy/units/date_palm_cultivation/overview}
+\input{el_tor_circular_economy/units/date_palm_cultivation/strategic_plan}
+\input{el_tor_circular_economy/units/date_palm_cultivation/operational_plan}
+\input{el_tor_circular_economy/units/date_palm_cultivation/financial_plan}
+\input{el_tor_circular_economy/units/date_palm_cultivation/resource_requirements}
+\input{el_tor_circular_economy/units/date_palm_cultivation/risk_management}
+\input{el_tor_circular_economy/units/date_palm_cultivation/sustainability_plan}
+\input{el_tor_circular_economy/units/date_palm_cultivation/integration_plan}
 
 \chapter{Acacia Cultivation}
-\input{units/acacia_cultivation/overview}
-\input{units/acacia_cultivation/strategic_plan}
-\input{units/acacia_cultivation/operational_plan}
-\input{units/acacia_cultivation/financial_plan}
-\input{units/acacia_cultivation/resource_requirements}
-\input{units/acacia_cultivation/risk_management}
-\input{units/acacia_cultivation/sustainability_plan}
-\input{units/acacia_cultivation/integration_plan}
+\input{el_tor_circular_economy/units/acacia_cultivation/overview}
+\input{el_tor_circular_economy/units/acacia_cultivation/strategic_plan}
+\input{el_tor_circular_economy/units/acacia_cultivation/operational_plan}
+\input{el_tor_circular_economy/units/acacia_cultivation/financial_plan}
+\input{el_tor_circular_economy/units/acacia_cultivation/resource_requirements}
+\input{el_tor_circular_economy/units/acacia_cultivation/risk_management}
+\input{el_tor_circular_economy/units/acacia_cultivation/sustainability_plan}
+\input{el_tor_circular_economy/units/acacia_cultivation/integration_plan}
 
 \chapter{Olive Cultivation}
-\input{units/olive_cultivation/overview}
-\input{units/olive_cultivation/strategic_plan}
-\input{units/olive_cultivation/operational_plan}
-\input{units/olive_cultivation/financial_plan}
-\input{units/olive_cultivation/resource_requirements}
-\input{units/olive_cultivation/risk_management}
-\input{units/olive_cultivation/sustainability_plan}
-\input{units/olive_cultivation/integration_plan}
+\input{el_tor_circular_economy/units/olive_cultivation/overview}
+\input{el_tor_circular_economy/units/olive_cultivation/strategic_plan}
+\input{el_tor_circular_economy/units/olive_cultivation/operational_plan}
+\input{el_tor_circular_economy/units/olive_cultivation/financial_plan}
+\input{el_tor_circular_economy/units/olive_cultivation/resource_requirements}
+\input{el_tor_circular_economy/units/olive_cultivation/risk_management}
+\input{el_tor_circular_economy/units/olive_cultivation/sustainability_plan}
+\input{el_tor_circular_economy/units/olive_cultivation/integration_plan}
 
 \chapter{Shared Resources and Infrastructure}
-\input{shared_documents/land_management_plan}
-\input{shared_documents/water_management_plan}
-\input{shared_documents/circular_economy_integration}
-\input{shared_documents/logistics_operations_plan}
-\input{shared_documents/technology_infrastructure}
-\input{shared_documents/governance_framework}
-\input{shared_documents/community_social_impact}
-\input{shared_documents/climate_risk_resilience}
+\input{el_tor_circular_economy/shared_documents/land_management_plan}
+\input{el_tor_circular_economy/shared_documents/water_management_plan}
+\input{el_tor_circular_economy/shared_documents/circular_economy_integration}
+\input{el_tor_circular_economy/shared_documents/logistics_operations_plan}
+\input{el_tor_circular_economy/shared_documents/technology_infrastructure}
+\input{el_tor_circular_economy/shared_documents/governance_framework}
+\input{el_tor_circular_economy/shared_documents/community_social_impact}
+\input{el_tor_circular_economy/shared_documents/climate_risk_resilience}
 
 \chapter{Appendices}
-\input{appendices/financial_tables}
-\input{appendices/market_data}
-\input{appendices/experimental_data}
-\input{appendices/compliance_certificates}
+\input{el_tor_circular_economy/appendices/financial_tables}
+\input{el_tor_circular_economy/appendices/market_data}
+\input{el_tor_circular_economy/appendices/experimental_data}
+\input{el_tor_circular_economy/appendices/compliance_certificates}
 
 \end{document} 

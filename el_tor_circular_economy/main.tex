@@ -1,21 +1,65 @@
 % El Tor Circular Economy - Master Document
 % This document integrates all unit reports for the El Tor Circular Economy project
 
-\documentclass[12pt,a4paper]{report}
+\documentclass[12pt,a4paper,twoside]{report}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setmainlanguage{english}
-% Remove Arabic language setup from main English document
-\newfontfamily\englishfont{Times New Roman}
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
+% Use Nimbus Roman instead of Times New Roman (which is not available in the Docker image)
+\newfontfamily\englishfont{Nimbus Roman No9 L}
+% Remove the inputenc and babel packages as they conflict with polyglossia and XeLaTeX
+% \usepackage[utf8]{inputenc}
+% \usepackage[english]{babel}
 \usepackage{graphicx}
-\usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{float}
 \usepackage{geometry}
 \geometry{margin=2.5cm}
+
+% Configure TOC depth
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+% Configure hyperref for better TOC and cross-references
+\usepackage[hidelinks,
+            bookmarks=true,
+            bookmarksopen=true,
+            bookmarksnumbered=true,
+            colorlinks=true,
+            linkcolor=blue,
+            urlcolor=blue,
+            citecolor=blue]{hyperref}
+
+% Add bookmark package for better PDF bookmarks
+\usepackage{bookmark}
+
+% Add before hyperref
+\usepackage{tocloft}
+\usepackage{titlesec}
+
+% Format chapter titles correctly with chapter numbers
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+
+% Format section titles
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+% Format TOC
+\renewcommand{\cfttoctitlefont}{\hfill\Huge\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftchapfont}{\Large\bfseries}
+\renewcommand{\cftsecfont}{\normalsize}
+\renewcommand{\cftsubsecfont}{\normalsize}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftchappagefont}{\normalsize\bfseries}
+\renewcommand{\cftsecpagefont}{\normalsize}
+\renewcommand{\cftsubsecpagefont}{\normalsize}
 
 \title{El Tor Circular Economy\\
 \large Integrated Sustainable Agricultural System}
@@ -24,8 +68,14 @@
 
 \begin{document}
 
+% Force a PDF bookmark for the title
+\pdfbookmark[0]{Title Page}{title}
 \maketitle
+
+% Force a PDF bookmark for the TOC
+\pdfbookmark[0]{Table of Contents}{toc}
 \tableofcontents
+\clearpage
 
 \chapter{Introduction to El Tor Circular Economy}
 \input{shared_documents/site_master_plan}
@@ -111,7 +161,6 @@
 \input{units/olive_cultivation/integration_plan}
 
 \chapter{Shared Resources}
-\input{shared_documents/site_master_plan}
 \input{shared_documents/water_management_plan}
 %\input{shared_documents/energy_management}
 %\input{shared_documents/waste_management}

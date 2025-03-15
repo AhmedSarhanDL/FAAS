@@ -27,18 +27,18 @@
 \begin{itemize}
     \item \textbf{موارد المياه:}
     \begin{itemize}
-        \item مياه الصرف المعالجة
-        \item الجريان السطحي الزراعي
-        \item مياه الصرف من الاستزراع المائي
-        \item حصاد مياه الأمطار
+        \item مياه الصرف المعالجة (\ref{sec:wastewater_treatment})
+        \item الجريان السطحي الزراعي (\ref{sec:agricultural_runoff})
+        \item مياه الصرف من الاستزراع المائي (\ref{sec:aquaculture_effluent})
+        \item حصاد مياه الأمطار (\ref{sec:water_harvesting_system})
     \end{itemize}
     
     \item \textbf{مصادر المغذيات:}
     \begin{itemize}
-        \item مخلفات الثروة الحيوانية
-        \item مخلفات تصنيع الأغذية
-        \item المنتجات الثانوية الزراعية
-        \item النفايات العضوية البلدية
+        \item مخلفات الثروة الحيوانية (\ref{sec:manure_collection})
+        \item مخلفات تصنيع الأغذية (\ref{sec:food_processing_waste})
+        \item المنتجات الثانوية الزراعية (\ref{sec:crop_residue_processing})
+        \item النفايات العضوية البلدية (\ref{sec:municipal_organic_waste})
     \end{itemize}
 \end{itemize}
 
@@ -48,18 +48,18 @@
 \begin{itemize}
     \item \textbf{المنتجات الرئيسية:}
     \begin{itemize}
-        \item مواد خام للديزل الحيوي
-        \item مكمل علف حيواني
-        \item محسن للتربة
-        \item كتلة حيوية لمعالجة المياه
+        \item علف الماشية الغني بالبروتين (\ref{sec:livestock_nutrition})
+        \item الأسمدة الحيوية عالية الجودة (\ref{sec:biofertilizer_production})
+        \item وقود الديزل الحيوي للآلات (\ref{sec:biodiesel_processing})
+        \item مواد تحسين التربة (\ref{sec:soil_amendment_application})
     \end{itemize}
     
     \item \textbf{المنتجات الثانوية:}
     \begin{itemize}
-        \item الغاز الحيوي من المخلفات
-        \item السماد العضوي
-        \item المياه المعالجة
-        \item أرصدة الكربون
+        \item الجلسرين للاستخدامات الصناعية (\ref{sec:glycerin_utilization})
+        \item التحكم الحيوي في الآفات (\ref{sec:biological_pest_control})
+        \item مستخلصات طبية ونباتية (\ref{sec:plant_extracts})
+        \item أسماك عضوية من أحواض الأزولا (\ref{sec:organic_fish_production})
     \end{itemize}
 \end{itemize}
 
@@ -146,3 +146,95 @@
         \item بروتوكولات التوثيق
     \end{itemize}
 \end{itemize}
+
+\subsection{مصفوفة التكامل بين الوحدات}
+
+جدول \ref{tab:integration_matrix_ar} يوضح العلاقات الرئيسية بين المدخلات والمخرجات لمختلف وحدات الاقتصاد الدائري الطور، مع مراجع متقاطعة إلى المواصفات التفصيلية في وثائق كل وحدة.
+
+\begin{table}[h]
+\centering
+\caption{مصفوفة تكامل وحدات الاقتصاد الدائري الطور}
+\label{tab:integration_matrix_ar}
+\begin{tabular}{|p{2.5cm}|p{5cm}|p{5cm}|}
+\hline
+\textbf{الوحدة} & \textbf{توفر إلى} & \textbf{تستقبل من} \\
+\hline
+زراعة الأزولا & 
+\begin{itemize}
+    \item كتلة حيوية غنية بالنيتروجين للماشية (\ref{sec:livestock_nutrition})
+    \item مواد خام للديزل الحيوي (\ref{sec:biodiesel_feedstock})
+    \item سماد أخضر لوحدات الزراعة (\ref{sec:azolla_as_fertilizer})
+\end{itemize} & 
+\begin{itemize}
+    \item مياه غنية بالمغذيات من الماشية (\ref{sec:azolla_water_inputs})
+    \item ثاني أكسيد الكربون من إنتاج الديزل الحيوي (\ref{sec:carbon_dioxide_enrichment})
+\end{itemize} \\
+\hline
+إنتاج الديزل الحيوي & 
+\begin{itemize}
+    \item وقود لجميع الوحدات (\ref{sec:biodiesel_distribution})
+    \item الجلسرين كمنتج ثانوي للماشية (\ref{sec:glycerin_utilization})
+    \item ثاني أكسيد الكربون للأزولا (\ref{sec:carbon_dioxide_capture})
+\end{itemize} & 
+\begin{itemize}
+    \item بذور غنية بالزيوت من وحدات الزراعة (\ref{sec:oilseed_collection})
+    \item كتلة حيوية من زراعة الأزولا (\ref{sec:azolla_processing})
+\end{itemize} \\
+\hline
+إدارة الماشية & 
+\begin{itemize}
+    \item سماد للسماد الدودي (\ref{sec:manure_collection})
+    \item لحوم، حليب، بيض للسوق (\ref{sec:livestock_products})
+    \item مياه غنية بالمغذيات للأزولا (\ref{sec:wastewater_reutilization})
+\end{itemize} & 
+\begin{itemize}
+    \item علف من زراعة الأزولا (\ref{sec:azolla_feed_utilization})
+    \item مخلفات المحاصيل من وحدات الزراعة (\ref{sec:residue_as_feed})
+    \item الجلسرين من إنتاج الديزل الحيوي (\ref{sec:glycerin_feed_supplement})
+\end{itemize} \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|p{2.5cm}|p{5cm}|p{5cm}|}
+\hline
+السماد الدودي/الفحم الحيوي & 
+\begin{itemize}
+    \item محسنات التربة لجميع وحدات الزراعة (\ref{sec:soil_amendment_distribution})
+    \item الفحم الحيوي لاحتجاز الكربون (\ref{sec:biochar_carbon_capture})
+    \item بروتين الديدان للماشية (\ref{sec:vermimeal_production})
+\end{itemize} & 
+\begin{itemize}
+    \item سماد من الماشية (\ref{sec:vermicomposting_inputs})
+    \item مخلفات المحاصيل من وحدات الزراعة (\ref{sec:crop_residue_processing})
+    \item نفايات المعالجة من جميع الوحدات (\ref{sec:waste_conversion})
+\end{itemize} \\
+\hline
+زراعة النخيل & 
+\begin{itemize}
+    \item تمور للسوق (\ref{sec:date_harvesting})
+    \item سعف لعلف الماشية (\ref{sec:palm_frond_utilization})
+    \item بذور للديزل الحيوي (\ref{sec:date_seed_processing})
+\end{itemize} & 
+\begin{itemize}
+    \item سماد من السماد الدودي (\ref{sec:date_palm_fertilization})
+    \item مياه معالجة من إدارة المياه (\ref{sec:date_palm_irrigation})
+    \item فحم حيوي من وحدة الفحم الحيوي (\ref{sec:date_palm_soil_amendment})
+\end{itemize} \\
+\hline
+زراعة الزيتون & 
+\begin{itemize}
+    \item زيتون وزيت للسوق (\ref{sec:olive_harvesting})
+    \item تقليم للفحم الحيوي (\ref{sec:olive_pruning_management})
+    \item تفل للماشية/الفحم الحيوي (\ref{sec:olive_pomace_utilization})
+\end{itemize} & 
+\begin{itemize}
+    \item سماد من السماد الدودي (\ref{sec:olive_fertilization})
+    \item مياه معالجة من إدارة المياه (\ref{sec:olive_irrigation})
+    \item فحم حيوي من وحدة الفحم الحيوي (\ref{sec:olive_soil_amendment})
+\end{itemize} \\
+\hline
+\end{tabular}
+\end{table}

@@ -16,12 +16,23 @@
 
 % Graphics and layout packages
 \usepackage{graphicx}
-\usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{float}
 \usepackage{geometry}
 \geometry{margin=2.5cm}
+
+% Better table of contents handling
+\usepackage{tocbibind}  % Include all headings in the TOC
+\usepackage{tocloft}    % For better control of TOC formatting
+\setlength{\cftbeforetoctitleskip}{0pt}
+\setlength{\cftaftertoctitleskip}{1em}
+
+% Define Arabic monospace font
+\newfontfamily\arabicfonttt[Script=Arabic]{Amiri}
+
+% Hyperref should be loaded last (except for packages that need to be after it)
+\usepackage[hidelinks]{hyperref}
 
 % Fix for Unicode subscripts
 \DeclareUnicodeCharacter{2082}{\ensuremath{_2}}
@@ -42,8 +53,16 @@
 
 \begin{document}
 
+% Title page
 \maketitle
+
+% Table of contents page
+\frontmatter
 \tableofcontents
+\clearpage
+
+% Main content
+\mainmatter
 
 \chapter{مقدمة عن الاقتصاد الدائري في الطور}
 \input{el_tor_circular_economy/shared_documents/site_master_plan_ar}

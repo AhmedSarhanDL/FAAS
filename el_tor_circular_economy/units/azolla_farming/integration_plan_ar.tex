@@ -122,3 +122,58 @@
         \item كفاءة قصوى للنظام
     \end{itemize}
 \end{itemize}
+
+\subsection{تحليل كمي لتدفق المواد}
+\begin{table}[h]
+\centering
+\caption{تحليل تدفق مواد زراعة الأزولا (أساس سنوي - المرحلة الخامسة)}
+\label{tab:azolla_material_flow}
+\begin{tabular}{|p{3cm}|p{2cm}|p{8cm}|}
+\hline
+\textbf{تدفق المواد} & \textbf{الكمية} & \textbf{الوجهة والمرجع} \\
+\hline
+إجمالي الكتلة الحيوية للأزولا & 65 طن & المخرجات الأساسية الموزعة على مختلف الوحدات \\
+\hline
+الكتلة الحيوية للديزل الحيوي & 40 طن & \textbf{وحدة إنتاج الديزل الحيوي} (\ref{sec:biodiesel_processing}) للتحويل إلى وقود \\
+\hline
+الكتلة الحيوية للماشية & 15 طن & \textbf{وحدة إدارة الماشية} (\ref{sec:livestock_feed_requirements}) كمكمل غذائي غني بالبروتين \\
+\hline
+الكتلة الحيوية للسماد & 10 طن & \textbf{وحدة السماد الدودي} (\ref{sec:vermicomposting_inputs}) لدورة المغذيات \\
+\hline
+مخلفات العملية & 12 طن & تنتج أثناء استخراج الديزل الحيوي \\
+\hline
+المخلفات للفحم الحيوي & 8 طن & \textbf{إنتاج الفحم الحيوي} (\ref{sec:biochar_production}) لتحسين التربة \\
+\hline
+منتج الجلسرين الثانوي & 4 طن & \textbf{عمليات التخمير} (\ref{sec:fermentation_inputs}) وإنتاج الصابون \\
+\hline
+المياه الغنية بالمغذيات & 800 م³ & \textbf{أنظمة الري} (\ref{sec:irrigation_water_sources}) لمختلف وحدات الزراعة \\
+\hline
+احتجاز الكربون & 25 طن مكافئ CO₂ & تخفيف تأثير المناخ (\ref{sec:carbon_accounting}) \\
+\hline
+\end{tabular}
+\end{table}
+
+\textbf{تحليل توازن الكتلة:}
+\begin{align*}
+\text{إجمالي مدخلات الكتلة الحيوية للمعالجة} &= 65\; \text{طن} \\
+\text{إجمالي المنتجات المخرجة} &= 40\; \text{طن (ديزل حيوي)} + 15\; \text{طن (علف)} + 10\; \text{طن (سماد)} \\
+\text{إجمالي مخلفات العملية} &= 12\; \text{طن} \\
+\text{كفاءة التحويل} &= \frac{40\; \text{طن}}{65\; \text{طن}} \times 100\% = 61.5\%\; \text{(للديزل الحيوي)}
+\end{align*}
+
+\subsection{الترابط والتكامل}
+وحدة زراعة الأزولا لها ترابط حاسم مع وحدات متعددة:
+
+\begin{itemize}
+    \item \textbf{معالجة المياه $\leftrightarrow$ زراعة الأزولا:} (\ref{sec:water_treatment_outputs}) توفر مياه صرف معالجة (1000 م³/يوم في المرحلة الخامسة) ضرورية لنمو الأزولا
+    
+    \item \textbf{زراعة الأزولا $\leftrightarrow$ إنتاج الديزل الحيوي:} (\ref{sec:biodiesel_feedstock}) توفر 40 طن من المواد الخام سنوياً لمعالجة الديزل الحيوي
+    
+    \item \textbf{زراعة الأزولا $\leftrightarrow$ إدارة الماشية:} (\ref{sec:livestock_nutrition}) توفر 15 طن من مكملات الأعلاف عالية البروتين سنوياً
+    
+    \item \textbf{مخلفات الأزولا $\leftrightarrow$ إنتاج الفحم الحيوي:} (\ref{sec:biochar_inputs}) تساهم بـ 8 أطنان من الكتلة الحيوية سنوياً لإنتاج الفحم الحيوي
+    
+    \item \textbf{زراعة الأزولا $\leftrightarrow$ السماد الدودي:} (\ref{sec:vermicomposting_feedstock}) توفر 10 أطنان من المواد الغنية بالنيتروجين سنوياً
+\end{itemize}
+
+تضمن هذه التدفقات الكمية تخطيطاً دقيقاً للسعة التشغيلية، وتخصيص الموارد، ومراقبة أداء النظام عبر إطار الاقتصاد الدائري المتكامل.

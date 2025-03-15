@@ -37,8 +37,9 @@ echo ""
 echo "===== COMPILING ENGLISH VERSION ====="
 echo "Compiling main.tex using xelatex..."
 
-# Run xelatex twice to resolve references
+# Run xelatex three times to resolve references and TOC
 docker run --rm -v "$CURRENT_DIR:/workdir" $DOCKER_IMAGE sh -c "cd /workdir && \
+    xelatex -interaction=nonstopmode main.tex && \
     xelatex -interaction=nonstopmode main.tex && \
     xelatex -interaction=nonstopmode main.tex"
 
@@ -73,6 +74,7 @@ echo "Compiling main_ar.tex using xelatex..."
 
 docker run --rm -v "$CURRENT_DIR:/workdir" $DOCKER_IMAGE sh -c "cd /workdir && \
     xelatex -interaction=nonstopmode main_ar.tex && \
+    xelatex -interaction=nonstopmode main_ar.tex && \
     xelatex -interaction=nonstopmode main_ar.tex"
 
 # Check if PDF was created
@@ -86,7 +88,16 @@ fi
 # Clean up auxiliary files
 echo ""
 echo "Cleaning up auxiliary files..."
-rm -f *.aux *.log *.out *.toc *.lof *.lot *.bbl *.blg *.nav *.snm *.vrb
+# Save compile.log if it exists and is not empty
+if [ -s "compile.log" ]; then
+    cp compile.log compile.log.backup
+fi
+rm -f *.aux main*.log *.out *.toc *.lof *.lot *.bbl *.blg *.nav *.snm *.vrb
+# Restore compile.log if it was backed up
+if [ -f "compile.log.backup" ]; then
+    mv compile.log.backup compile.log
+    echo "✓ Preserved compile.log"
+fi
 
 echo ""
 echo "====================================================="

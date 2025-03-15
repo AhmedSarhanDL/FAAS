@@ -37,8 +37,9 @@ echo ""
 echo "===== COMPILING ENGLISH VERSION ====="
 echo "Compiling main.tex using xelatex (better Unicode support)..."
 
-# Run xelatex twice to resolve references for the English version
+# Run xelatex three times to resolve references and build TOC for the English version
 docker run --rm -v "$CURRENT_DIR:/workdir" $DOCKER_IMAGE sh -c "cd /workdir && \
+    xelatex -interaction=nonstopmode main.tex && \
     xelatex -interaction=nonstopmode main.tex && \
     xelatex -interaction=nonstopmode main.tex"
 
@@ -83,7 +84,9 @@ echo ""
 echo "===== COMPILING ARABIC VERSION ====="
 echo "Compiling main_ar.tex using xelatex..."
 
+# Run xelatex three times to resolve references and build TOC for the Arabic version
 docker run --rm -v "$CURRENT_DIR:/workdir" $DOCKER_IMAGE sh -c "cd /workdir && \
+    xelatex -interaction=nonstopmode main_ar.tex && \
     xelatex -interaction=nonstopmode main_ar.tex && \
     xelatex -interaction=nonstopmode main_ar.tex"
 
@@ -95,10 +98,10 @@ else
     echo "✗ Failed to compile main_ar.tex"
 fi
 
-# Clean up auxiliary files
+# Clean up auxiliary files (BUT KEEP TOC FILES)
 echo ""
-echo "Cleaning up auxiliary files..."
-rm -f *.aux *.log *.out *.toc *.lof *.lot *.bbl *.blg *.nav *.snm *.vrb
+echo "Cleaning up auxiliary files (preserving TOC files)..."
+rm -f *.aux *.log *.out *.lof *.lot *.bbl *.blg *.nav *.snm *.vrb
 
 echo ""
 echo "====================================================="

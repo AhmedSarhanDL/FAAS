@@ -1,0 +1,5581 @@
+20822 20800 20811
+
+
+
+
+
+22
+
+
+
+2
+
+
+
+
+
+
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= 65
+= 40 + 15 + 10
+= 12
+= 40
+65 × 100% = 61.5%
+↔
+↔
+
+↔
+↔
+↔
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+2 .4
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+1 .2 .4
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿.￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+.￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+2 .2 .4
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿
+(￿￿￿￿￿￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿(￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿–
+￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+3 .2 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+69
+
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿30% -19 :￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿12￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿75% -65 :￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿20% -15 ￿￿￿:￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿30% -25 ￿￿￿:￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿40% ￿￿￿:￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿15% ￿￿￿:￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿30% -20 ￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿•
+70
+
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+4 .2 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+5 .2 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+71
+
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+6 .2 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+7 .2 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿•
+(￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿￿￿￿) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+
+
+
+
+76
+
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+4 .4
+￿￿￿￿￿￿￿￿￿￿￿￿￿
+1 .4 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+2 .4 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+77
+
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+3 .4 .4
+:(2026) ￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿100 *
+￿￿￿￿500 *
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿*
+:(2028 -2027) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿*
+:(2030 -2029) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+:(2031) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿*
+78
+
+￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+4 .4 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿
+5 .4 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+79
+
+:￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿
+6 .4 .4
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+80
+
+Management Livestock for Plan Operational
+5 .4
+Operations Daily
+1 .5 .4
+Care: Animal •
+schedule distribution Feed –
+management Water –
+monitoring Health –
+sanitation and Cleaning –
+Activities: Production •
+storage and collection Milk –
+grading and collection Egg –
+processing and collection Manure –
+keeping Record –
+Maintenance: Facility •
+checks Equipment –
+inspection Infrastructure –
+tasks maintenance and Repair –
+protocols Cleaning –
+Operations Weekly
+2 .5 .4
+Management: Feed •
+assessment inventory Feed –
+processing and harvest Azolla –
+testing quality Feed –
+organization Storage –
+Management: Health •
+inspections health Detailed –
+review schedule Vaccination –
+measures prevention Disease –
+follow-ups Treatment –
+Review: Production •
+analysis data Production –
+assessment Performance –
+review utilization Resource –
+checks control Quality –
+81
+
+Operations Monthly
+3 .5 .4
+Assessment: and Planning •
+planning Production –
+allocation Resource –
+evaluation Performance –
+review Budget –
+Schedule: Maintenance •
+maintenance equipment Major –
+repairs Facility –
+upgrades Infrastructure –
+optimization System –
+Management: Staff •
+sessions Training –
+reviews Performance –
+planning Schedule –
+briefings Safety –
+Operations Seasonal
+4 .5 .4
+Activities: Spring •
+implementation program Breeding –
+planning rotation Pasture –
+repair and cleaning Facility –
+assessment Health –
+Management: Summer •
+prevention stress Heat –
+optimization system Water –
+management storage Feed –
+maintenance Ventilation –
+Preparations: Fall •
+stockpiling feed Winter –
+winterization Facility –
+maintenance Equipment –
+preparations Health –
+Operations: Winter •
+82
+
+protocols weather Cold –
+management housing Indoor –
+rationing Feed –
+monitoring Health –
+Procedures Emergency
+5 .5 .4
+Emergencies: Health •
+protocols outbreak Disease –
+procedures response Injury –
+information contact Veterinary –
+guidelines Quarantine –
+Disasters: Natural •
+procedures Evacuation –
+reserves feed Emergency –
+systems backup Water –
+protocols Communication –
+Failures: System •
+procedures outage Power –
+response failure Equipment –
+activation system Backup –
+list contact Emergency –
+Procedures Control Quality
+6 .5 .4
+Quality: Product •
+protocols testing Milk –
+standards quality Egg –
+procedures inspection Meat –
+requirements Documentation –
+Quality: Feed •
+analysis Nutritional –
+testing Contamination –
+monitoring Storage –
+evaluation Supplier –
+Quality: Environmental •
+83
+
+testing quality Water –
+monitoring quality Air –
+assessment management Waste –
+review impact Environmental –
+Integration Azolla and Management Feed
+7 .5 .4
+Profile Nutritional Azolla
+providing system, economy circular our in resource feed cornerstone a as serves Azolla
+the outlines table following The inputs. feed external reducing while protein high-quality
+formulations: feed for basis the forms that composition nutritional
+Chain Supply Azolla
+Processing and Sourcing Azolla
+harvests scheduled weekly with )??( Unit Farming Azolla Source: Primary •
+Methods: Processing •
+hours 24 within feeding and harvesting Direct feeding: Fresh –
+15% -12 to moisture reducing process, day 3 -2 drying: Sun –
+dryers tunnel solar using drying Accelerated dehydration: Solar –
+molasses 2% with days 21 -14 for processing Anaerobic Fermentation: –
+feeding standardized for ingredients feed other with Combined Pelleting: –
+Assurance: Quality •
+contaminants and content protein for biomass fresh of testing Weekly –
+products Azolla processed of analysis profile nutritional Monthly –
+materials feed Azolla stored for screening Mycotoxin –
+)??( records production Unit Farming Azolla with Cross-reference –
+Inventory and Storage Feed
+Infrastructure: Storage •
+system sprinkler with area holding well-ventilated Shaded, Azolla: Fresh –
+temperature <60%, (humidity room storage Climate-controlled Azolla: Dried –
+<25°C)
+preservation anaerobic for containers Sealed Azolla: Fermented –
+storage silo feed Standard feed: Azolla Pelleted –
+Management: Inventory •
+Azolla processed of stock safety 3-week Minimum –
+84
+
+system rotation Out) First In, (First FIFO –
+records feeding with reconciliation inventory Weekly –
+stages growth and performance animal on based forecasting Monthly –
+)?? (see contingencies for plan procurement Emergency –
+Schedules Feeding Livestock-Specific
+Program Feeding Poultry
+Poultry - Schedule Feeding Daily
+Layers: •
+bird) per (40g Azolla Fresh/fermented AM: 6:00 –
+bird) per (60g feed Conventional AM: 11:00 –
+bird) per (30g mix Azolla-grain Dried PM: 3:00 –
+weight) (fresh bird per 70g -50 consumption: Azolla daily Total –
+Broilers: •
+Azolla dried 15% -5 with feed Conventional AM: 7:00 –
+weekly) increasing 10g -5) Azolla Fresh PM: 12:00 –
+grains supplemental with feed Conventional PM: 5:00 –
+age with 30g to 5g from increases consumption: Azolla daily Total –
+Ducks: •
+systems pond in Azolla fresh to access Continuous –
+bird) per (50g supplement Grain AM: 7:00 –
+bird) per (100g feed mixed Grain-Azolla PM: 4:00 –
+weight) (fresh bird per 150g -100 consumption: Azolla daily Total –
+Program Feeding Ruminant
+Ruminants - Schedule Feeding Weekly
+Schedule: Cows Dairy •
+residues crop with mixed kg) 15 -12) Azolla Fresh Monday/Thursday: –
+mix concentrate with kg) 10 -8) Azolla Fermented Tuesday/Friday: –
+Ration) Mixed (Total TMR in kg) 2 -5 .1) Azolla Dried Wednesday/Saturday: –
+supplement protein Azolla-based with feed Conventional Sunday: –
+equivalent fresh kg 75 -60 weight: feed Azolla Weekly –
+Adjustments: Seasonal •
+85
+
+content water for 20% by Azolla fresh Increase Summer: –
+density energy for 15% by Azolla dried Increase Winter: –
+daily Azolla fresh kg 3 -2 additional with Supplement peak: Lactation –
+daily) fresh kg 7 -5) levels maintenance to Reduce period: Dry –
+Schedule: Processing •
+dependent weather Wednesday, and Sunday Sun-drying: –
+week following for batch Monday preparation: Fermentation –
+batches kg 500 Biweekly, production: Pellet –
+morning early Daily, mixing: TMR –
+Control Quality and Integration Cross-Unit
+Unit Farming Azolla with Integration
+Coordination: Harvest •
+)??( team production Azolla with communication Daily –
+requirements feeding with synchronized schedule Harvest –
+unit Azolla to provided needs feed of projection Weekly –
+inventory livestock and rates growth on based adjustments Seasonal –
+Loop: Feedback Quality •
+freshness and quality Azolla of assessment Daily –
+unit Azolla to performance animal of reporting Weekly –
+targets nutritional review to meeting joint Monthly –
+eﬀiciency conversion feed of analysis Quarterly –
+Unit Production Biodiesel with Integration
+)??( Utilization: Glycerin •
+Thursday & Monday batches, kg 300 glycerin: purified 80% of Receipt –
+incorporation feed safe for solution 65% to Dilution –
+mixtures feed concentrated in 7% -5 rates: Inclusion –
+sheep/goat per 30g cow, per 120g allowances: daily Maximum –
+purity) (80% glycerin of kcal/kg 1,580 value: Energy –
+Recycling: Residue Azolla •
+areas feeding from gathering Daily waste: feed of Collection –
+waste other from Azolla undigested of Separation Sorting: –
+processing biochar for Unit Biodiesel to delivery Twice-weekly Transport: –
+conversion waste-to-resource of measurement Monthly Tracking: –
+86
+
+Monitoring Performance
+Monitoring: Conversion Feed •
+group animal by records intake feed Daily –
+group) (sample measurements weight body Weekly –
+eﬀiciency conversion feed of calculation Monthly –
+baseline feed conventional against Comparison –
+Assessment: Impact Production •
+type feed by analysis and recording Daily yield: Milk –
+correlation feed with records collection Daily production: Egg –
+rates inclusion Azolla with correlated gain weight Weekly rates: Growth –
+diet with correlated assessment veterinary Monthly indicators: Health –
+Improvement: Continuous •
+data performance on based adjustments formulation Feed –
+methods and rates integration Azolla of review Quarterly –
+digestibility improved for techniques processing new of Testing –
+sharing knowledge for practices best of Documentation –
+Impact Economic
+Reduction: Cost Feed •
+sources protein conventional of 30% -20 of Replacement –
+savings cost feed of calculation Monthly –
+production of unit per cost of analysis Quarterly –
+program feeding Azolla of assessment economic Annual –
+Addition: Value •
+products animal Azolla-fed for pricing Premium –
+carotenoids) (omega-3 , profiles nutritional enhanced of Marketing –
+livestock Azolla-integrated for program Certification –
+impact environmental reduced of valuation Economic –
+Keeping Record
+8 .5 .4
+Records: Production •
+logs production Daily –
+data performance Animal –
+records consumption Feed –
+87
+
+records treatment Health –
+Records: Financial •
+tracking Income –
+documentation Expense –
+records Inventory –
+reports analysis Cost –
+Records: Compliance •
+documentation Regulatory –
+records Certification –
+reports Inspection –
+records Training –
+Management Livestock for Plan Financial
+6 .4
+(2031 -2026) Costs Operational and Investment
+1 .6 .4
+Establishment Initial :(2027 -2026) 1 Phase
+Investments: Capital •
+EGP 150,000 housing: livestock Basic –
+EGP 120,000 ducks): 100 chickens, 200 cattle, (5 acquisition livestock Initial –
+EGP 50,000 facilities: storage Feed –
+EGP 40,000 systems: water Basic –
+EGP 30,000 equipment: collection Manure –
+EGP 390,000 :Investment Capital Total –
+(Annual): Costs Operational •
+EGP 60,000 Azolla): (beyond feed Supplementary –
+EGP 25,000 medications: and services Veterinary –
+EGP 96,000 workers): full-time (2 Labor –
+EGP 30,000 water: and Utilities –
+EGP 20,000 Maintenance: –
+EGP 231,000 :Costs Operational Annual Total –
+(Annual): Projections Revenue •
+EGP 75,000 cattle): (5 production Milk –
+EGP 73,000 chickens): (200 Eggs –
+EGP 40,000 meat: Poultry –
+88
+
+EGP 30,000 products: Duck –
+EGP 15,000 (value-added): vermicomposting for Manure –
+EGP 233,000 :Revenue Annual Total –
+Summary: Financial Year First •
+EGP 390,000 investment: Total –
+EGP 231,000 costs: operational Annual –
+EGP 233,000 revenue: Annual –
+EGP 2,000 flow: cash annual Net –
+year first in Minimal investment: on Return –
+1 Phase in achieved Not point: Break-even –
+Expansion :(2028 -2027) 2 Phase
+Investments: Capital •
+EGP 200,000 facilities: housing Enhanced –
+ducks): more 100 chickens, more 300 cattle, more (10 livestock Additional –
+EGP 250,000
+EGP 120,000 dairy: for equipment Processing –
+EGP 80,000 systems: management waste and water Expanded –
+EGP 650,000 :Investment Capital Total –
+(Annual): Costs Operational •
+EGP 150,000 feed: Supplementary –
+EGP 60,000 medications: and services Veterinary –
+EGP 192,000 workers): full-time (4 Labor –
+EGP 50,000 water: and Utilities –
+EGP 40,000 Maintenance: –
+EGP 30,000 distribution: and Marketing –
+EGP 522,000 :Costs Operational Annual Total –
+(Annual): Projections Revenue •
+EGP 225,000 cattle): (15 production Milk –
+EGP 100,000 (value-added): products dairy Processed –
+EGP 182,500 chickens): (500 Eggs –
+EGP 100,000 meat: Poultry –
+EGP 60,000 products: Duck –
+EGP 45,000 vermicomposting: for Manure –
+EGP 712,500 :Revenue Annual Total –
+89
+
+Summary: Financial 2 Phase •
+EGP 1,040,000 investment: cumulative Total –
+EGP 522,000 costs: operational Annual –
+EGP 712,500 revenue: Annual –
+EGP 190,500 flow: cash annual Net –
+investment cumulative on 3% .18 investment: on Return –
+investment initial of recovery Partial –
+Optimization :(2029 -2028) 3 Phase
+Investments: Capital •
+EGP 150,000 systems: management waste Advanced –
+130,000 ducks): more 50 chickens, more 200 cattle, more (5 livestock Additional –
+EGP
+EGP 200,000 (initial): digester Biogas –
+EGP 100,000 equipment: processing feed Advanced –
+EGP 580,000 :Investment Capital Total –
+(Annual): Costs Operational •
+EGP 180,000 feed: Supplementary –
+EGP 80,000 medications: and services Veterinary –
+EGP 240,000 workers): full-time (5 Labor –
+EGP 60,000 water: and Utilities –
+EGP 60,000 Maintenance: –
+EGP 50,000 distribution: and Marketing –
+EGP 670,000 :Costs Operational Annual Total –
+(Annual): Projections Revenue •
+EGP 300,000 cattle): (20 production Milk –
+EGP 200,000 products: dairy Processed –
+EGP 255,500 chickens): (700 Eggs –
+EGP 140,000 meat: Poultry –
+EGP 75,000 products: Duck –
+EGP 80,000 value: biogas and Manure –
+EGP 1,050,500 :Revenue Annual Total –
+Summary: Financial 3 Phase •
+EGP 1,620,000 investment: cumulative Total –
+EGP 670,000 costs: operational Annual –
+90
+
+EGP 1,050,500 revenue: Annual –
+EGP 380,500 flow: cash annual Net –
+investment cumulative on 5% .23 investment: on Return –
+recovery investment full toward progress Significant –
+Scale Commercial :(2030 -2029) 4 Phase
+Investments: Capital •
+EGP 250,000 facilities: processing Complete –
+90,000 ducks): more 25 chickens, more 150 cattle, more (3 livestock Additional –
+EGP
+EGP 150,000 system: biogas Expanded –
+EGP 120,000 systems: monitoring and water Smart –
+EGP 610,000 :Investment Capital Total –
+(Annual): Costs Operational •
+EGP 200,000 feed: Supplementary –
+EGP 90,000 medications: and services Veterinary –
+EGP 288,000 workers): full-time (6 Labor –
+EGP 70,000 water: and Utilities –
+EGP 80,000 Maintenance: –
+EGP 80,000 distribution: and Marketing –
+EGP 808,000 :Costs Operational Annual Total –
+(Annual): Projections Revenue •
+EGP 345,000 cattle): (23 production Milk –
+EGP 300,000 products: dairy processed Premium –
+EGP 310,250 chickens): (850 Eggs –
+EGP 170,000 meat: Poultry –
+EGP 82,500 products: Duck –
+EGP 60,000 value: energy Biogas –
+EGP 90,000 compost: and Manure –
+EGP 1,357,750 :Revenue Annual Total –
+Summary: Financial 4 Phase •
+EGP 2,230,000 investment: cumulative Total –
+EGP 808,000 costs: operational Annual –
+EGP 1,357,750 revenue: Annual –
+EGP 549,750 flow: cash annual Net –
+investment cumulative on 7% .24 investment: on Return –
+recovery full Approaching timeline: recovery Investment –
+91
+
+Integration Full :(2031 -2030) 5 Phase
+Investments: Capital •
+EGP 200,000 refinements: and optimization System –
+ducks): more 25 chickens, more 150 cattle, more (2 additions livestock Final –
+EGP 70,000
+EGP 180,000 packaging: and processing Advanced –
+EGP 150,000 integration: economy circular Complete –
+EGP 600,000 :Investment Capital Total –
+(Annual): Costs Operational •
+EGP 220,000 feed: Supplementary –
+EGP 100,000 medications: and services Veterinary –
+EGP 336,000 workers): full-time (7 Labor –
+EGP 80,000 water: and Utilities –
+EGP 100,000 Maintenance: –
+EGP 120,000 distribution: and Marketing –
+EGP 956,000 :Costs Operational Annual Total –
+(Annual): Projections Revenue •
+EGP 375,000 cattle): (25 production Milk –
+EGP 400,000 products: dairy processed Premium –
+EGP 365,000 chickens): (1000 Eggs –
+EGP 200,000 meat: Poultry –
+EGP 90,000 products: Duck –
+EGP 100,000 value: energy Biogas –
+EGP 120,000 compost: and Manure –
+EGP 50,000 demonstrations: and tours Educational –
+EGP 1,700,000 :Revenue Annual Total –
+Summary: Financial 5 Phase •
+EGP 2,830,000 years): (5 investment cumulative Total –
+EGP 956,000 costs: operational Annual –
+EGP 1,700,000 revenue: Annual –
+EGP 744,000 flow: cash annual Net –
+investment total on 3% .26 investment: on Return –
+5 Phase of end by expected recovery investment Complete –
+92
+
+Analysis Cost-Benefit
+2 .6 .4
+Benefits Economic
+Streams: Revenue Direct •
+source income Primary eggs): meat, (milk, products Animal –
+margins profit Higher products: value-added Processed –
+income secondary Significant compost: and Manure –
+sales potential and costs operational Reduced energy: Biogas –
+Benefits: Economic Indirect •
+savings 30% -20 integration: Azolla through reduction cost Feed –
+savings 40% Estimated units: other for costs fertilizer Reduced –
+costs pesticide Reduced services: control Pest –
+stream revenue Additional potential: tourism and Educational –
+Sustainability: Financial Long-term •
+3% .26 years: 5 after ROI Projected –
+years 5 .4 Approximately period: Payback –
+8% .43 capacity: full at margin Profit –
+EGP 744,000 capacity: full at profit net Annual –
+Strategies Mitigation Risk
+Fluctuations: Market •
+volatility price against buffer to portfolio product Diversified –
+margins profit increase to processing Value-added –
+costs intermediary reduce to channels marketing Direct –
+Risks: Production •
+annually) value livestock of (5% livestock for Insurance –
+profits) annual of (10% allocation fund Emergency –
+adjustments for allow to implementation Phased –
+Constraints: Resource •
+consumption minimize to systems recycling Water –
+inputs external on dependency reduce to production feed On-site –
+costs operational reduce to integration energy Renewable –
+93
+
+Management Financial and Funding
+3 .6 .4
+Sources Funding
+Capital: Initial •
+EGP) (1,132,000 40% equity: Project –
+EGP) (990,500 35% loans: development Agricultural –
+EGP) (707,500 25% grants: agriculture Sustainable –
+Financing: Operational •
+income net annual of 30% profits: of Reinvestment –
+needs seasonal for facility credit Revolving –
+flow cash match to approach investment Phased –
+Practices Management Financial
+Monitoring: and Accounting •
+unit livestock for system accounting Dedicated –
+reviews performance financial Monthly –
+line product by analysis profitability Quarterly –
+Measures: Control Cost •
+optimization and monitoring eﬀiciency Feed –
+targets reduction and tracking usage Energy –
+benchmarks productivity Labor –
+Prioritization: Investment •
+expenditures capital of evaluation ROI-based –
+integration economy circular enhance that investments on Focus –
+costs operational reduce that technologies Prioritize –
+Economy Circular with Integration Economic
+4 .6 .4
+Optimization Chain Value
+Reduction: Cost Input •
+costs feed conventional in reduction 30% -20 feed: as Azolla –
+reduction cost feed additional 15% utilization: by-products Agricultural –
+5 Phase by costs energy in reduction 25% energy: for Biogas –
+Maximization: Value Output •
+capacity full at value annual EGP 120,000 vermicomposting: to Manure –
+value fertilizer equivalent EGP 50,000 ponds: Azolla to water Nutrient-rich –
+value estimated EGP 80,000 pollination): control, (pest services Ecosystem –
+94
+
+Benefits Financial Economy Circular
+Gains: Eﬀiciency Resource •
+costs water in reduction 40% recycling: Water –
+monetized streams waste of 90% conversion: Waste-to-resource –
+requirements energy external in reduction 25% integration: Energy –
+Value: Resilience System •
+fluctuations price input to vulnerability Reduced –
+disruptions market withstand to ability Enhanced –
+sustainability financial long-term Improved –
+Value: Economy Circular Total •
+capacity full at annually EGP 350,000 Approximately savings: cost Direct –
+annually EGP 250,000 Approximately streams: revenue Additional –
+premium price 15% branding: sustainability through value product Enhanced –
+Management Livestock for Requirements Resource
+7 .4
+Requirements Infrastructure
+1 .7 .4
+Housing: Animal •
+animal per m² 0 .2 pens: goat and Sheep –
+bird per m² 25 .0 houses: Poultry –
+cow per m² 10 facilities: cattle Dairy –
+systems Ventilation –
+systems Lighting –
+systems collection Waste –
+Storage: Feed •
+m² 200 facility: storage Hay –
+capacity tons metric 100 silos: storage Grain –
+m² 500 ponds: cultivation Azolla –
+m² 50 area: mixing Feed –
+Facilities: Processing •
+m² 100 unit: processing Dairy –
+m² 50 storage: and collection Egg –
+m² 150 area: processing Meat –
+m² 100 facilities: storage Cold –
+95
+
+Requirements Equipment
+2 .7 .4
+Management: Feed •
+units 2 mixers: Feed –
+equipment distribution Feed –
+scales Weighing –
+containers Storage –
+equipment testing Feed –
+Management: Health •
+equipment and tools Veterinary –
+units storage Vaccination –
+devices monitoring Health –
+facilities Treatment –
+equipment Quarantine –
+Equipment: Production •
+units 10 machines: Milking –
+equipment collection Egg –
+tools processing Meat –
+equipment Packaging –
+devices testing Quality –
+Resources Human
+3 .7 .4
+Staff: Management •
+1 manager: Livestock –
+2 supervisors: Production –
+1 manager: control Quality –
+2 staff: Administrative –
+Staff: Technical •
+1 Veterinarian: –
+4 specialists: care Animal –
+2 technicians: management Feed –
+3 technicians: Processing –
+Staff: Support •
+8 workers: General –
+2 staff: Maintenance –
+2 personnel: Security –
+3 staff: Cleaning –
+96
+
+Resources Consumable
+4 .7 .4
+Resources: Feed •
+tons/year 500 fodder: and Hay –
+tons/year 200 feed: Grain –
+tons/year 10 supplements: Mineral –
+tons/year 100 production: Azolla –
+Supplies: Health •
+medicines and Vaccines –
+supplies Cleaning –
+Disinfectants –
+materials aid First –
+Supplies: Production •
+materials Packaging –
+supplies Processing –
+containers Storage –
+materials control Quality –
+Requirements Utility
+5 .7 .4
+Resources: Water •
+liters/day 50,000 water: Drinking –
+liters/day 20,000 water: Cleaning –
+liters/day 10,000 water: Processing –
+liters/day 30,000 feed: for Irrigation –
+Resources: Energy •
+kWh/day 100 Electricity: –
+liters/month 5,000 fuel: Heating –
+systems power Solar –
+generators Backup –
+Management: Waste •
+tons/day 10 processing: Manure –
+treatment Wastewater –
+disposal waste Solid –
+systems Recycling –
+97
+
+Requirements Technology
+6 .7 .4
+Systems: Management •
+software management Livestock –
+system tracking Inventory –
+system management Financial –
+software control Quality –
+Equipment: Monitoring •
+sensors Environmental –
+cameras Security –
+systems tracking Animal –
+devices monitoring Production –
+Systems: Communication •
+network communication Internal –
+system alert Emergency –
+devices Mobile –
+connectivity Internet –
+Operations Livestock for Plan Management Risk
+8 .4
+Risks Disease and Health
+1 .8 .4
+Outbreaks: Disease •
+High Level: Risk –
+Severe Impact: –
+Strategies: Mitigation –
+screenings health Regular *
+programs Vaccination *
+protocols Quarantine *
+measures Biosecurity *
+partnerships Veterinary *
+Diseases: Zoonotic •
+Medium Level: Risk –
+Severe Impact: –
+Strategies: Mitigation –
+equipment protective Personal *
+staff for checks health Regular *
+procedures handling Proper *
+protocols Sanitation *
+programs training Staff *
+98
+
+Risks Environmental
+2 .8 .4
+Risks: Climate-Related •
+Medium Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+facilities Climate-controlled *
+systems monitoring Weather *
+provisions shelter Emergency *
+stockpiling Feed *
+sources water Backup *
+Disasters: Natural •
+Low Level: Risk –
+Severe Impact: –
+Strategies: Mitigation –
+plans evacuation Emergency *
+reinforcement Structural *
+coverage Insurance *
+reserves supply Emergency *
+training emergency Staff *
+Risks Operational
+3 .8 .4
+Failure: Equipment •
+Medium Level: Risk –
+Moderate Impact: –
+Strategies: Mitigation –
+schedules maintenance Regular *
+equipment Backup *
+contracts support Technical *
+training Staff *
+procedures repair Emergency *
+Disruption: Chain Supply •
+Medium Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+relationships supplier Multiple *
+reserves stock Emergency *
+options sourcing Local *
+strategies feed Alternative *
+management capacity Storage *
+99
+
+Risks Market
+4 .8 .4
+Volatility: Price •
+High Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+contracts Forward *
+range product Diversified *
+monitoring Market *
+strategies hedging Price *
+processing Value-added *
+Fluctuation: Demand •
+Medium Level: Risk –
+Moderate Impact: –
+Strategies: Mitigation –
+diversification Market *
+capacity storage Product *
+planning production Flexible *
+management relationship Customer *
+channels market Alternative *
+Risks Financial
+5 .8 .4
+Management: Flow Cash •
+Medium Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+management capital Working *
+arrangements line Credit *
+management term Payment *
+measures control Cost *
+systems monitoring Financial *
+Risks: Investment •
+Medium Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+approach investment Phased *
+analysis investment on Return *
+expansions for assessment Risk *
+strategies Diversification *
+advice financial Professional *
+100
+
+Risks Regulatory
+6 .8 .4
+Compliance: •
+Medium Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+audits compliance Regular *
+documentation Updated *
+regulations on training Staff *
+services consultation Legal *
+membership association Industry *
+Regulations: Environmental •
+Medium Level: Risk –
+High Impact: –
+Strategies: Mitigation –
+monitoring Environmental *
+systems management Waste *
+measures control Emission *
+procedures Documentation *
+audits environmental Regular *
+Review and Monitoring Risk
+7 .8 .4
+Assessments: Risk Regular •
+reviews risk Quarterly –
+assessment comprehensive Annual –
+system reporting Incident –
+tracking metrics Performance –
+analysis feedback Stakeholder –
+Improvement: Continuous •
+procedures management risk Update –
+development and training Staff –
+integration Technology –
+implementation practice Best –
+collaboration Industry –
+101
+
+Management Livestock for Plan Sustainability
+9 .4
+Sustainability Environmental
+1 .9 .4
+Conservation: Resource •
+systems management Water –
+harvesting Rainwater *
+systems recycling Water *
+methods irrigation Eﬀicient *
+detection leak and Monitoring *
+eﬀiciency Energy –
+integration power Solar *
+equipment Energy-eﬀicient *
+systems ventilation Natural *
+implementation lighting LED *
+optimization use Land –
+grazing Rotational *
+practices conservation Soil *
+preservation Biodiversity *
+protection species Native *
+Management: Waste •
+management Manure –
+systems Composting *
+production Biogas *
+processing fertilizer Organic *
+recycling Nutrient *
+reduction waste Feed –
+systems feeding Precise *
+optimization Storage *
+eﬀiciency processing Feed *
+sources feed Alternative *
+management waste Water –
+systems Treatment *
+protocols Recycling *
+monitoring Quality *
+control Discharge *
+102
+
+Sustainability Economic
+2 .9 .4
+Eﬀiciency: Operational •
+optimization Resource –
+systems management Feed *
+eﬀiciency Labor *
+maintenance Equipment *
+consumption Energy *
+strategies reduction Cost –
+minimization Waste *
+automation Process *
+maintenance Preventive *
+sharing Resource *
+enhancement Revenue –
+diversification Product *
+processing Value-added *
+expansion Market *
+improvement Quality *
+Development: Market •
+certification Product –
+certification Organic *
+labels Sustainability *
+standards Quality *
+recognition Local *
+strategies Marketing –
+focus market Local *
+marketing Direct *
+presence Online *
+education Customer *
+development Partnership –
+businesses Local *
+institutions Research *
+associations Industry *
+agencies Government *
+Sustainability Social
+3 .9 .4
+Engagement: Community •
+employment Local –
+creation Job *
+103
+
+development Skills *
+wages Fair *
+advancement Career *
+programs Educational –
+partnerships School *
+visits Farm *
+workshops Training *
+sharing Knowledge *
+support Community –
+sourcing Local *
+events Community *
+initiatives Charitable *
+support Infrastructure *
+Welfare: Animal •
+conditions Housing –
+facilities Comfortable *
+support behavior Natural *
+monitoring Health *
+reduction Stress *
+programs Healthcare –
+care Preventive *
+checkups Regular *
+prevention Disease *
+response Emergency *
+practices Ethical –
+handling Humane *
+breeding Natural *
+feed Quality *
+standards Welfare *
+Technology and Innovation
+4 .9 .4
+Technologies: Sustainable •
+systems farming Smart –
+devices Monitoring *
+systems Automation *
+analytics Data *
+support Decision *
+energy Renewable –
+104
+
+installations Solar *
+systems Biogas *
+storage Energy *
+integration Grid *
+processing Waste –
+composting Advanced *
+extraction Nutrient *
+treatment Water *
+control Emission *
+Development: and Research •
+programs Breeding –
+improvement Genetic *
+resistance Disease *
+eﬀiciency Feed *
+adaptation Climate *
+research Feed –
+sources Alternative *
+optimization Nutrition *
+ingredients Local *
+reduction Waste *
+improvement Process –
+studies Eﬀiciency *
+testing Technology *
+practices Best *
+pilots Innovation *
+Reporting and Monitoring
+5 .9 .4
+Metrics: Performance •
+indicators Environmental –
+consumption Resource *
+generation Waste *
+footprint Carbon *
+impact Biodiversity *
+indicators Economic –
+eﬀiciency Operational *
+performance Market *
+stability Financial *
+returns Investment *
+105
+
+indicators Social –
+impact Community *
+metrics Employment *
+welfare Animal *
+satisfaction Stakeholder *
+Improvement: Continuous •
+assessments Regular –
+reviews Performance *
+setting Goal *
+planning Action *
+tracking Progress *
+engagement Stakeholder –
+collection Feedback *
+channels Communication *
+planning Collaborative *
+reporting Transparency *
+management Knowledge –
+documentation practices Best *
+programs Training *
+sharing Innovation *
+stories Success *
+Management Livestock for Plan Integration
+10 .4
+Units Agricultural with Integration
+1 .10 .4
+Integration: Palm Date •
+palms date under grazing Rotational –
+bedding for fronds palm of Utilization –
+trees palm for fertilization Manure –
+foraging poultry through control Pest –
+Integration: Grove Olive •
+groves olive in management Grazing –
+supplement feed as waste pruning Olive –
+trees olive for application Manure –
+control weed Natural –
+Integration: System Azolla •
+systems polyculture Duck-Azolla –
+106
+
+ponds Azolla to livestock from cycling Nutrient –
+feed livestock for harvesting Azolla –
+management quality Water –
+Units Processing with Integration
+2 .10 .4
+Processing: Dairy •
+systems storage and collection Milk –
+requirements facility Processing –
+measures control Quality –
+strategy diversification Product –
+Processing: Meat •
+facilities processing and Slaughter –
+management chain Cold –
+distribution and Packaging –
+protocols management Waste –
+Processing: Feed •
+facilities mixing Feed –
+systems preservation and Storage –
+procedures testing Quality –
+management Inventory –
+Management Waste with Integration
+3 .10 .4
+Vermicomposting: •
+systems collection Manure –
+protocols Pre-treatment –
+management bed Worm –
+storage and handling Product –
+Production: Biogas •
+preparation Feedstock –
+operation Digester –
+storage and collection Gas –
+management Digestate –
+Composting: •
+preparation and sorting Material –
+management process Composting –
+monitoring Quality –
+distribution Product –
+107
+
+Services Support with Integration
+4 .10 .4
+Services: Veterinary •
+checks health Regular –
+programs Vaccination –
+measures prevention Disease –
+protocols response Emergency –
+Education: and Training •
+programs training Staff –
+facilities education Visitor –
+partnerships Research –
+platforms sharing Knowledge –
+Distribution: and Marketing •
+integration market Local –
+strategy branding Product –
+networks Distribution –
+systems feedback Customer –
+Timeline Integration
+5 .10 .4
+:(2027 -2026) 1 Phase •
+areas palm date with integration Basic –
+setup vermicomposting Initial –
+services veterinary Essential –
+:(2028 -2027) 2 Phase •
+groves olive to Expansion –
+initiation processing Dairy –
+management waste Enhanced –
+:(2029 -2028) 3 Phase •
+integration system Azolla Full –
+implementation system Biogas –
+facilities processing Comprehensive –
+:(2030 -2029) 4 Phase •
+capabilities processing Advanced –
+systems management waste Complete –
+108
+
+services support Expanded –
+:(2031 -2030) 5 Phase •
+integration economy circular Full –
+systems processing Optimized –
+integration service Comprehensive –
+109
+
+Analysis Composition Nutritional Azolla :1 .4 ￿￿￿￿
+Notes
+Value Typical
+Nutrient
+Component
+most
+to
+Superior
+feedstuffs conventional
+DM 30% -25
+Protein Crude
+Acids Amino Essential
+poultry
+for
+Critical
+production
+DM 42% .0
+Lysine -
+plant
+in
+limiting
+Often
+proteins
+DM 17% .0
+Methionine -
+digestive
+for
+Important
+health
+DM 43% .0
+Threonine -
+omega-3 beneficial Contains
+acids fatty
+DM 5% -5 .3
+Fat Crude
+ruminant
+for
+Good
+nutrition
+DM 15% -10
+Fiber Crude
+digestible
+Readily
+carbohydrates
+DM 40% -35
+Extract Nitrogen-Free
+conventional
+of
+90% -85
+feeds
+2,200 -2,100
+kcal/kg
+Energy Metabolizable
+Minerals
+for
+requirements
+Exceeds
+livestock most
+DM 0% .2 -5 .1
+Calcium -
+ratio Ca:P Favorable
+DM 9% .0 -5 .0
+Phosphorus -
+blood
+for
+Important
+formation
+DM 2% .0 -1 .0
+Iron -
+Vitamins
+egg for pigments Natural
+yolks
+mg/kg 400 -300
+Carotenoids -
+function immune Enhances
+IU/g 150 -120
+A
+Vitamin
+-
+precursors
+metabolism Supports
+Varied
+vitamins B-complex -
+Digestibility
+dried
+when
+Optimal
+properly
+65% -60
+poultry For -
+appropriate
+with
+Higher
+processing
+75% -65
+ruminants For -
+110
+
+Poultry for Schedule Feeding Azolla :2 .4 ￿￿￿￿
+Instructions Specific
+Feeding
+Method
+Azolla
+Inclusion
+Rate
+Production
+Stage
+with
+thoroughly
+Mix
+introduce
+feed; starter
+7 day from gradually
+and
+Dried
+ground finely
+diet of 7% -5
+4 -0)
+Chicks
+weeks)
+of
+feeding
+Morning
+Azolla,
+fermented
+conventional
+afternoon
+feed
+or
+Dried
+fermented
+of
+15% -10
+diet
+15 -5) Growers
+weeks)
+20% to up replace Can
+sources;
+protein
+of
+with
+supplement
+methionine
+dried,
+Fresh,
+fermented or
+of
+20% -15
+diet
+(16+
+Layers
+weeks)
+commercial
+with
+Mix
+feed starter
+and
+Dried
+ground finely
+diet of 5%
+2 -0)
+Broilers
+weeks)
+with
+Supplement
+feed
+conventional
+ratio
+2:1
+at
+(conventional:Azolla)
+dried or Fresh
+of
+15% -10
+diet
+6 -3)
+Broilers
+weeks)
+fresh
+to
+access
+Direct
+specialized
+in
+Azolla
+with supplement ponds;
+grain
+or
+Fresh
+fermented
+of
+30% -20
+diet
+Ducks
+Ruminants for Schedule Feeding Azolla :3 .4 ￿￿￿￿
+with
+Integration
+Feeds Other
+Feeding
+Method
+Daily
+Azolla
+Ration
+Animal
+Type
+evening
+and
+Morning
+with supplement feeding;
+on
+based
+concentrates
+production milk
+with
+Mixed
+forages other
+kg
+15 -10
+-5 .1 or (fresh)
+(dried) kg 2 
+Cows
+Dairy
+(lactating)
+feeding;
+daily
+Once
+condition body monitor
+score
+Free-choice
+hay with
+(fresh) kg 7 -5
+kg
+1 -7 .0
+or
+(dried)
+Cows
+Dairy
+(dry)
+feeding;
+daily
+Twice
+energy with complement
+sources
+with
+Mixed
+silage/hay
+kg
+12 -8
+1- or (fresh)
+(dried) kg 5 .1 
+Cattle
+Beef
+(growing)
+starter
+calf
+with
+Mix
+gradually introduce feed;
+and
+Wilted
+chopped
+(fresh) kg 4 -2
+kg 5 .0 -3 .0 or
+(dried)
+6 -3)
+Calves
+months)
+feeding
+Morning
+evening
+Azolla,
+of
+feed conventional
+or
+Fresh
+wilted
+(fresh) kg 3 -2
+kg 4 .0 -3 .0 or
+(dried)
+Sheep/Goats
+111
+
+5 ￿￿￿
+Biochar and Vermicomposting
+Overview Biochar and Vermicomposting
+1 .5
+Systems Amendment Soil to Introduction
+1 .1 .5
+Circular Tor El the within hub critical a as serves unit Biochar and Vermicomposting The
+This
+amendments. soil high-value into streams waste organic transforming Economy,
+sequestering loops, nutrient closing by principles economy circular the exemplifies unit
+processes. thermochemical and biological through fertility soil enhancing and carbon,
+benefits synergistic creates production biochar and vermicomposting of integration The
+independently. achieve could process either what exceed that
+System Vermicomposting
+2 .1 .5
+vermicompost: nutrient-rich into waste organic convert to earthworms utilizes Vermicomposting
+Selection Species Worm
+Wiggler) (Red fetida Eisenia Species: Primary •
+Nightcrawler) (African eugeniae Eudrilus Species: Secondary •
+reproductive eﬀiciency, processing climate, local to Adaptability Criteria: Selection •
+rate
+bed of meter square per worms kg 3 -2 Density: Stocking •
+Sources Feedstock
+feedstock) of 50% -40) source nitrogen Primary Manure: Livestock •
+feedstock) of 40% -30) agent bulking and source Carbon Residues: Crop •
+feedstock) of 15% -10) extraction oil after supplement Nitrogen-rich Residues: Azolla •
+feedstock) of 10% -5) source nutrient Diverse Waste: Processing Food •
+112
+
+System Processing
+tiers multiple with systems flow-through Continuous Design: Bed •
+feedstock stabilize to composting Partial Pre-treatment: •
+irrigation drip through 80% -70 at Maintained Management: Moisture •
+cooling evaporative and structures Shade Control: Temperature •
+worms from vermicompost of separation Automated Harvesting: •
+Products Vermicompost
+potassium 2% -1 phosphorus, 2% -1 nitrogen, 4% -3 Vermicompost: Solid •
+application foliar for extract Liquid Tea: Vermicompost •
+fish and poultry for supplement Protein Biomass: Worm •
+vermicompost of tons 350 -300 Approximately Production: Annual •
+System Production Biochar
+3 .1 .5
+pyrolysis: through carbon stable into biomass converts production Biochar
+Sources Feedstock
+feedstock) of 40% -30) biomass Post-extraction Residues: Azolla •
+feedstock) of 25% -20) biomass Woody Prunings: Palm Date •
+feedstock) of 25% -20) material woody High-density Prunings: Olive •
+feedstock) of 20% -15) waste agricultural Seasonal Residues: Crop •
+Biochar Azolla-Derived
+nutrient-rich structure, microporous area, surface High Characteristics: •
+carbon stable 65% -60 Content: Carbon •
+potassium and phosphorus original of 50% approximately Retains Profile: Nutrient •
+soils acidic for beneficial ,(9 -8 (pH alkaline Typically pH: •
+retention nutrient enhancing cmol/kg, 40 -30 Capacity: Exchange Cation •
+113
+
+Technology Production
+reactor pyrolysis slow Continuous System: Pyrolysis •
+properties biochar optimal for 550°C -450 Range: Temperature •
+carbonization complete for hours 2 -1 Time: Residence •
+heat process for gases pyrolysis of Capture Recovery: Energy •
+compounds volatile of combustion Secondary Control: Emissions •
+Products Biochar
+amendment soil for product Base Biochar: Raw •
+tea vermicompost from nutrients with Infused Biochar: Charged •
+vermicompost with Co-composted Blend: Biochar-Compost •
+products biochar of tons 250 Approximately Production: Annual •
+Benefits Amendment Soil
+4 .1 .5
+systems: agricultural Tor El the to benefits multiple deliver produced amendments soil The
+Properties Physical Soil
+25% -15 by capacity holding water increases Biochar Retention: Water •
+compaction reduces and aggregation improves Vermicompost Structure: Soil •
+40% -30 by rates infiltration water increase amendments Combined Infiltration: •
+erosion water and wind reduces structure soil Enhanced Resistance: Erosion •
+Properties Chemical Soil
+60% -50 by nitrogen of leaching reduces Biochar Retention: Nutrient •
+acidity soil buffers biochar Alkaline Regulation: pH •
+stress plant reducing salts, adsorbs Biochar Management: Salinity •
+exchange and storage nutrient for capacity Increased Exchange: Cation •
+Properties Biological Soil
+microbes beneficial for spaces protected provides Biochar Habitat: Microbial •
+function enzyme soil enhances Vermicompost Activity: Enzymatic •
+access nutrient improve networks fungal Enhanced Associations: Mycorrhizal •
+pathogens with compete microbes Beneficial Suppression: Pathogen •
+114
+
+Sequestration Carbon
+5 .1 .5
+sequestration: carbon to significantly contributes system biochar The
+years 100+ for stable remains carbon biochar of 80% -70 Stability: •
+equivalent 2CO of tons 175 -150 Approximately Sequestration: Annual •
+levels carbon organic soil in increase Gradual Buildup: Carbon Soil •
+markets offset carbon for Eligible Potential: Credit Carbon •
+Protocols Application
+6 .1 .5
+benefit: maximum for protocols specific to according applied are amendments Soil
+annually tree per vermicompost kg 7 -5 and biochar kg 3 -2 Cultivation: Palm Date •
+annually tree per vermicompost kg 5 -3 and biochar kg 2 -1 Cultivation: Olive •
+annually plant per vermicompost kg 3 -2 and biochar kg 1 -5 .0 Fig: Cactus •
+water in supplement nutrient as tea Vermicompost Ponds: Azolla •
+Guidelines Application Biochar Comprehensive
+residues: Azolla from primarily derived biochar for specifications Detailed
+Soil
+Conditions
+Frequency
+Application
+Rate
+Crop/System
+Sandy/loamy
+-2 .7
+(pH
+soils
+(5 .8 
+Annual
+(October-
+November)
+kg/tree
+3 -2
+with
+(mixed
+vermicompost)
+Palms Date
+soils Clay/loamy
+(0 .8 -8 .6 (pH
+Annual
+(December-
+January)
+kg/tree
+2 -1
+with
+(mixed
+vermicompost)
+Trees Olive
+(pH soils Sandy
+(5 .8 -0 .7
+Annual
+(February)
+kg/plant
+1 -5 .0
+(surface
+application)
+Fig Cactus
+types
+soil
+All
+(0 .8 -5 .6 (pH
+planting
+Each
+cycle
+m² 10 per kg 1
+(incorporated)
+Beds Vegetable
+systems
+Water
+(5 .7 -0 .6 (pH
+Quarterly
+per
+kg
+5 .0
+(water
+m²
+100
+suspension)
+Azolla
+Cultivation
+(pH soils Saline
+(0 .9 -5 .7
+Biannual
+per
+kg
+4 -3
+(deep
+m²
+10
+incorporation)
+Soils Saline
+Type Soil and Crop by Specifications Application Biochar :1 .5 ￿￿￿￿
+115
+
+Specifications Biochar Azolla-Derived
+Production Biodiesel the from sourced (directly residues Azolla from produced biochar The
+advantages: specific offers )?? per Unit
+retains residues Azolla post-extraction from derived Biochar Retention: Nitrogen •
+value fertilizer its enhancing content, nitrogen original of 20% -15
+be: should biochar Azolla-derived results, optimal For Method: Application •
+application before hours 48 -24 for tea compost with Pre-charged –
+(biochar:vermicompost) ratio 1:2 a at vermicompost with Mixed –
+possible where soil of cm 20 -15 top the into Incorporated –
+Considerations: Seasonal •
+spring of preparation and crops tree on Focus (Nov-Feb): Application Winter –
+beds planting
+plantings established newly and beds Vegetable (Mar-May): Application Spring –
+moisture-stressed of maintenance to Limited (Jun-Aug): Application Summer –
+crops
+for preparation and remediation soil on Focused (Sep-Oct): Application Fall –
+crops winter
+Production Biodiesel with Integration
+creation biochar and production biodiesel from residues Azolla between relationship The
+pathway: economy circular key a represents
+from directly comes feedstock biochar of 65% Approximately Material: Source •
+extraction post-oil residues Azolla
+Production Biodiesel the from weekly collected are Residues Timeline: Processing •
+pyrolysis before days 5 -3 for dry to allowed and Unit
+ensure to <3%) (target content oil for tested are batches Residue Control: Quality •
+pyrolysis eﬀicient
+(May-September) months summer during 40% -30 by increases Production Seasonality: •
+capacity maximum at are extraction oil and growth Azolla when
+Production Biodiesel the with coordinated protocols Processing Cross-Reference: •
+(3 .4 (Section plan operational Unit
+Units Other with Integration
+7 .1 .5
+components other with connections multiple maintains unit Biochar and Vermicomposting The
+Economy: Circular Tor El the of
+Inputs: •
+116
+
+unit Management Livestock the from manure Livestock –
+unit Production Biodiesel the from residues Azolla –
+units cultivation all from residues Crop –
+Outputs: •
+units cultivation all to biochar and Vermicompost –
+unit Management Livestock the to biomass Worm –
+markets financial to credits Carbon –
+Services: •
+system entire the for management Waste –
+mitigation climate for sequestration Carbon –
+production sustainable for improvement health Soil –
+Development and Research
+8 .1 .5
+systems: amendment soil optimizing on focus activities research Ongoing
+crops different for blends specific Testing Formulations: Biochar •
+amendments in microorganisms beneficial Enhancing Inoculation: Microbial •
+technologies application precision Developing Methods: Application •
+time over indicators health soil Tracking Monitoring: Long-term •
+Biochar and Vermicomposting for Plan Strategic
+2 .5
+Production
+(2031 -2026) Implementation Phased
+1 .2 .5
+(2027 -2026) 1 Phase
+Capacity: Production •
+annually tons 50 Vermicompost: –
+annually tons 50 Biochar: –
+areas storage units, processing Basic Infrastructure: •
+residues crop manure, livestock Initial Feedstock: •
+units cultivation to supply amendment soil Basic Integration: •
+117
+
+(2028 -2027) 2 Phase
+Capacity: Production •
+annually tons 150 Vermicompost: –
+annually tons 150 Biochar: –
+facilities processing Enhanced Infrastructure: •
+residues Azolla collection, waste Expanded Feedstock: •
+areas cultivation all to supply Regular Integration: •
+(2029 -2028) 3 Phase
+Capacity: Production •
+annually tons 200 Vermicompost: –
+annually tons 200 Biochar: –
+systems processing Advanced Infrastructure: •
+streams waste organic Diversified Feedstock: •
+program enhancement soil Full-scale Integration: •
+(2030 -2029) 4 Phase
+Capacity: Production •
+annually tons 250 Vermicompost: –
+annually tons 250 Biochar: –
+facilities processing Complete Infrastructure: •
+systems recovery waste Maximum Feedstock: •
+protocols management soil Advanced Integration: •
+(2031 -2030) 5 Phase
+Capacity: Production •
+annually tons 300 Vermicompost: –
+annually tons 300 Biochar: –
+optimization System Infrastructure: •
+integration waste Complete Feedstock: •
+integration economy circular Full Integration: •
+vermicomposting sustainable establishing for framework a provides plan strategic This
+project. Economy Circular Tor El the within production biochar and
+118
+
+Biochar and Vermicomposting for Plan Integration
+3 .5
+Production
+(2031 -2026) Integration Phased
+1 .3 .5
+(2027 -2026) 1 Phase
+Inputs: •
+annually) tons (25 manure livestock Initial –
+tons) (35 waste Agricultural –
+equipment processing Basic –
+system management Water –
+Outputs: •
+annually) tons (60 Vermicompost –
+annually) tons (60 Biochar –
+tons) (5 Palm Date for tea Vermicompost –
+tons) (5 amendments cultivation Olive –
+tons) (5 Acacia for amendments soil Initial –
+Points: Integration •
+biochar tons 20 vermicompost, tons 20 Unit: Palm Date –
+biochar tons 20 vermicompost, tons 20 Unit: Olive –
+biochar tons 20 vermicompost, tons 20 Unit: Acacia –
+media growing Specialized support: Nursery –
+(2028 -2027) 2 Phase
+Inputs: •
+annually) tons (60 supply manure Increased –
+tons) (90 waste agricultural Expanded –
+systems processing Enhanced –
+eﬀiciency water Improved –
+Outputs: •
+annually) tons (150 vermicompost Enhanced –
+annually) tons (150 biochar Increased –
+amendments soil Specialized –
+credits sequestration Carbon –
+Points: Integration •
+units cultivation Multiple –
+cycling nutrient Enhanced –
+improvement soil Expanded –
+119
+
+(2029 -2028) 3 Phase
+Inputs: •
+annually) tons (100 collection manure Peak –
+tons) (150 waste agricultural Maximum –
+technology processing Advanced –
+systems water Optimized –
+Outputs: •
+annually) tons (250 production vermicompost Full –
+annually) tons (250 output biochar Maximum –
+unit: cultivation each for amendments Specialized –
+amendments combined tons 80 Palm: Date *
+amendments combined tons 80 Olive: *
+amendments combined tons 40 Acacia: *
+media growing specialized tons 50 Nursery: *
+Points: Integration •
+amendments soil Customized units: cultivation All –
+system management nutrient Complete –
+optimization credit Carbon –
+production seedling for integration Nursery –
+(2030 -2029) 4 Phase
+Inputs: •
+collection waste Optimized –
+systems processing Smart –
+management water Advanced –
+eﬀiciency resource Maximum –
+Outputs: •
+annually) tons (250 vermicompost Premium –
+annually) tons (250 biochar Enhanced –
+products Specialized –
+sequestration carbon Maximum –
+Points: Integration •
+integration system Complete –
+processing Value-added –
+sustainability Enhanced –
+120
+
+(2031 -2030) 5 Phase
+Inputs: •
+optimization system Full –
+integration waste Complete –
+systems technology Smart –
+operations eﬀiciency Peak –
+Outputs: •
+annually) tons (300 capacity production Maximum –
+products quality Peak –
+range product Full –
+benefits carbon Optimized –
+Points: Integration •
+integration economy circular Full –
+optimization resource Complete –
+eﬀiciency system Maximum –
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+4 .5
+(2031 -2026) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+1 .4 .5
+(2027 -2026) ￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿￿25) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿35) ￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿￿60) ￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿60) ￿￿￿￿￿￿￿–
+(￿￿5) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿5) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿5) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿20 ￿￿￿￿￿￿￿￿￿￿￿20 :￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿20 ￿￿￿￿￿￿￿￿￿￿￿20 :￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿20 ￿￿￿￿￿￿￿￿￿￿￿20 :￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿–
+121
+
+(2028 -2027) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿60) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿90) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿150) ￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿￿150) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(2029 -2028) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿100) ￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿150) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿￿250) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿250) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿80 :￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿80 :￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿40 :￿￿￿￿￿￿￿￿￿￿￿￿￿*
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿50 :￿￿￿￿￿￿￿￿￿*
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿:￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+122
+
+(2030 -2029) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿￿250) ￿￿￿￿￿￿￿￿￿￿￿￿￿–
+(￿￿￿￿￿￿￿￿250) ￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿–
+(2031 -2030) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿
+:￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿•
+(￿￿￿￿￿￿￿300) ￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+:￿￿￿￿￿￿￿￿￿￿￿•
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+￿￿￿￿￿￿￿￿￿￿￿￿￿￿￿–
+123
+
+6 ￿￿￿
+Cultivation Palm Date
+Overview Cultivation Palm Date
+1 .6
+Introduction
+1 .1 .6
+the within unit economic critical a represents cultivation dactylifera) (Phoenix palm Date
+semi-arid and arid the to well-adapted are palms Date project. Economy Circular Tor El
+agriculture sustainable for crop ideal an them making Peninsula, Sinai the of conditions
+as cultivation palm date of aspects fundamental the outlines overview This region. the in
+model. economy circular our of component integrated an
+Adaptability and Importance
+2 .1 .6
+exceptional demonstrate palms date nilotica, Acacia on conducted studies to Similar
+regions arid in species tree on Research conditions. environmental harsh to adaptability
+showing some with varieties, different between exist differences genetic that shown has
+of selection The
+productivity. and tolerance, drought performance, growth superior
+El in cultivation palm date of success the to critical therefore is varieties appropriate
+Tor.
+Selection and Variability Genetic
+3 .1 .6
+significant demonstrated have nilotica Acacia like species tree arid-adapted on Studies
+as: such traits in provenances between differences
+growth Height •
+diameter Trunk •
+patterns Branching •
+rates survival Field •
+emphasizing by strategy cultivation palm date our to applied be can findings These
+local under performance superior demonstrate that varieties selecting of importance the
+cultivation our of components key be will selection genetic and trials Provenance conditions.
+approach.
+124
+
+Conditions Environmental
+4 .1 .6
+by: characterized is region Tor El The
+climate Semi-arid •
+annually) mm 200 -100 (approximately rainfall Limited •
+temperatures High •
+soils sandy-loam to Sandy •
+provenances nilotica Acacia certain which in those to similar are conditions These
+palm date of selection careful that suggesting performance, superior demonstrated have
+sustainability. and productivity in improvements significant yield can varieties
+Economy Circular with Integration
+5 .1 .6
+Economy Circular Tor El the in units other with integrated be will cultivation palm Date
+through:
+amendment soil for waste organic of Utilization •
+provision manure for livestock with Integration •
+systems irrigation Water-eﬀicient •
+plants nitrogen-fixing with Intercropping •
+production compost and biochar for waste palm date of Utilization •
+Outcomes Expected
+6 .1 .6
+achieve: to aims unit cultivation palm date The
+dates high-quality of production Sustainable •
+addition matter organic through improvement Soil •
+sequestration Carbon •
+communities local for benefits Economic •
+regions arid in agriculture sustainable of Demonstration •
+how outlining follow, that plans detailed the for foundation the sets overview This
+Economy Circular Tor El the of success overall the to contribute will cultivation palm date
+project.
+125
+
+Cultivation Palm Date for Plan Strategic
+2 .6
+(2031 -2026) Implementation Phased
+1 .2 .6
+(2027 -2026) 1 Phase
+Feddans 5 Area: •
+Infrastructure: •
+palms) date 2500 (capacity: nursery local of Establishment –
+system irrigation drip Basic –
+enhancement and preparation soil Initial –
+unit production biochar Small –
+Production: •
+trees palm date Medjool 200 approximately of Planting –
+testing and selection Variety –
+assessment water and soil Initial –
+performance irrigation drip of Evaluation –
+Integration: •
+unit production biochar small of Setup –
+systems management water Initial –
+setup cycling nutrient Basic –
+pond Azolla experimental Small –
+(2028 -2027) 2 Phase
+(total) Feddans 15 to Expansion Area: •
+Infrastructure: •
+system irrigation Enhanced –
+setup facility processing date Initial –
+operations nursery Expanded –
+Feddans) (3 ponds Azolla Expanded –
+Production: •
+trees palm date Medjool 400 Additional –
+trees 1 Phase from harvest First –
+system intercropping of Implementation –
+cattle) (5 integration livestock Initial –
+Integration: •
+126
+
+cattle) (5 unit livestock initial with Integration –
+production biochar Enhanced –
+system recycling water Expanded –
+ducks) 100 chickens, (200 farming Poultry –
+(2029 -2028) 3 Phase
+(total) Feddans 30 to Expansion Area: •
+Infrastructure: •
+facilities processing Complete –
+management irrigation Advanced –
+facilities storage Enhanced –
+Feddans) (5 ponds Azolla Expanded –
+Production: •
+trees palm date Medjool 600 Additional –
+trees mature from yields Increased –
+processing product Diversified –
+unit production biochar Medium-scale –
+Integration: •
+cattle) (15 integration livestock Full –
+system cycling nutrient Complete –
+management water Advanced –
+ducks) 200 chickens, (500 poultry Expanded –
+(2030 -2029) 4 Phase
+(total) Feddans 45 to Expansion Area: •
+Infrastructure: •
+technology processing Advanced –
+systems irrigation Automated –
+handling and storage Enhanced –
+Feddans) (30 ponds Azolla Expanded –
+Production: •
+trees palm date Medjool 800 Additional –
+phases early from production Full –
+lines processing Value-added –
+127
+
+development unit processing Date –
+Integration: •
+cattle) (25 integration livestock Expanded –
+system circular Complete –
+integration Market –
+ducks) 300 chickens, (800 poultry Expanded –
+(2031 -2030) 5 Phase
+(total) Feddans 60 to expansion Final Area: •
+Infrastructure: •
+optimization System –
+automation Full –
+facilities processing Complete –
+total) Feddans (50 ponds Azolla Expanded –
+Production: •
+trees) 2600 (total trees palm date Medjool 600 Final –
+capacity production Maximum –
+range product Full –
+dates for units processing food and Packaging –
+Integration: •
+integration economy circular Complete –
+flows resource Optimized –
+eﬀiciency system Maximum –
+ducks) 300 chickens, 1000 cattle, (25 integration livestock Full –
+Indicators Performance Key
+2 .2 .6
+Targets: Production •
+phase Establishment 1: Year –
+1 Phase from production Initial 2: Year –
+capacity full of 30% 3: Year –
+capacity full of 60% 4: Year –
+capacity full of 90% 5: Year –
+Eﬀiciency: Resource •
+85% eﬀiciency: use Water –
+128
+
+90% recycling: Nutrient –
+95% utilization: Waste –
+Metrics: Integration •
+flows resource Circular –
+enhancement Biodiversity –
+sequestration Carbon –
+productive and sustainable a establishing for framework a provides plan strategic This
+scientific on drawing Economy, Circular Tor El the within unit cultivation palm date
+research. species arid-region similar from evidence
+Cultivation Palm Date for Plan Operational
+3 .6
+(2031 -2026) Implementation Phased
+1 .3 .6
+(2027 -2026) Operations 1 Phase
+Preparation: Land •
+amendment and analysis soil Initial –
+irrigation drip basic of Installation –
+design spacing and layout Field –
+establishment break Wind –
+Operations: Planting •
+capacity) (2,500 establishment Nursery –
+palms 200 of planting Initial –
+trials selection Variety –
+scheduling irrigation Basic –
+Systems: Management •
+keeping record Basic –
+training staff Initial –
+schedules maintenance Equipment –
+protocols monitoring Simple –
+Integration: Nursery •
+Procurement: Seedling Initial –
+January in Unit Nursery central from seedlings tissue-cultured 250 Receive *
+2026
+confirmation variety for testing) (PCR process verification genetic Complete *
+environment controlled in protocol acclimatization 21-day Implement *
+129
+
+characteristics performance and history genetic material source Document *
+Management: Genetic –
+identifiers unique with system tracking variety Establish *
+)?? (ref: Unit Nursery with database cross-reference Implement *
+Nursery to sharing data with assessments growth monthly Conduct *
+program breeding for records phenological digital Maintain *
+(2028 -2027) Operations 2 Phase
+Activities: Expansion •
+planted palms 400 Additional –
+system irrigation Enhanced –
+implementation Intercropping –
+setup processing Initial –
+Practices: Cultivation •
+program Fertilization –
+system monitoring Pest –
+schedules Pruning –
+management Pollination –
+Management: Resource •
+monitoring use Water –
+tracking Nutrient –
+systems collection Waste –
+records yield Initial –
+Integration: Nursery Advanced •
+Deliveries: Seedling Scheduled –
+Nursery from 150) of batches (quarterly seedlings tissue-cultured 450 Receive *
+Unit
+facility Nursery at protocol inspection pre-delivery Implement *
+window delivery 4-hour with logistics cold-chain Coordinate *
+placement field before inspection and quarantine 48-hour Maintain *
+Loop: Feedback Performance –
+optimization propagation for Nursery to data performance 90-day Provide *
+conditions field to response variety-specific Document *
+meetings optimization genetic cross-unit monthly in Participate *
+maintenance database varietal central to Contribute *
+130
+
+(2029 -2028) Operations 3 Phase
+Systems: Advanced •
+control irrigation Automated –
+management pest Comprehensive –
+operations processing Full –
+keeping record Advanced –
+Management: Production •
+optimization Yield –
+systems control Quality –
+scheduling Harvest –
+handling Post-harvest –
+Activities: Integration •
+systems grazing Livestock –
+operations Composting –
+application Biochar –
+recycling Water –
+(2030 -2029) Operations 4 Phase
+Production: Advanced •
+techniques farming Precision –
+methods pollination Advanced –
+timing harvest Optimized –
+systems grading Quality –
+Operations: Processing •
+processing Value-added –
+diversification Product –
+optimization Storage –
+integration Market –
+Measures: Sustainability •
+tracking footprint Carbon –
+monitoring Biodiversity –
+assessment health Soil –
+metrics eﬀiciency Water –
+131
+
+(2031 -2030) Operations 5 Phase
+Optimization: System •
+integration automation Full –
+eﬀiciency resource Maximum –
+control quality Complete –
+optimization Market –
+Integration: Advanced •
+systems circular Complete –
+integration livestock Full –
+processing Optimized –
+capture value Maximum –
+Metrics: Performance •
+optimization Yield –
+eﬀiciency use Resource –
+standards Quality –
+indicators Sustainability –
+Metrics Operational
+2 .3 .6
+Targets: Production •
+Establishment 1: Phase –
+production Initial 2: Phase –
+capacity 30% 3: Phase –
+capacity 60% 4: Phase –
+capacity 90% 5: Phase –
+Standards: Quality •
+specifications size Fruit –
+levels content Sugar –
+parameters Moisture –
+durability Storage –
+Eﬀiciency: Resource •
+kg per use Water –
+eﬀiciency Energy –
+productivity Labor –
+reduction Waste –
+132
+
+Integration Chain Supply Nursery
+3 .3 .6
+Timeline Procurement Detailed
+Cycle: Planning Annual •
+October by Unit Nursery to requirements planting forward 18-month Submit –
+December by schedule confirmation production nursery Receive –
+adjustments and updates planning quarterly Conduct –
+(March) committee selection genetic annual in Participate –
+Schedule: Receipt Seasonal •
+period) planting (optimal February-March window: delivery Primary –
+period) planting (fall September-October window: delivery Secondary –
+Nursery at maintained stock buffer 10% allocation: replacement Emergency –
+time lead 24-month with schedule propagation Dedicated varieties: Special –
+Management and Verification Genetic
+Protocols: Verification •
+Nursery) with (coordinated plants mother all of fingerprinting Genetic –
+plants culture tissue received of 2% of testing PCR Random –
+post-planting months 24 and 12, 6, at verification Morphological –
+offshoots for matches plant-offspring mother of verification Annual –
+Requirements: Documentation •
+batch plant received each for passport genetic Complete –
+position field to Nursery from record traceability blockchain Digital –
+records propagation Nursery to linked database tracking Performance –
+regulations management resource genetic for documentation Compliance –
+Integration Control Quality
+Criteria: Acceptance •
+length minimum 15cm roots, primary 5 standards: development root Minimum –
+pathogens primary 5 for clearance PCR requirements: testing Pathogen –
+varieties standard for leaves functional 5 height, 30cm Minimum metrics: Growth –
+protocol) (5-day assessment tolerance drought Pre-delivery testing: Stress –
+Monitoring: Performance •
+Nursery to reported metrics establishment and survival 30/60/90-day –
+evaluation performance growth First-year –
+133
+
+optimization propagation for analysis correlation Nursery-Field –
+protocols propagation for cycle improvement Feedback-driven –
+managing and implementing to approach structured a provides plan operational This
+production sustainable use, resource eﬀicient ensuring unit, cultivation palm date the
+chain. supply genetic unit’s Nursery the with integration seamless and practices,
+Cultivation Palm Date for Plan Financial
+4 .6
+(2031 -2026) Budget Implementation Phased
+1 .4 .6
+Establishment Initial - (2027 -2026) 1 Phase
+Expenditure: Capital •
+$50,000 preparation: Land –
+$30,000 system: irrigation Basic –
+$25,000 establishment: Nursery –
+$20,000 equipment: Initial –
+$125,000 CAPEX: Total –
+Expenditure: Operational •
+$15,000 costs: Labor –
+$5,000 Utilities: –
+$10,000 fertilizers): (seedlings, Inputs –
+$5,000 Maintenance: –
+$35,000 OPEX: Total –
+Projections: Revenue •
+$5,000 sales: nursery Initial –
+$5,000 Revenue: Total –
+Development Early - (2028 -2027) 2 Phase
+Expenditure: Capital •
+$40,000 expansion: Irrigation –
+$35,000 equipment: Processing –
+$30,000 development: land Additional –
+$25,000 improvements: Infrastructure –
+$130,000 CAPEX: Total –
+Expenditure: Operational •
+$25,000 costs: Labor –
+134
+
+$8,000 Utilities: –
+$15,000 supplies: and Inputs –
+$7,000 Maintenance: –
+$55,000 OPEX: Total –
+Projections: Revenue •
+$15,000 production: date Initial –
+$10,000 operations: Nursery –
+$25,000 Revenue: Total –
+Expansion - (2029 -2028) 3 Phase
+Expenditure: Capital •
+$60,000 completion: facility Processing –
+$45,000 systems: irrigation Advanced –
+$35,000 upgrades: Equipment –
+$30,000 facilities: Storage –
+$170,000 CAPEX: Total –
+Expenditure: Operational •
+$40,000 costs: Labor –
+$12,000 Utilities: –
+$20,000 inputs: Production –
+$10,000 Maintenance: –
+$82,000 OPEX: Total –
+Projections: Revenue •
+$45,000 production: Date –
+$15,000 products: Value-added –
+$15,000 operations: Nursery –
+$75,000 Revenue: Total –
+Operations Advanced - (2030 -2029) 4 Phase
+Expenditure: Capital •
+$70,000 systems: Automation –
+$50,000 equipment: processing Advanced –
+$40,000 expansion: Infrastructure –
+$30,000 systems: control Quality –
+$190,000 CAPEX: Total –
+135
+
+Expenditure: Operational •
+$60,000 costs: Labor –
+$15,000 Utilities: –
+$25,000 inputs: Production –
+$15,000 Maintenance: –
+$115,000 OPEX: Total –
+Projections: Revenue •
+$90,000 production: Date –
+$35,000 products: Value-added –
+$20,000 operations: Nursery –
+$145,000 Revenue: Total –
+Operation Full - (2031 -2030) 5 Phase
+Expenditure: Capital •
+$50,000 optimization: System –
+$40,000 upgrades: equipment Final –
+$30,000 improvements: Facility –
+$25,000 integration: Technology –
+$145,000 CAPEX: Total –
+Expenditure: Operational •
+$80,000 costs: Labor –
+$20,000 Utilities: –
+$30,000 inputs: Production –
+$20,000 Maintenance: –
+$150,000 OPEX: Total –
+Projections: Revenue •
+$150,000 production: Date –
+$60,000 products: Value-added –
+$25,000 operations: Nursery –
+$235,000 Revenue: Total –
+136
+
+Metrics Financial
+2 .4 .6
+Summary: Investment •
+$760,000 years): (5 CAPEX Total –
+$437,000 years): (5 OPEX Total –
+$485,000 years): (5 Revenue Total –
+Indicators: Performance Key •
+6 Year point: Break-even –
+6) year from (projected 15% ROI: –
+years 7 period: Payback –
+Sources: Funding •
+60% investment: Initial –
+30% financing: Bank –
+10% Grants: –
+the for projections revenue and investment phased the outlines plan financial This
+El the within sustainability financial to path a demonstrating unit, cultivation palm date
+project. Economy Circular Tor
+Cultivation Palm Date for Requirements Resource
+5 .6
+(2031 -2026) Requirements Implementation Phased
+1 .5 .6
+Establishment Initial - (2027 -2026) 1 Phase
+Resources: Land •
+plantation initial for Feddans 5 –
+nursery for Feddan 5 .0 –
+area preparation soil Basic –
+Resources: Water •
+water treated m³/day 15 –
+infrastructure irrigation Basic –
+equipment monitoring quality Water –
+Resources: Human •
+engineer Agricultural 1 –
+workers Skilled 3 –
+laborers General 5 –
+Equipment: •
+137
+
+tools farming Basic –
+tractor Small –
+components irrigation Initial –
+Development Early - (2028 -2027) 2 Phase
+Resources: Land •
+Feddans 15 to Expansion –
+operations nursery for Feddan 1 –
+establishment area Processing –
+Resources: Water •
+water treated m³/day 45 –
+system irrigation Enhanced –
+setup recycling Water –
+Resources: Human •
+engineers Agricultural 2 –
+workers Skilled 5 –
+laborers General 8 –
+Equipment: •
+equipment farming Additional –
+tools processing Basic –
+system irrigation Expanded –
+Expansion - (2029 -2028) 3 Phase
+Resources: Land •
+Feddans 30 to Expansion –
+facilities support for Feddans 5 .1 –
+facility processing Complete –
+Resources: Water •
+water treated m³/day 90 –
+system irrigation Advanced –
+integration recycling water Full –
+Resources: Human •
+engineers Agricultural 3 –
+workers Skilled 8 –
+138
+
+laborers General 12 –
+Equipment: •
+fleet farming Complete –
+equipment Processing –
+facilities Storage –
+Operations Advanced - (2030 -2029) 4 Phase
+Resources: Land •
+Feddans 45 to Expansion –
+facilities support for Feddans 2 –
+areas processing Advanced –
+Resources: Water •
+water treated m³/day 135 –
+systems irrigation Automated –
+management water Advanced –
+Resources: Human •
+engineers Agricultural 4 –
+workers Skilled 10 –
+laborers General 15 –
+Equipment: •
+systems farming Automated –
+line processing Advanced –
+equipment control Quality –
+Operation Full - (2031 -2030) 5 Phase
+Resources: Land •
+Feddans 60 to expansion Final –
+facilities support for Feddans 5 .2 –
+integration facility Complete –
+Resources: Water •
+water treated m³/day 180 –
+systems irrigation Optimized –
+eﬀiciency water Maximum –
+Resources: Human •
+139
+
+engineers Agricultural 5 –
+workers Skilled 12 –
+laborers General 20 –
+Equipment: •
+systems automation Full –
+facilities processing Complete –
+systems monitoring Integrated –
+Metrics Eﬀiciency Resource
+2 .5 .6
+Eﬀiciency: Use Water •
+m³/Feddan/day 3 1: Phase –
+m³/Feddan/day 3 2: Phase –
+m³/Feddan/day 3 3: Phase –
+m³/Feddan/day 3 4: Phase –
+m³/Feddan/day 3 5: Phase –
+Eﬀiciency: Labor •
+workers/Feddan 8 .1 1: Phase –
+workers/Feddan 0 .1 2: Phase –
+workers/Feddan 8 .0 3: Phase –
+workers/Feddan 6 .0 4: Phase –
+workers/Feddan 5 .0 5: Phase –
+Utilization: Equipment •
+utilization 60% 1: Phase –
+utilization 70% 2: Phase –
+utilization 80% 3: Phase –
+utilization 90% 4: Phase –
+utilization 95% 5: Phase –
+needed resources of scaling progressive the outlines plan requirements resource This
+the throughout utilization resource eﬀicient ensuring unit, cultivation palm date the for
+phases. implementation
+140
+
+Cultivation Palm Date for Plan Integration
+6 .6
+(2031 -2026) Implementation Phased
+1 .6 .6
+(2027 -2026) 1 Phase
+Inputs: •
+system treatment water initial from wastewater Treated –
+unit composting initial from vermicompost Basic –
+unit production small-scale from Biochar –
+operations basic for power Solar –
+Outputs: •
+feed livestock initial for fronds Palm –
+composting for waste Organic –
+cultivation understory for areas Shade –
+Points: Integration •
+irrigation for system treatment Water –
+unit vermicomposting Initial –
+facility production biochar Small –
+chain supply feed livestock Basic –
+(2028 -2027) 2 Phase
+Inputs: •
+supply wastewater treated Expanded –
+production vermicompost Enhanced –
+application biochar Increased –
+herd initial from manure Livestock –
+Outputs: •
+harvest date First –
+production frond palm Increased –
+by-products processing date Initial –
+streams waste organic Enhanced –
+Points: Integration •
+integration treatment water Expanded –
+operations composting Enhanced –
+cattle) (5 integration livestock Initial –
+setup facility processing Basic –
+141
+
+(2029 -2028) 3 Phase
+Inputs: •
+integration treatment water Full-scale –
+system vermicompost Complete –
+application biochar Optimized –
+input manure livestock Expanded –
+Outputs: •
+production date Significant –
+output frond palm Maximized –
+by-products processing Diverse –
+utilization stream waste Complete –
+Points: Integration •
+system management water Full –
+integration composting Complete –
+cattle) (15 integration livestock Enhanced –
+operation facility processing Full –
+(2030 -2029) 4 Phase
+Inputs: •
+system treatment water Advanced –
+products vermicompost Premium –
+blends biochar Specialized –
+input manure livestock Optimized –
+Outputs: •
+production date Peak –
+utilization biomass Maximum –
+products processed of range Full –
+recovery waste Complete –
+Points: Integration •
+recycling water Advanced –
+production amendment soil Premium –
+cattle) (20 integration livestock Expanded –
+technology processing Advanced –
+142
+
+(2031 -2030) 5 Phase
+Inputs: •
+system treatment water Optimized –
+composting eﬀiciency Maximum –
+formulations biochar Customized –
+integration livestock Full-scale –
+Outputs: •
+production date Optimized –
+utilization biomass Complete –
+diversification product Full –
+achievement waste Zero –
+Points: Integration •
+system water circular Complete –
+eﬀiciency resource Maximum –
+cattle) (25 integration livestock Full –
+systems processing Optimized –
+Metrics Flow Resource
+2 .6 .6
+Integration: Water •
+recycling water 60% 1: Phase –
+recycling water 70% 2: Phase –
+recycling water 80% 3: Phase –
+recycling water 90% 4: Phase –
+recycling water 95% 5: Phase –
+Utilization: Biomass •
+utilization 70% 1: Phase –
+utilization 80% 2: Phase –
+utilization 90% 3: Phase –
+utilization 95% 4: Phase –
+utilization 99% 5: Phase –
+Eﬀiciency: Integration •
+eﬀiciency cycling Nutrient –
+rates sequestration Carbon –
+metrics recovery Resource –
+143
+
+indicators resilience System –
+Economy Circular Tor El the of objectives overall the with aligns plan integration This
+implementation the throughout optimization resource and development sustainable ensuring project,
+phases.
+144
+
+7 ￿￿￿
+Cultivation Acacia
+Cultivation Acacia of Overview
+1 .7
+Introduction
+1 .1 .7
+project, Economy Circular Tor El the of component vital a is unit cultivation Acacia The
+fixation. nitrogen and production, fodder windbreaks, including purposes multiple serving
+essential providing while units agricultural other with integrate to designed is unit This
+services. ecosystem
+Components Core
+2 .1 .7
+cultivation Acacia to dedicated feddans 45 Allocation: Land •
+Timeline: Implementation •
+planting initial feddans 2 1: Year –
+feddans 4 Additional 2: Year –
+feddans 10 to Expansion 3: Year –
+feddans 25 to Growth 4: Year –
+feddans 45 to expansion Final 5: Year –
+Functions Primary
+3 .1 .7
+Services: Environmental •
+crops other for protection Windbreak –
+fixation nitrogen Soil –
+control Erosion –
+enhancement Biodiversity –
+Integration: Agricultural •
+production fodder Sustainable –
+unit livestock for Support –
+improvement Soil –
+regulation Microclimate –
+145
+
+Practices Sustainable
+4 .1 .7
+Management: Resource •
+utilization water Eﬀicient –
+fixation nitrogen through fertilization Natural –
+management pest Integrated –
+practices pruning Sustainable –
+Benefits: Environmental •
+sequestration Carbon –
+improvement structure Soil –
+creation Habitat –
+enhancement Ecosystem –
+Integration Economic
+5 .1 .7
+Services: and Products •
+production fodder Animal –
+(limited) products Wood –
+services Environmental –
+improvement Soil –
+Benefits: Economy Circular •
+operations livestock for Support –
+crops other for fertilization Natural –
+cycling resource Sustainable –
+resilience farm Enhanced –
+146
+
+8 ￿￿￿
+Cultivation Olive
+Unit Cultivation Olive of Overview
+1 .8
+Description Unit
+1 .1 .8
+Tor El the of component hectares) 9 .18) 45-Feddan a is Unit Cultivation Olive The
+with integrating while oil olive high-quality produce to designed project, Economy Circular
+five in developed be will unit The system. resource circular a in units production other
+suitable trees olive drought-resistant 4,500 hosting ultimately 2031, to 2026 from phases
+drip including practices sustainable employs system cultivation The production. oil for
+livestock with integration and utilization, vermicompost application, biochar irrigation,
+units. poultry and
+Importance Strategic
+2 .1 .8
+markets, export and local for oil olive premium of Production Value: Economic •
+demand. market strong with stream product high-value a creating
+an in methods cultivation water-eﬀicient of Implementation Eﬀiciency: Resource •
+regions. water-scarce in agriculture sustainable demonstrating environment, arid
+both economy, circular project’s the in node key a as Serves Integration: Circular •
+units. production other to outputs providing and from inputs receiving
+contributing sinks, carbon long-term as function trees Olive Sequestration: Carbon •
+objectives. mitigation climate project’s the to
+increase approaches agroforestry and Intercropping Enhancement: Biodiversity •
+resilience. ecosystem and biodiversity
+Targets Production Key
+3 .1 .8
+Production: Oil Olive •
+liters 5,000 3: Year –
+liters 15,000 4: Year –
+liters 30,000 5: Year –
+147
+
+annually liters 67,500 10+): (Year Maturity Full –
+Products: Intercropping •
+annually tons 5 -2 herbs: Medicinal –
+annually tons 7 -3 Legumes: –
+annually tons 15 -10 crops: Forage –
+Services: Ecosystem •
+annually equivalent 2CO tons 900 -450 sequestration: Carbon –
+50 -30 enhancement: Biodiversity –
+3 -2 improvement: health Soil –
+Units Other with Integration
+4 .1 .8
+Unit: Azolla •
+fertilizer Azolla-based and water Nutrient-rich Receives: –
+water return Irrigation Provides: –
+Unit: Livestock •
+fertilization and control weed for animals Grazing Receives: –
+crops forage supplement, feed as pomace Olive Provides: –
+Unit: Production Biochar •
+amendment soil for Biochar Receives: –
+residues processing and waste Pruning Provides: –
+Unit: Vermicomposting •
+enhancement soil for Vermicompost Receives: –
+cultivation and processing from waste Organic Provides: –
+System: Management Water •
+water irrigation Treated Receives: –
+recycling and treatment for water Return Provides: –
+Impact Economic
+5 .1 .8
+Streams: Revenue •
+sales oil olive Premium Primary: –
+products Intercropping Secondary: –
+services ecosystem and credits Carbon Tertiary: –
+Generation: Employment •
+148
+
+positions 12 -8 jobs: Permanent –
+processing and harvest during positions 35 -15 employment: Seasonal –
+services related in positions 30 -20 employment: Indirect –
+Projections: Financial •
+$717,500 investment: Initial –
+300,000 -$150,000 costs: operating Annual –
+750,000 -$500,000 production: full at revenue Annual –
+maturity full after 20% -15 ROI: Projected –
+years 9 -7 period: Payback –
+Sustainability Environmental
+6 .1 .8
+Conservation: Water •
+85 –
+40 -30 –
+integration treatment and recycling Water –
+Health: Soil •
+sequestration carbon for application Biochar –
+enhancement matter organic for Vermicompost –
+practices tillage Minimal –
+mulching and cropping Cover –
+Biodiversity: •
+system intercropping Diverse –
+insects beneficial for creation Habitat –
+inputs chemical Minimal –
+management pest Integrated –
+Economy Circular Tor El the of component key a represents unit cultivation olive This
+modern into integrated be can crops Mediterranean traditional how demonstrating project,
+benefits. social and environmental, economic, providing while systems agricultural circular
+Cultivation Olive for Plan Strategic
+2 .8
+Mission and Vision
+1 .2 .8
+demonstrates that unit cultivation olive sustainable model a establish To Vision: •
+environmental and production, oil olive premium integration, economy circular in excellence
+stewardship.
+149
+
+practices sustainable innovative, through oil olive high-quality produce To Mission: •
+for value creating and biodiversity, promoting eﬀiciency, resource maximizing while
+project. Economy Circular Tor El the within stakeholders all
+Objectives Strategic
+2 .2 .8
+Excellence: Production •
+2031 by Feddans 45 across trees olive 4,500 Establish –
+maturity full by liters 67,500 of production oil olive annual Achieve –
+certifications international meeting standards quality premium Maintain –
+cultivation olive from lines product value-added Develop –
+Goals: Sustainability •
+systems advanced through eﬀiciency irrigation 85% Achieve –
+methods conventional to compared 40% by footprint carbon Reduce –
+farming integrated through 50% -30 by biodiversity Increase –
+integration economy circular through waste zero Achieve –
+Viability: Economic •
+(2033) 8 Year by break-even operational Reach –
+maturity full after ROI 20% -15 Achieve –
+oil olive beyond streams revenue diverse Develop –
+jobs indirect and direct 45 -30 Create –
+Excellence: Integration •
+units project other with cycling resource Maximize –
+systems flow material and logistics eﬀicient Establish –
+units all with relationships synergistic Develop –
+integration through opportunities value-added Create –
+Analysis Strategic
+3 .2 .8
+Strengths: •
+cultivation olive for climate Mediterranean Ideal –
+infrastructure economy circular with Integration –
+sources nutrient and water sustainable to Access –
+support and expertise technical Strong –
+potential positioning product Premium –
+Weaknesses: •
+150
+
+requirements capital initial High –
+production full for period establishment Long –
+requirements integration Complex –
+needs development Market –
+requirements labor Skilled –
+Opportunities: •
+oil olive premium for demand Growing –
+potential market Export –
+opportunities credit Carbon –
+development Agritourism –
+development product Value-added –
+Threats: •
+impacts change Climate –
+competition Market –
+changes Regulatory –
+risks pest and Disease –
+uncertainties Economic –
+Strategy Implementation
+4 .2 .8
+Foundation :(2027 -2026) 1 Phase •
+development Feddans 3 Initial –
+establishment infrastructure Basic –
+training and building Team –
+setup systems Integration –
+planning and research Market –
+Growth Early :(2028 -2027) 2 Phase •
+Feddans 9 to Expansion –
+setup facility Processing –
+systems production Initial –
+development Market –
+enhancement Integration –
+Scaling :(2029 -2028) 3 Phase •
+Feddans 19 to Expansion –
+capabilities processing Full –
+151
+
+expansion Market –
+achievement Certification –
+optimization Integration –
+Maturation :(2030 -2029) 4 Phase •
+Feddans 34 to Expansion –
+implementation technology Advanced –
+development leadership Market –
+integration circular Full –
+optimization chain Value –
+Excellence :(2031 -2030) 5 Phase •
+Feddans 45 to expansion Final –
+optimization System –
+dominance Market –
+eﬀiciency resource Maximum –
+achievement sustainability Full –
+Factors Success Key
+5 .2 .8
+Excellence: Technical •
+technology irrigation Advanced –
+selection variety Optimal –
+implementation agriculture Precision –
+systems control Quality –
+practices Sustainable –
+Development: Market •
+development brand Strong –
+strategy penetration Market –
+network Distribution –
+relationships Customer –
+proposition Value –
+Eﬀiciency: Operational •
+optimization Resource –
+management Cost –
+integration Process –
+development Workforce –
+152
+
+assurance Quality –
+Leadership: Sustainability •
+stewardship Environmental –
+responsibility Social –
+viability Economic –
+focus Innovation –
+engagement Stakeholder –
+Monitoring Performance
+6 .2 .8
+Indicators: Performance Key •
+metrics Production –
+standards Quality –
+performance Financial –
+impact Environmental –
+effectiveness Integration –
+Adjustment: and Review •
+reviews performance Quarterly –
+assessment strategic Annual –
+feedback Stakeholder –
+analysis Market –
+updates Technology –
+operating and developing for framework comprehensive a provides plan strategic This
+project, Economy Circular Tor El the of component key a as unit cultivation olive the
+implementation, phased objectives, clear through success long-term and growth sustainable ensuring
+improvement. continuous and
+Cultivation Olive for Plan Operational
+3 .8
+(2031 -2026) Schedule Implementation Annual
+1 .3 .8
+(2027 -2026) 1 Year
+Preparation: Land •
+amendment and analysis Soil –
+installation system Irrigation –
+establishment Windbreak –
+necessary where Terracing –
+153
+
+Planting: •
+trees) (300 Feddans 3 –
+10m x 10m Spacing: –
+selection varieties Drought-resistant –
+tons) (5 application biochar Initial –
+Management: •
+scheduling Irrigation –
+mulching) and (manual control Weed –
+setup system monitoring Pest –
+herbs medicinal with Intercropping –
+Infrastructure: •
+establishment Nursery –
+facilities storage Basic –
+pathways and roads Access –
+tanks storage Water –
+Integration: Nursery •
+Procurement: Seedling Initial –
+(December Unit Nursery central from saplings olive certified 325 Receive *
+2026)
+(DNA confirmation variety for protocol verification genetic Implement *
+barcoding)
+field before environment transitional in period hardening 14-day Conduct *
+planting
+Nursery from history performance and provenance material source Document *
+records
+Management: Genetic –
+tree each for tagging code QR with system tracking varietal Establish *
+)?? (ref: Unit Nursery with database shared Implement *
+protocols standardized with assessments phenotypical quarterly Conduct *
+profiles genetic to linked parameters growth with inventory digital Create *
+(2028 -2027) 2 Year
+Expansion: •
+trees) (600 Feddans 6 Additional –
+system irrigation of Extension –
+areas intercropping Expanded –
+154
+
+planting windbreak Enhanced –
+Management: •
+trees first-year of Pruning –
+implementation program Fertilization –
+management pest Integrated –
+monitoring moisture Soil –
+Processing: •
+installation press olive Small –
+protocols processing Initial –
+systems control Quality –
+facility packaging Small-scale –
+Integration: •
+cattle) (5 integration livestock Initial –
+Feddans) (3 ponds Azolla to Connection –
+tons) (15 application biochar Enhanced –
+ducks) 100 chickens, (200 integration Poultry –
+Integration: Nursery Advanced •
+Deliveries: Seedling Scheduled –
+December, (October, batches three in saplings olive certified 650 Receive *
+February)
+agronomist with facility Nursery at inspection pre-delivery Implement *
+sign-off
+stress minimize to time transit 6-hour maximum with logistics Coordinate *
+protocol transition 72-hour with area acclimation dedicated Maintain *
+System: Feedback Performance –
+refinement propagation for Nursery to data establishment 6-month Provide *
+protocol monitoring performance varietal joint Implement *
+meetings coordination cross-unit bi-monthly in Participate *
+program breeding central to data performance field Contribute *
+(2029 -2028) 3 Year
+Expansion: •
+trees) (1000 Feddans 10 Additional –
+technology irrigation Advanced –
+system intercropping Expanded –
+management soil Enhanced –
+155
+
+Management: •
+program pruning Intensive –
+regime fertilization Advanced –
+management pest Comprehensive –
+harvest significant First –
+Processing: •
+facility processing Enhanced –
+preparation certification Quality –
+development product Value-added –
+capacity storage Expanded –
+Integration: •
+cattle) (15 integration livestock Expanded –
+Feddans) (5 ponds Azolla to Connection –
+tons) (30 use biochar Optimized –
+ducks) 200 chickens, (500 poultry Expanded –
+(2030 -2029) 4 Year
+Expansion: •
+trees) (1500 Feddans 15 Additional –
+systems irrigation Automated –
+implementation intercropping Complete –
+techniques management soil Advanced –
+Management: •
+harvesting Commercial-scale –
+implementation agriculture Precision –
+systems management pest Advanced –
+management water Optimized –
+Processing: •
+technology processing oil olive Advanced –
+certification quality Full –
+range product Expanded –
+branding and development Market –
+Integration: •
+cattle) (25 integration livestock Full –
+Feddans) (30 ponds Azolla to Connection –
+tons) (40 application biochar Maximum –
+ducks) 300 chickens, (800 integration poultry Full –
+156
+
+(2031 -2030) 5 Year
+Expansion: •
+trees) (1100 Feddans 11 Final –
+optimization System –
+implementation agroforestry Complete –
+program enhancement soil Final –
+Management: •
+eﬀiciency production Maximum –
+implementation technology farming Smart –
+systems monitoring Comprehensive –
+protocols harvesting Optimized –
+Processing: •
+facility processing Full-scale –
+development product Premium –
+development market Export –
+integration chain value Complete –
+Integration: •
+integration economy circular Complete –
+Feddans) (50 ponds Azolla maximum to Connection –
+cycling resource Optimized –
+eﬀiciency system Maximum –
+Protocols Operational
+2 .3 .8
+Management Irrigation
+eﬀiciency 85% with system irrigation Drip •
+technology monitoring moisture Soil •
+periods non-critical during irrigation Deficit •
+systems treatment and recycling Water •
+data climate on based scheduling irrigation Smart •
+157
+
+Program Fertilization
+Azolla) (vermicompost, inputs organic Primarily •
+sequestration carbon for application Biochar •
+stages growth critical during applications Foliar •
+management nutrient precision and testing Soil •
+necessary when inputs synthetic Minimal •
+Management Disease and Pest
+approach (IPM) Management Pest Integrated •
+agents control Biological •
+systems detection early and Monitoring •
+suppression pest for intercropping Strategic •
+necessary when interventions chemical Minimal •
+Processing and Harvesting
+quality oil maximum for timing Optimal •
+eﬀiciency for harvesting Mechanical •
+harvest of hours 24 within pressing Cold •
+stages processing all at control Quality •
+quality maintain to storage Proper •
+Requirements Equipment
+3 .3 .8
+Integration Chain Supply Nursery
+4 .3 .8
+Timeline Procurement Detailed
+Cycle: Planning Annual •
+August by Unit Nursery to requirements planting forward 24-month Submit –
+October by confirmation schedule propagation Receive –
+October) and (April reviews planning bi-annual Conduct –
+(January) committee selection varietal in Participate –
+Schedule: Receipt Seasonal •
+Mediterranean for planting (optimal October-December window: delivery Primary –
+olives)
+varieties) specific for planting (spring February-March window: delivery Secondary –
+8 allocation: Contingency –
+time lead 36-month with schedule propagation Custom varieties: Specialty –
+158
+
+Protocols Verification Genetic
+Methods: Verification •
+panel microsatellite 12-marker using plants mother all of fingerprinting DNA –
+5 of sampling Verification –
+descriptor standardized using months 24 and 12 at authentication Morphological –
+list
+verification final for years) 5 -4) production first at analysis profile Oil –
+Systems: Documentation •
+technology blockchain using batch varietal each for passport genetic Digital –
+field to plant mother from tracking lineage complete with database Secure –
+position
+database genetic central to linked tags tree QR-coded –
+requirements origin of designation protected for documentation Compliance –
+Integration Assurance Quality
+Standards: Acceptance •
+height cm 10 at cm 0 .2 -5 .1 caliper: trunk Minimum –
+distribution well-balanced roots, primary 8 Minimum requirements: system Root –
+pathogens olive key 7 for verification laboratory and Visual screening: Pathogen –
+assessment recovery and simulation drought 7-day testing: stress Pre-delivery –
+Monitoring: Performance •
+assessments 12-month and 6-month, 90-day, schedule: monitoring Three-tiered –
+measurement calibrated digital using reporting parameters growth Standardized –
+system database integrated through sharing data Bi-directional –
+team management Nursery with review performance varietal Annual –
+Plan Integration Nursery to Cross-Reference
+(Section protocols propagation olive Plan Integration Nursery with alignment Direct •
+(2 .4
+(Section planning capacity Nursery to according schedules production Synchronized •
+(6 .3
+system assurance quality Nursery with procedures verification genetic Harmonized •
+(3 .5 (Section
+protocols management data Nursery in specified as systems database Integrated •
+(1 .7 (Section
+managing and implementing to approach structured a provides plan operational This
+practices, production sustainable use, resource eﬀicient ensuring unit, cultivation olive the
+chain. supply genetic unit’s Nursery the with integration seamless and
+159
+
+Cultivation Olive for Plan Financial
+4 .8
+Requirements Investment Capital
+1 .4 .8
+(USD) Amount
+Category Investment
+$90,000
+preparation Land
+$135,000
+system Irrigation
+$67,500
+planting and Trees
+$150,000
+equipment Processing
+$200,000
+infrastructure and Buildings
+$75,000
+equipment Farm
+$717,500
+Investment Capital Total
+Breakdown Investment Capital :1 .8 ￿￿￿￿
+Schedule Investment Phased
+$215,000 :(2027 -2026) 1 Phase •
+$18,000 Feddans): (3 preparation Land –
+$27,000 system: irrigation Initial –
+$13,500 planting: and trees Initial –
+$30,000 equipment: farm Basic –
+$40,000 infrastructure: Initial –
+$15,000 setup: Nursery –
+$25,000 storage: Water –
+$20,000 preparation: Soil –
+$15,000 security: and Fencing –
+$11,500 planning: Technical –
+$172,500 :(2028 -2027) 2 Phase •
+$36,000 Feddans): (6 preparation Land –
+$27,000 expansion: Irrigation –
+$27,000 planting: and trees Additional –
+$60,000 press: olive Small –
+$22,500 facilities: Storage –
+$150,000 :(2029 -2028) 3 Phase •
+$60,000 Feddans): (10 preparation Land –
+$30,000 expansion: Irrigation –
+$45,000 planting: and trees Additional –
+$15,000 enhancement: facility Processing –
+160
+
+$120,000 :(2030 -2029) 4 Phase •
+$90,000 Feddans): (15 preparation Land –
+$45,000 expansion: Irrigation –
+$67,500 planting: and trees Additional –
+$75,000 equipment: processing Advanced –
+$42,500 expansion: Infrastructure –
+$60,000 :(2031 -2030) 5 Phase •
+$66,000 Feddans): (11 preparation Land –
+$33,000 system: irrigation Final –
+$49,500 planting: and trees Final –
+$15,000 optimization: System –
+$15,000 infrastructure: Final –
+Costs Operating
+2 .4 .8
+5 Year
+4 Year
+3 Year
+2 Year
+1 Year
+Category Cost
+$120,000
+$105,000
+$90,000
+$75,000
+$60,000
+Labor
+$60,000
+$52,500
+$45,000
+$37,500
+$30,000
+materials and Inputs
+$30,000
+$26,250
+$22,500
+$18,750
+$15,000
+energy and Water
+$40,000
+$35,000
+$30,000
+$25,000
+$20,000
+Maintenance
+$50,000
+$43,750
+$37,500
+$31,250
+$25,000
+distribution and Marketing
+$300,000
+$262,500
+$225,000
+$187,500
+$150,000
+Costs Operating Annual Total
+Projection Costs Operating Annual :2 .8 ￿￿￿￿
+Details Cost Operating
+Labor: •
+annually 80,000 -$40,000 staff: Permanent –
+annually 40,000 -$20,000 workers: Seasonal –
+annually 10,000 -$5,000 development: and Training –
+Materials: and Inputs •
+annually 20,000 -$10,000 fertilizers: Organic –
+annually 10,000 -$5,000 management: Pest –
+annually 20,000 -$10,000 materials: Packaging –
+annually 10,000 -$5,000 supplies: Other –
+Energy: and Water •
+161
+
+annually 16,000 -$8,000 water: Irrigation –
+annually 10,000 -$5,000 processing: for Electricity –
+annually 4,000 -$2,000 equipment: for Fuel –
+Maintenance: •
+annually 10,000 -$5,000 system: Irrigation –
+annually 16,000 -$8,000 equipment: Processing –
+annually 10,000 -$5,000 infrastructure: and Buildings –
+annually 4,000 -$2,000 equipment: Farm –
+Distribution: and Marketing •
+annually 20,000 -$10,000 labeling: and Packaging –
+annually 10,000 -$5,000 Transportation: –
+annually 16,000 -$8,000 promotion: and Marketing –
+annually 4,000 -$2,000 certification: Quality –
+Projections Revenue
+3 .4 .8
+5 Year
+4 Year
+3 Year
+2 Year
+1 Year
+Stream Revenue
+$450,000
+$300,000
+$150,000
+$50,000
+$0
+sales oil Olive
+$100,000
+$80,000
+$60,000
+$40,000
+$20,000
+products Intercropping
+$60,000
+$45,000
+$30,000
+$15,000
+$5,000
+By-products
+$40,000
+$30,000
+$20,000
+$10,000
+$0
+services Ecosystem
+$650,000
+$455,000
+$260,000
+$115,000
+$25,000
+Revenue Annual Total
+Projection Revenue Annual :3 .8 ￿￿￿￿
+Details Stream Revenue
+Sales: Oil Olive •
+liter per 20 -$15 oil: olive Premium –
+liter per 15 -$10 oil: olive Standard –
+liter per 30 -$20 oils: Flavored/specialty –
+Products: Intercropping •
+annually 20,000 -$5,000 herbs: Medicinal –
+annually 30,000 -$10,000 Legumes: –
+annually 50,000 -$5,000 crops: Forage –
+By-products: •
+annually 20,000 -$10,000 feed: animal for pomace Olive –
+162
+
+annually 15,000 -$5,000 teas: herbal for leaves Olive –
+annually 25,000 -$10,000 ingredients: Cosmetic –
+Services: Ecosystem •
+annually 25,000 -$10,000 credits: Carbon –
+annually 10,000 -$5,000 enhancement: Biodiversity –
+annually 15,000 -$5,000 Educational/agritourism: –
+Analysis Financial
+4 .4 .8
+5 Year
+4 Year
+3 Year
+2 Year
+1 Year
+Metric Financial
+$650,000
+$455,000
+$260,000
+$115,000
+$25,000
+Revenue Total
+$300,000
+$262,500
+$225,000
+$187,500
+$150,000
+Costs Operating Total
+$60,000
+$120,000
+$150,000
+$172,500
+$215,000
+Investment Capital
+$290,000
+$72,500
+-$115,000
+-$245,000
+-$340,000
+Flow Cash Net
+-$337,500
+-$627,500
+-$700,000
+-$585,000
+-$340,000
+Flow Cash Cumulative
+Years) 5 (First Projection Flow Cash :4 .8 ￿￿￿￿
+Projections Financial Long-term
+(2033) 8 Year Point: Break-even •
+maturity full after 20% -15 Investment: on Return •
+horizon) (10-year 15% -12 (IRR): Return of Rate Internal •
+rate) discount 8% horizon, (10-year million 5 .1 -2 .$1 (NPV): Value Present Net •
+1 .2 -7 .1 Index: Profitability •
+Strategy Funding
+5 .4 .8
+($287,000) 40% Investment: Equity •
+($251,125) 35% Financing: Debt •
+($107,625) 15% Subsidies: and Grants •
+($71,750) 10% Reinvestment: Revenue •
+Sources Funding Potential
+banks development Agricultural •
+initiatives finance Climate •
+funds investment agriculture Sustainable •
+163
+
+farming water-eﬀicient for subsidies Government •
+pre-financing credit Carbon •
+agriculture sustainable on focused investors Impact •
+Management Risk
+6 .4 .8
+Risks: Market •
+products diversified through mitigation volatility Price –
+buyers premium with contracts Forward –
+channels direct-to-consumer of Development –
+Risks: Production •
+events weather extreme for insurance Crop –
+risk disease spread to cultivars Diversified –
+sources multiple through security Water –
+Risks: Financial •
+exposure limit to investment Phased –
+flow cash ensure to streams revenue Multiple –
+sales export for hedging Currency –
+unit cultivation olive the of viability economic the demonstrates plan financial This
+significant despite returns long-term strong with project, Economy Circular Tor El the within
+operational creates units project other with integration The requirements. investment initial
+performance. financial overall enhance that synergies
+Cultivation Olive for Requirements Resource
+5 .8
+Requirements Land
+1 .5 .8
+hectares) 9 .18) Feddans 45 Area: Total •
+Feddan per trees 100 Density: Planting •
+capacity full at trees olive 4,500 Trees: Total •
+Development: Phased •
+trees) (300 Feddans 3 :(2027 -2026) 1 Phase –
+trees) (900 total Feddans 9 :(2028 -2027) 2 Phase –
+trees) (1,900 total Feddans 19 :(2029 -2028) 3 Phase –
+trees) (3,400 total Feddans 34 :(2030 -2029) 4 Phase –
+trees) (4,500 total Feddans 45 :(2031 -2030) 5 Phase –
+164
+
+Requirements Water
+2 .5 .8
+Feddan per m³ 6,000 -4,000 Need: Water Annual •
+m³ 270,000 -180,000 capacity): full (at Water Annual Total •
+eﬀiciency 85% with irrigation Drip System: Irrigation •
+Sources: Water •
+well project from Groundwater Primary: –
+facilities project from wastewater Treated Secondary: –
+systems harvesting Rainwater Supplementary: –
+Measures: Conservation Water •
+monitoring moisture Soil –
+periods non-critical during irrigation Deficit –
+cover ground and Mulching –
+evaporation reduce to Windbreaks –
+Inputs Material
+3 .5 .8
+Materials: Planting •
+(phased) trees 4,500 saplings: Olive –
+production oil for suitable varieties Drought-resistant –
+legumes) herbs, (medicinal seeds Intercropping –
+plants companion and Windbreak –
+Amendments: Soil •
+phases) with (increasing annually tons 40 -5 Vermicompost: –
+phases) with (increasing annually tons 40 -5 Biochar: –
+annually tons 20 -2 fertilizer: Azolla-based –
+tests soil on based needed as supplements Mineral –
+Management: Pest •
+agents control Biological –
+deterrents pest Organic –
+equipment Monitoring –
+necessary when inputs chemical Minimal –
+165
+
+Infrastructure and Equipment
+4 .5 .8
+Infrastructure: Irrigation •
+Feddans 45 for system irrigation Drip –
+systems filtration and pumps Water –
+capacity) liters (50,000 tanks storage Water –
+equipment monitoring and sensors moisture Soil –
+Equipment: Processing •
+kg/hour) 500 (capacity: press Olive –
+steel) (stainless tanks storage oil Olive –
+equipment bottling and Filtration –
+equipment laboratory testing Quality –
+Equipment: Farm •
+implements with tractor Small –
+tools harvesting and Pruning –
+equipment Spraying –
+vehicles Transportation –
+Buildings: •
+m²) (200 facility Processing –
+m²) (150 warehouse Storage –
+m²) (100 shed Equipment –
+m²) (50 facilities Staff –
+Resources Human
+5 .5 .8
+Staff: Permanent •
+(1) specialist cultivation Olive –
+(1) manager Farm –
+(1) technician Processing –
+phases) with increasing ,8 -4) workers Field –
+(1) technician Maintenance –
+Workers: Seasonal •
+season) harvest during 20 -10) crew Harvesting –
+season) pruning during 10 -5) crew Pruning –
+season) processing during 5 -3) assistants Processing –
+Support: External •
+166
+
+consultant quality oil Olive –
+specialist management Pest –
+specialist sales and Marketing –
+technicians maintenance Equipment –
+Resources Financial
+6 .5 .8
+Investment: Capital •
+$90,000 preparation: Land –
+$135,000 system: Irrigation –
+$67,500 planting: and Trees –
+$150,000 equipment: Processing –
+$200,000 infrastructure: and Buildings –
+$75,000 equipment: Farm –
+$717,500 investment: capital Total –
+Costs: Operating Annual •
+phases) with (increasing 120,000 -$60,000 Labor: –
+60,000 -$30,000 materials: and Inputs –
+30,000 -$15,000 energy: and Water –
+40,000 -$20,000 Maintenance: –
+50,000 -$25,000 distribution: and Marketing –
+300,000 -$150,000 costs: operating annual Total –
+Resources Integration
+7 .5 .8
+Units: Other from Inputs •
+unit vermicomposting from Vermicompost –
+unit pyrolysis from Biochar –
+ponds Azolla from fertilizer Azolla-based –
+system management water from water Treated –
+manure and grazing for Livestock –
+Units: Other to Outputs •
+production biochar to waste Pruning –
+vermicomposting to waste Processing –
+supplement feed livestock for pomace Olive –
+livestock and market for products Intercropping –
+biodiversity) sequestration, (carbon services Ecosystem –
+necessary the has unit cultivation olive the ensures plan requirements resource This
+the in units other with integration maximizing while implementation successful for inputs
+project. Economy Circular Tor El
+167
+
+Cultivation Olive for Plan Management Risk
+6 .8
+Risks Production
+1 .6 .8
+Risks: Climate-Related •
+fluctuations temperature drought, events, weather Extreme Risk: –
+deterioration quality damage, tree yield, Reduced Impact: –
+Strategies: Mitigation –
+structures shade and windbreaks of Installation *
+selection variety Drought-resistant *
+monitoring moisture with systems irrigation Advanced *
+systems warning early and monitoring Weather *
+coverage insurance Crop *
+Risks: Pest and Disease •
+spot peacock wilt, verticillium fly, fruit Olive Risk: –
+costs increased reduction, quality loss, Crop Impact: –
+Strategies: Mitigation –
+system (IPM) Management Pest Integrated *
+detection early and monitoring Regular *
+methods control Biological *
+selection variety Disease-resistant *
+ventilation for pruning and spacing Proper *
+Risks: Availability Resource •
+shortages labor shortages, input scarcity, Water Risk: –
+yield reduced costs, increased delays, Production Impact: –
+Strategies: Mitigation –
+systems storage and sources water Diversified *
+inputs critical for contracts supplier Long-term *
+programs retention and training Worker *
+technologies Resource-eﬀicient *
+maintenance stock Buffer *
+Risks Market
+2 .6 .8
+Volatility: Price •
+variations cost input prices, oil olive Fluctuating Risk: –
+pressure margin uncertainty, Revenue Impact: –
+Strategies: Mitigation –
+buyers with contracts Forward *
+168
+
+certification) organic quality, (premium differentiation Product *
+range product Diversified *
+processing Value-added *
+system intelligence Market *
+Competition: •
+competition international and local Increased Risk: –
+pressure price loss, share Market Impact: –
+Strategies: Mitigation –
+branding and certification Quality *
+development proposition value Unique *
+relationships customer Strong *
+diversification Market *
+programs eﬀiciency Cost *
+Changes: Demand •
+downturns economic preferences, consumer Shifting Risk: –
+buildup inventory reduction, Sales Impact: –
+Strategies: Mitigation –
+monitoring trend and research Market *
+adaptation and innovation Product *
+planning production Flexible *
+channels Direct-to-consumer *
+development market Export *
+Risks Operational
+3 .6 .8
+Infrastructure: and Equipment •
+damage infrastructure failure, Equipment Risk: –
+issues quality disruption, Production Impact: –
+Strategies: Mitigation –
+program maintenance Preventive *
+inventory parts spare Critical *
+operations critical for systems Backup *
+insurance Equipment *
+handling equipment on training Staff *
+Control: Quality •
+contamination variations, quality Product Risk: –
+damage reputation rejection, Product Impact: –
+Strategies: Mitigation –
+169
+
+implementation system management Quality *
+monitoring and testing Regular *
+standards quality on training Staff *
+system Traceability *
+certification quality Third-party *
+Chain: Supply •
+disruptions logistics delays, Input Risk: –
+costs increased delays, Production Impact: –
+Strategies: Mitigation –
+relationships supplier Multiple *
+management inventory Buffer *
+arrangements logistics Alternative *
+system monitoring chain Supply *
+planning Contingency *
+Risks Financial
+4 .6 .8
+Flow: Cash •
+delays payment variations, revenue Seasonal Risk: –
+disruption operational shortage, capital Working Impact: –
+Strategies: Mitigation –
+monitoring and forecasting flow Cash *
+arrangements line Credit *
+management terms payment Customer *
+diversification Revenue *
+measures control Cost *
+Rate: Interest and Currency •
+changes rate interest fluctuations, rate Exchange Risk: –
+increase cost loss, Financial Impact: –
+Strategies: Mitigation –
+exports for hedging Currency *
+arrangements financing Fixed-rate *
+operations local through hedging Natural *
+monitoring risk Financial *
+planning financial Conservative *
+170
+
+Review and Monitoring Risk
+5 .6 .8
+Assessment: Risk Regular •
+meetings review risk Quarterly –
+assessment risk comprehensive Annual –
+updates matrix Risk –
+evaluation effectiveness strategy Mitigation –
+analysis and identification risk New –
+Tools: Management Risk •
+software tracking Risk –
+indicators warning Early –
+monitoring metrics Performance –
+system reporting Incident –
+mechanisms feedback Stakeholder –
+Improvement: Continuous •
+programs training management Risk –
+updates practice Best –
+documentation learned Lessons –
+refinement strategy Mitigation –
+communication Stakeholder –
+assessing, identifying, for framework a provides plan management risk comprehensive This
+sustainable ensuring unit, cultivation olive the of aspects all across risks mitigating and
+project. Economy Circular Tor El the within success long-term and operations
+Cultivation Olive for Plan Sustainability
+7 .8
+Sustainability Environmental
+1 .7 .8
+Management: Water •
+Objectives: –
+eﬀiciency irrigation 85% Achieve *
+methods conventional to compared 40% -30 by consumption water Reduce *
+reuse and recycling water Maximize *
+technologies irrigation smart Implement *
+Implementation: –
+systems irrigation drip Advanced *
+technology monitoring moisture Soil *
+systems storage and harvesting Water *
+171
+
+facilities treatment water with Integration *
+selection variety Drought-resistant *
+Health: Soil •
+Objectives: –
+annually 3% -2 by matter organic soil Increase *
+biodiversity soil Enhance *
+erosion soil Prevent *
+levels nutrient and pH soil optimal Maintain *
+Implementation: –
+program application Biochar *
+integration Vermicompost *
+systems cropping Cover *
+practices tillage Minimal *
+monitoring and testing soil Regular *
+Biodiversity: •
+Objectives: –
+50% -30 by diversity species Increase *
+corridors wildlife Create *
+habitat pollinator Enhance *
+populations insect beneficial Maintain *
+Implementation: –
+system intercropping Diverse *
+integration plant Native *
+establishment Hedgerow *
+management pest Integrated *
+practices Wildlife-friendly *
+Management: Carbon •
+Objectives: –
+annually equivalent 2CO tons 900 -450 Sequester *
+footprint carbon operational Reduce *
+credits carbon Generate *
+soil in storage carbon Enhance *
+Implementation: –
+optimization density Tree *
+application Biochar *
+integration energy Renewable *
+mechanization Minimal *
+system monitoring Carbon *
+172
+
+Sustainability Social
+2 .7 .8
+Development: Community •
+Objectives: –
+jobs local 45 -30 Create *
+expertise and skills Develop *
+economy local Support *
+security food Enhance *
+Implementation: –
+priority hiring Local *
+programs Training *
+initiatives engagement Community *
+development supplier Local *
+platforms sharing Knowledge *
+Welfare: Worker •
+Objectives: –
+benefits and wages fair Ensure *
+conditions working safe Provide *
+development skill Promote *
+balance work-life Support *
+Implementation: –
+program safety Comprehensive *
+paths development Career *
+initiatives wellness and Health *
+practices labor Fair *
+sessions training Regular *
+Integration: Cultural •
+Objectives: –
+heritage agricultural local Preserve *
+knowledge traditional Integrate *
+exchange cultural Promote *
+traditions local Support *
+Implementation: –
+integration practice Traditional *
+organization events Cultural *
+documentation Knowledge *
+partnerships Community *
+programs preservation Heritage *
+173
+
+Sustainability Economic
+3 .7 .8
+Viability: Financial •
+Objectives: –
+8 Year by break-even Achieve *
+maturity after ROI 20% -15 Maintain *
+streams revenue multiple Develop *
+eﬀiciency cost Ensure *
+Implementation: –
+portfolio product Diversified *
+processing Value-added *
+strategy development Market *
+systems control Cost *
+utilization resource Eﬀicient *
+Development: Market •
+Objectives: –
+presence brand premium Establish *
+markets export Develop *
+base customer stable Create *
+value product Maximize *
+Implementation: –
+certification Quality *
+strategy Marketing *
+management relationship Customer *
+development network Distribution *
+initiatives building Brand *
+Growth: and Innovation •
+Objectives: –
+services and products new Develop *
+technologies innovative Implement *
+streams value additional Create *
+improvement continuous Foster *
+Implementation: –
+program development and Research *
+strategy adoption Technology *
+diversification Product *
+optimization Process *
+partnerships Innovation *
+174
+
+Evaluation and Monitoring
+4 .7 .8
+Metrics: Environmental •
+eﬀiciency use Water –
+indicators health Soil –
+indices Biodiversity –
+rates sequestration Carbon –
+metrics reduction Waste –
+Metrics: Social •
+statistics Employment –
+completed hours Training –
+levels engagement Community –
+rates satisfaction Worker –
+impact economic Local –
+Metrics: Economic •
+indicators performance Financial –
+metrics share Market –
+outcomes Innovation –
+ratios eﬀiciency Resource –
+measures creation Value –
+long- the ensuring for framework comprehensive a provides plan sustainability This
+the within unit cultivation olive the of viability economic and social, environmental, term
+project. Economy Circular Tor El
+Cultivation Olive for Plan Integration
+8 .8
+Framework Integration Economy Circular
+1 .8 .8
+Circular Tor El the of component integral an as designed is unit cultivation olive The
+units. production other to it connecting flows resource multiple with project, Economy
+connections, these establishing to approach systematic the outlines plan integration This
+overall enhance that relationships synergistic creating and eﬀiciency, resource maximizing
+sustainability. and productivity system
+Principles Integration
+water, matter, organic nutrients, of cycling the Maximize Circularity: Resource •
+system the within energy and
+units other for inputs valuable into by-products all Transform Elimination: Waste •
+175
+
+olive between connections beneficial mutually Create Relationships: Synergistic •
+units other and cultivation
+connections diversified through stability system overall Enhance Resilience: System •
+the with parallel in connections integration Develop Implementation: Phased •
+unit olive the of expansion phased
+Analysis Flow Resource
+2 .8 .8
+Cultivation Olive to Inputs
+Application
+Method
+Quantity/Timing
+Unit Source
+Resource
+soil
+as
+Applied
+during
+amendment
+spring and autumn
+tons/Feddan
+10 -5
+annually
+unit Livestock
+Composted
+manure
+drip
+Precision
+system irrigation
+6,000 -4,000
+annually m³/Feddan
+management
+Water
+unit
+Treated
+wastewater
+soil into Incorporated
+and
+planting
+during
+maintenance
+tons/Feddan
+3 -2
+5 .0
+initially,
+annually tons/Feddan
+thereafter
+production
+Biochar
+unit
+Biochar
+tree around Applied
+key
+during
+basins
+stages growth
+tons/Feddan
+2 -1
+annually
+unit Vermicomposting
+Vermicompost
+manure green as Used
+mulch and
+tons/Feddan
+5 -3
+annually
+unit cultivation Azolla
+biomass Azolla
+signs first at Released
+pressure pest of
+pest during needed As
+outbreaks
+pest
+Integrated
+unit management
+Beneficial
+insects
+grazing
+Rotational
+rows tree between
+birds/Feddan
+30 -20
+seasonally
+unit Poultry
+pest for Poultry
+control
+Unit Cultivation Olive to Inputs Resource :5 .8 ￿￿￿￿
+Cultivation Olive from Outputs
+Units Specific with Integration
+3 .8 .8
+Unit Livestock with Integration
+Livestock: from Inputs •
+fertilization for manure Composted –
+management weed for grazing Controlled –
+respiration livestock from enrichment 2CO –
+Livestock: to Outputs •
+176
+
+Processing
+Required
+Quantity/Timing
+Unit Destination
+Resource
+optional and Drying
+treatment
+harvested of 30% -20
+weight,
+olive
+seasonally
+unit,
+Livestock
+unit Biochar
+pomace Olive
+drying and Chipping
+tons/Feddan
+2 -1
+annually
+production
+Biochar
+unit
+waste Pruning
+sorting and Drying
+ton/Feddan
+1 -5 .0
+annually
+unit, products Herbal
+unit Livestock
+leaves Olive
+basic and Harvesting
+processing
+crop,
+by
+Varies
+seasonally
+Food
+Market,
+unit processing
+Intercrop
+products
+and
+Filtration
+collection
+of ton per m³ 5 .1 -1
+processed olives
+unit Biogas
+oil
+Olive
+processing
+wastewater
+None
+service Continuous
+units Adjacent
+and
+Shade
+windbreak
+management Habitat
+service Continuous
+system Entire
+Biodiversity
+enhancement
+Unit Cultivation Olive from Outputs Resource :6 .8 ￿￿￿￿
+processing) (after supplement feed as pomace Olive –
+supplement nutritional as leaves Olive –
+animals for shelter and Shade –
+crops forage Intercropped –
+Timeline: Implementation •
+Feddans 3 first to application manure Initial 1: Phase –
+grazing livestock limited of Introduction 2: Phase –
+by-products olive increased with integration Expanded 3: Phase –
+flows resource optimized with integration Full :5 -4 Phase –
+Unit Management Water with Integration
+Management: Water from Inputs •
+irrigation for wastewater Treated –
+design system irrigation for support Technical –
+monitoring quality Water –
+planning allocation water Seasonal –
+Management: Water to Outputs •
+treatment for wastewater processing Olive –
+runoff reducing retention water soil Improved –
+177
+
+eﬀiciency use water on Data –
+bodies water adjacent from evaporation reducing Shade –
+Timeline: Implementation •
+water treated using system irrigation Basic 1: Phase –
+systems feedback and monitoring water Enhanced 2: Phase –
+management wastewater processing olive of Integration 3: Phase –
+implementation technologies water-eﬀicient Advanced :5 -4 Phase –
+Unit Production Biochar with Integration
+Biochar: from Inputs •
+amendment soil for Biochar –
+methods application for support Technical –
+trees olive for formulations biochar Specialized –
+applicable) (where processing olive for energy Heat –
+Biochar: to Outputs •
+feedstock as waste Pruning –
+material biochar high-quality as pits Olive –
+production biochar specialized for pomace Olive –
+crops tree in application biochar for ground Testing –
+Timeline: Implementation •
+plantings new in application biochar Initial 1: Phase –
+unit biochar to waste pruning of return First 2: Phase –
+by-products processing olive of Integration 3: Phase –
+applications and formulations biochar Advanced :5 -4 Phase –
+Unit Cultivation Azolla with Integration
+Azolla: from Inputs •
+manure green as biomass Azolla –
+matter organic Nitrogen-rich –
+elements biodiversity system Aquatic –
+ponds Azolla near moderation Microclimate –
+Azolla: to Outputs •
+evaporation reducing ponds Azolla for Shade –
+surfaces water open for protection Windbreak –
+178
+
+control algae potential for extract leaf Olive –
+health Azolla support that insects beneficial for Habitat –
+Timeline: Implementation •
+plots test to application Azolla Small-scale 1: Phase –
+grows plantation olive as use Expanded 2: Phase –
+ponds Azolla near plantings olive new of placement Strategic 3: Phase –
+system olive mature with integration Optimized :5 -4 Phase –
+Unit Vermicomposting with Integration
+Vermicomposting: from Inputs •
+maintenance and establishment tree for Vermicompost –
+application foliar for Vermitea –
+health soil for microorganisms Beneficial –
+methods and timing application for support Technical –
+Vermicomposting: to Outputs •
+feedstock vermicompost as leaves Olive –
+processing for residues Intercrop –
+treatment) initial (after wastewater processing Olive –
+systems olive in performance vermicompost on data Testing –
+Timeline: Implementation •
+plantings new to application vermicompost Initial 1: Phase –
+materials olive of return first and use Expanded 2: Phase –
+system intercropping with Integration 3: Phase –
+formulations specialized and applications Advanced :5 -4 Phase –
+Unit Poultry with Integration
+Poultry: from Inputs •
+foraging through control Pest –
+fertilization for Manure –
+compost and mulch for Feathers –
+respiration from enrichment 2CO –
+Poultry: to Outputs •
+supplement feed as pomace Olive –
+predators from protection and Shade –
+179
+
+foraging for weeds and Insects –
+material bedding for leaves Olive –
+Timeline: Implementation •
+integration direct No 1: Phase –
+flocks poultry small of introduction Initial 2: Phase –
+system grazing rotational Expanded 3: Phase –
+integration poultry-olive Optimized :5 -4 Phase –
+System Management Integration
+4 .8 .8
+Mechanisms Coordination
+exchanges resource for calendar Coordinated Scheduling: Flow Resource •
+materials exchanged all for Standards Protocols: Control Quality •
+qualities and quantities resource of Tracking System: Monitoring •
+optimization and assessment Regular Mechanisms: Feedback •
+units multiple spanning responsibilities with Staff Teams: Cross-Unit •
+Management Data
+outputs and inputs all Tracking Database: Exchange Resource •
+effectiveness integration Measuring Metrics: Performance •
+opportunities improvement Identifying Algorithms: Optimization •
+flows resource of representation Graphical Tools: Visualization •
+management integration Guiding System: Support Decision •
+Implementation Integration Phased
+5 .8 .8
+Foundation :(2027 -2026) 1 Phase
+units management water and biochar with connections basic Establish •
+system irrigation initial implement and Design •
+areas planting to amendments biochar first Apply •
+applications Azolla small-scale Test •
+protocols monitoring integration Develop •
+180
+
+Expansion :(2028 -2027) 2 Phase
+application manure with integration livestock Initiate •
+unit biochar to waste pruning returning Begin •
+plantings new to applications Azolla Expand •
+trees established to vermicompost Introduce •
+integration poultry small-scale Implement •
+flows resource for systems collection data Establish •
+Diversification :(2029 -2028) 3 Phase
+management by-product and processing oil olive Begin •
+grazing controlled with integration livestock Expand •
+outputs multiple with system intercropping Implement •
+olives for formulations biochar specialized Develop •
+system grazing rotational poultry Expand •
+techniques management water advanced Initiate •
+Optimization :(2030 -2029) 4 Phase
+processes exchange resource all Refine •
+outputs and inputs all of quantities and timing Optimize •
+systems feedback and monitoring advanced Implement •
+feed) poultry-olive (e.g., integration from products specialized Develop •
+systems integrated across eﬀiciency energy Maximize •
+integration from services ecosystem Quantify •
+Maturation :(2031 -2030) 5 Phase
+units all with integration circular full Achieve •
+system management flow resource advanced Implement •
+eﬀiciency maximum for processes all Optimize •
+benefits integration all quantify and Document •
+components education and demonstration Develop •
+improvement continuous for protocols research Establish •
+181
+
+Metrics Performance Integration
+6 .8 .8
+Metrics Eﬀiciency Resource
+system within recycled nutrients of Percentage Eﬀiciency: Cycling Nutrient •
+output system total of kg per water of Liters Eﬀiciency: Use Water •
+inputs valuable to converted by-products of Percentage Rate: Conversion Waste •
+units integrated across output vs. input Energy Eﬀiciency: Energy •
+monocultures vs. system integrated of Productivity Ratio: Equivalent Land •
+Metrics Integration Economic
+integration to due costs input Reduced Savings: Cost Integration •
+integration by enabled products from Revenue Products: Value-Added •
+production of unit per hours Labor Eﬀiciency: Labor •
+production diversified of benefit Quantified Value: Reduction Risk •
+products system integrated for premium Price Premium: Market •
+Metrics Integration Environmental
+integration through sequestered e2CO of Tons Sequestration: Carbon •
+systems conventional vs. integrated in diversity Species Index: Biodiversity •
+structure activity, microbial matter, Organic Indicators: Health Soil •
+integration through pressure pest Reduced Suppression: Pest •
+benefits environmental of value Monetized Value: Service Ecosystem •
+Solutions and Challenges Integration
+7 .8 .8
+Challenges Technical
+units across cycles production Synchronizing Challenge: •
+storage buffer and systems scheduling detailed Develop Solution: •
+materials exchanged of quality consistent Ensuring Challenge: •
+standards processing and protocols control quality Implement Solution: •
+availability resource in variations seasonal Managing Challenge: •
+pathways resource alternative and systems storage Create Solution: •
+182
+
+Challenges Management
+units multiple across activities Coordinating Challenge: •
+protocols coordination and team management cross-unit Establish Solution: •
+management system integrated in staff Training Challenge: •
+sharing knowledge and program training comprehensive Develop Solution: •
+system whole vs. units individual of optimization Balancing Challenge: •
+incentives and metrics performance system-level Implement Solution: •
+Challenges Economic
+infrastructure integrated for investment initial Higher Challenge: •
+integrations high-return of prioritization and implementation Phased Solution: •
+benefits integration of value the Quantifying Challenge: •
+benefits indirect and direct for system accounting comprehensive Develop Solution: •
+products system integrated for development Market Challenge: •
+benefits quality and sustainability highlighting strategy marketing Create Solution: •
+olive the embedding for framework comprehensive a provides plan integration This
+systematic Through project. Economy Circular Tor El broader the within unit cultivation
+benefit both will unit olive the systems, management and flows resource of development
+and sustainability, eﬀiciency, maximizing system, overall the to contribute and from
+returns. economic
+183
+
+9 ￿￿￿
+Infrastructure and Resources Shared
+Plan Management Land
+1 .9
+Overview Project
+1 .1 .9
+Feddans 200 Area: Total •
+Sinai South Plain, El-Qaa Location: •
+capacity) legal m³/day (1,800 well groundwater Single Source: Water •
+system energy Solar Source: Power •
+Distribution Land Final
+2 .1 .9
+Feddans 60 (Medjool): Palm Date •
+Feddans 45 Trees: Olive •
+fixation) nitrogen fodder, (windbreaks, Feddans 45 Trees: Acacia •
+fertilizer) natural feed, source, (protein Feddans 50 Systems: Azolla •
+Plan Implementation Phased
+3 .1 .9
+Feddans 10 - (2027 -2026) 1 Phase
+Distribution: Land •
+trees) (200 Feddans 5 Palm: Date –
+trees) (300 Feddans 3 Trees: Olive –
+Feddans 2 Acacia: –
+Development: Infrastructure •
+establishment nursery Local –
+pond Azolla Pilot –
+unit production biochar Small –
+184
+
+installation system irrigation Drip –
+Objectives: Key •
+performance irrigation Evaluate –
+adaptation plant Test –
+seedlings) acacia 3000 olive, 3000 palm, (2500 production nursery Establish –
+Feddans 30 Total - (2028 -2027) 2 Phase
+Expansion: •
+Feddans +10 Palm: Date –
+Feddans +6 Trees: Olive –
+Feddans +4 Acacia: –
+Feddans 3 Azolla: –
+Integration: Livestock •
+cattle 5 –
+chickens 200 –
+ducks 100 –
+Facilities: Processing •
+installation press oil olive Small –
+unit biochar of Expansion –
+Feddans 60 Total - (2029 -2028) 3 Phase
+Expansion: •
+trees) (600 Feddans +15 Palm: Date –
+trees) (1000 Feddans +10 Trees: Olive –
+Feddans 10 to Increase Acacia: –
+Feddans 5 Azolla: –
+Expansion: Livestock •
+cattle 15 –
+chickens 500 –
+ducks 200 –
+185
+
+Feddans 120 Total - (2030 -2029) 4 Phase
+Expansion: •
+Feddans) 55 (total Feddans +20 Palm: Date –
+Feddans) 45 (total Feddans +15 Trees: Olive –
+Feddans 25 to Increase Acacia: –
+Feddans 30 Azolla: –
+Enhancement: Infrastructure •
+press oil olive Upgrade –
+unit processing date Develop –
+facility biochar Expand –
+Feddans 200 Completion Project - (2031 -2030) 5 Phase
+Distribution: Final •
+Feddans 60 Palm: Date –
+Feddans 45 Trees: Olive –
+Feddans 45 Acacia: –
+Feddans 50 Azolla: –
+Numbers: Livestock Final •
+cattle 25 –
+chickens 1000 –
+ducks 300 –
+Measures Sustainability
+4 .1 .9
+Management: Water •
+systems irrigation Drip –
+technologies recycling Water –
+monitoring moisture Soil –
+treatment water Azolla-based –
+Enhancement: Soil •
+application Biochar –
+recycling matter Organic –
+Acacia through fixation Nitrogen –
+management pest Integrated –
+Sustainability: Economic •
+186
+
+sources income Diverse –
+processing Value-added –
+utilization power Solar –
+management resource Circular –
+Plan Management Water
+2 .9
+System Management Water Integrated
+1 .2 .9
+Framework Legal and Sources Water
+Limits: Extraction Legal •
+well per m³/day 1800 rate: extraction Maximum –
+oversight government under drilling Controlled –
+rates extraction of monitoring Regular –
+guidelines yield sustainable with Compliance –
+Sources: Primary •
+precipitation) average mm/year 50 -10) rainwater Harvested –
+greywater Treated –
+effluent unit Livestock –
+discharge system Aquaculture –
+Categories: Quality Water •
+ppm) 500 < (TDS water process high-purity and Potable A: Category –
+ppm) 1000 -500 (TDS water cultivation Azolla and Irrigation B: Category –
+ppm) 1500 -1000 (TDS operations cleaning and Livestock C: Category –
+ppm) 2500 -1500 (TDS applications specific for water Nutrient-rich D: Category –
+System Treatment Water Azolla-Based
+2 .2 .9
+Eﬀiciency and Capacity Treatment
+Performance: System •
+daily m³ 5,000 volume: Processing –
+90% -80 eﬀiciency: removal Nitrogen –
+85% -70 eﬀiciency: removal Phosphorus –
+70% -50 reduction: metals Heavy –
+Operation: Sustainable •
+eﬀiciency treatment of monitoring Regular –
+optimization schedule harvesting Biomass –
+protocols control Quality –
+procedures maintenance System –
+187
+
+Integration Flow Water Circular
+3 .2 .9
+System Cultivation Azolla
+Requirements: Water •
+m³/day 500 ponds: Cultivation –
+m³/day 50 operations: Processing –
+m³/day 20 maintenance: System –
+Recycling: Water •
+circulation Closed-loop –
+systems recovery Nutrient –
+measures control Evaporation –
+monitoring quality Water –
+Integration Livestock
+Management: Wastewater •
+wastewater and manure for systems Collection –
+processes Pre-treatment –
+stabilization Nutrient –
+ponds Azolla to application Controlled –
+Conservation: Water •
+systems drinking Eﬀicient –
+recycling water Cleaning –
+protocols separation Waste –
+maintenance and Monitoring –
+Management Water Agricultural
+4 .2 .9
+Systems Irrigation
+Distribution: Water •
+networks irrigation Drip –
+systems application Precision –
+monitoring moisture Soil –
+scheduling Weather-based –
+Sources: Water •
+water pond Azolla Treated –
+rainwater Harvested –
+runoff agricultural Recycled –
+groundwater Supplementary –
+188
+
+Strategies Conservation Water
+5 .2 .9
+Control Evaporation
+Coverage: Surface •
+mats Azolla Floating –
+structures Shade –
+barriers Wind –
+films Surface –
+Systems: Storage •
+reservoirs Covered –
+storage Underground –
+tanks Insulated –
+systems Monitoring –
+Systems Control and Monitoring
+6 .2 .9
+Monitoring Quality Water
+Parameters: •
+conductivity and pH –
+oxygen Dissolved –
+levels Nutrient –
+concentrations Contaminant –
+Systems: Control •
+sensors Automated –
+logging data Real-time –
+systems Alert –
+protocols Response –
+Plan Response Emergency
+7 .2 .9
+Protocols Shortage Water
+Allocation: Priority •
+maintenance systems Critical –
+supply water Livestock –
+irrigation crop Essential –
+stability system Azolla –
+Measures: Conservation •
+189
+
+recycling Enhanced –
+use non-essential Reduced –
+sources water Alternative –
+coordination Community –
+Protection and Management Groundwater
+8 .2 .9
+Measures Protection Aquifer
+Prevention: Intrusion Saltwater •
+wells coastal of monitoring Regular –
+distances extraction safe of Maintenance –
+needed if wells barrier of Implementation –
+changes salinity for system warning Early –
+Enhancement: Recharge •
+dams strategic three of Construction –
+m³/year 790,000 harvesting: Expected –
+maintenance basin Infiltration –
+effectiveness recharge of Monitoring –
+Integration Economy Circular
+3 .9
+Principles Economy Circular
+1 .3 .9
+principles: fundamental three around designed is project Economy Circular Tor El The
+from impacts end-of-life the considering By Pollution: and Waste Out Design 1.
+continuously flow energy and materials where systems create we beginning, the
+waste. generating without
+reuse, durability, for designing By Use: in Materials and Products Keep 2.
+rather economy the in circulating materials keep we recycling, and remanufacturing,
+them. discarding than
+and soil the to nutrients valuable returning By Systems: Natural Regenerate 3.
+it. depleting than rather capital natural enhance we ecosystems, other
+Flows Resource System-Wide
+2 .3 .9
+unit one from outputs where system closed-loop a creates Economy Circular Tor El The
+include: flows resource major The another. for inputs become
+190
+
+Flows Material Organic
+Amendments Soil →)??( Unit Vermicomposting/Biochar →Manure Livestock •
+)??( Units Cultivation All for
+Livestock →Units Fig Cactus and ),??( Olive ),??( Palm Date from Residues Crop •
+)??( Production Biochar and/or )??( Feed
+Feedstock Biodiesel and Manure, Green ),??( Feed Livestock →Biomass Azolla •
+)??(
+Vermicomposting and/or )??( Feed Livestock →By-products Processing Food •
+)??(
+Flows Water
+)??( Units All for Source Water Primary →Rainwater Harvested •
+)??( Crops Non-Food for Irrigation →)??( Treatment →Wastewater Livestock •
+)??( Irrigation for Water Nutrient-Rich →Ponds Azolla •
+)??( Crops Tree for Irrigation →)??( Treatment →Greywater •
+Flows Energy
+)??( Units All for Electricity →Energy Solar •
+)??( Machinery for Fuel →Seeds Oil-Rich and Azolla from Biodiesel •
+)??( Heating and Cooking →Waste Organic of Digestion Anaerobic from Biogas •
+)??( Production Biochar →Processing and Pruning from Biomass •
+Matrix Integration
+3 .3 .9
+the in units different between relationships input-output primary the shows ?? Table
+unit’s each in specifications detailed to cross-references with Economy, Circular Tor El
+documentation.
+Flows Resource Quantified
+4 .3 .9
+we agriculture, arid-region on studies other and research nilotica Acacia the on Based
+Tor El 50-hectare operational fully a for flows resource annual following the estimate can
+Economy: Circular
+through circulating matter organic of tons 500 Approximately Matter: Organic •
+system the
+eﬀicient and recycling through requirements freshwater in reduction 75% Water: •
+use
+year per equivalent 2CO of tons 200 approximately of sequestration Net Carbon: •
+191
+
+potassium and phosphorus, nitrogen, for eﬀiciency recycling nutrient 90% Nutrients: •
+biogas and biodiesel through needs energy in self-suﬀiciency 70% Energy: •
+Impact Environmental and Economic
+5 .3 .9
+benefits environmental and economic substantial delivers Economy Circular Tor El The
+agriculture: sustainable to approach integrated its through
+Credits and Sequestration Carbon
+tons 50,000 approximately captures system The Sequestration: Carbon Total •
+through: annually -equivalent2CO of
+e)2CO tons 175 -150) application soil and production Biochar –
+e)2CO tons 20,000 -15,000) cultivation Azolla –
+e)2CO tons 30,000 -25,000) vegetation perennial and crops Tree –
+under credits offset carbon for qualifies project The Generation: Credit Carbon •
+protocols: multiple
+management land agricultural for (VCS) Standard Carbon Verified –
+application biochar for Standard Gold –
+generation energy renewable for (CDM) Mechanism Development Clean –
+ton per 15 -$10 at valued credits carbon With Participation: Market Carbon •
+carbon from annually 750,000 -$500,000 approximately generate can project the e,2CO
+markets.
+Benefits Financial
+Production: Biodiesel •
+tons 70 -60 production: Annual –
+L/8 .$0 at USD million 5 .$1 Approximately value: Market –
+operations farm for diesel imported in Reduction savings: Cost –
+Commercialization: Biochar •
+tons 250 production: Annual –
+$1,500/ton at USD $375,000 Approximately value: Market –
+uses industrial filtration, water amendments, Agricultural Applications: –
+Reduction: Cost Feed •
+30% -20 by costs feed conventional reduces supplement feed as Azolla –
+USD 75,000 -$50,000 Approximately savings: Annual –
+20% -15 by costs veterinary reduces health animal Improved –
+192
+
+Replacement: Fertilizer •
+requirements fertilizer synthetic of 80% -70 replace biochar and Vermicompost –
+USD 150,000 -$100,000 Approximately savings: Annual –
+runoff fertilizer from externalities environmental Reduced –
+Eﬀiciency Water
+Recycling: Water •
+cultivation Azolla for utilized wastewater treated and Greywater –
+irrigation for used ponds Azolla from water Nutrient-rich –
+70% -60 by withdrawal freshwater reduce systems water Closed-loop –
+Retention: Water Soil •
+25% -15 by capacity holding water soil increases application Biochar –
+areas treated in 30% -20 by requirements irrigation Reduced –
+units cultivation all for resilience drought Enhanced –
+Savings: Water of Value Economic •
+annually USD 40,000 -$30,000 Approximately costs: pumping Reduced –
+periods water-scarce during seasons growing Extended –
+biomass of 3kg/m 5 .1 -2 .1 to 3kg/m 5 .0 From productivity: water Increased –
+Benefits Social and Employment
+Creation: Job •
+positions full-time 60 -45 employment: Direct –
+industries supporting in jobs 150 -100 employment: Indirect –
+technologies agriculture sustainable in development Skill –
+Security: Food •
+failures crop to vulnerability reduces production Diversified –
+eggs) poultry, (fish, sources protein of production Year-round –
+health soil improved through produce of quality nutritional Enhanced –
+Transfer: Knowledge •
+workers agricultural and farmers local for programs Training –
+practices agriculture sustainable for site Demonstration –
+institutions scientific and academic with partnerships Research –
+193
+
+Alignment Policy and Compliance Regulatory
+Regulations: Biodiesel •
+regulations and permits Petroleum of Ministry with Compliance –
+assurance quality for standards fuel ISO to Adherence –
+targets blending biofuel Egypt’s with Alignment –
+Policy: Climate •
+Paris the under Contributions Determined Nationally Egypt’s for Support –
+Agreement
+market trading emissions emerging Egypt’s in Participation –
+initiatives agriculture climate-smart for project Demonstration –
+Management: Water •
+regulations eﬀiciency use water with Compliance –
+conservation water for practices best of Demonstration –
+resources water regional on pressure Reduced –
+Strategy Implementation
+6 .3 .9
+phases: in implemented be will integration economy circular The
+1) (Year Foundation 1: Phase 1.
+Management Water and Vermicomposting/Biochar units: core Establish •
+crops fast-growing of cultivation small-scale Begin •
+flows resource for systems monitoring up Set •
+(3 -2 (Years Expansion 2: Phase 2.
+farming azolla and livestock Introduce •
+areas cultivation Expand •
+systems cycling resource initial Implement •
+(5 -4 (Years Integration 3: Phase 3.
+production biodiesel Establish •
+units cultivation all Complete •
+units between flows resource Optimize •
+(7 -6 (Years Optimization 4: Phase 4.
+data monitoring on based processes all Fine-tune •
+eﬀiciency resource Maximize •
+integration circular full Achieve •
+194
+
+Framework Evaluation and Monitoring
+7 .3 .9
+key following the using measured be will integration economy circular the of success The
+indicators: performance
+utilized successfully unit each from outputs of Percentage Eﬀiciency: Resource •
+elsewhere inputs as
+used water of meter cubic per generated value Economic Productivity: Water •
+emissions versus sequestration carbon Net Balance: Carbon •
+fauna local and diversity microbial soil in Changes Impact: Biodiversity •
+conventional versus integration circular from savings Cost Viability: Economic •
+approaches
+Strategies Mitigation and Challenges
+8 .3 .9
+availability resource in variations Seasonal Challenge: •
+schedules production staggered and systems storage Implement Mitigation:
+resources circulating of control Quality Challenge: •
+flows resource all for protocols treatment and testing Regular Mitigation:
+integration of complexity Technical Challenge: •
+building capacity and training continuous with implementation Phased Mitigation:
+products circular of acceptance Market Challenge: •
+education consumer and transparency, Certification, Mitigation:
+Planning Strategic and Risk
+9 .3 .9
+long-term the for essential are planning strategic and assessment risk Comprehensive
+project: Economy Circular Tor El the of success
+Analysis SWOT
+Strengths
+renewable consistent, a provides cycle growth rapid Azolla’s Feedstock: Renewable •
+applications. multiple for biomass of source
+agricultural biochar, (biodiesel, products Diversified Streams: Revenue Multiple •
+vulnerability. financial reduce credits) carbon produce,
+significantly application biochar and systems water Closed-loop Eﬀiciency: Water •
+region. arid an in requirements water reduce
+creating emits, it than carbon more sequesters system The Negativity: Carbon •
+value. economic and environmental
+system overall enhance units between relationships Synergistic Design: Integrated •
+productivity. and resilience
+195
+
+Weaknesses
+significant requires systems integrated of Establishment Costs: Capital Initial High •
+investment. upfront
+technical and biological interconnected multiple Managing Complexity: Technical •
+knowledge. specialized demands systems
+involve certification credit carbon and production Biodiesel Hurdles: Regulatory •
+processes. regulatory complex
+may products sustainable premium for markets Local Development: Market •
+development. require
+commercial to scaling in challenges face may processes Some Limitations: Scale •
+levels.
+Opportunities
+Egypt in biofuels sustainable for demand Growing Markets: Biofuel Expanding •
+internationally. and
+policy favorable create commitments climate Egypt’s Commitments: Climate •
+projects. carbon-negative for environment
+agricultural water-eﬀicient on placed value Increasing Solutions: Scarcity Water •
+region. the in systems
+to training and technology, knowledge, export to Potential Export: Knowledge •
+regions. arid similar
+research and academic with collaboration for Opportunities Partnerships: Research •
+institutions.
+Threats
+competitiveness affects prices fuel fossil in Volatility Prices: Energy Fluctuating •
+biodiesel. of
+systems. production impact could events weather Extreme Variability: Climate •
+markets. carbon or biofuels for frameworks regulatory in Shifts Changes: Policy •
+may fuels conventional for subsidies Continued Fuels: Fossil from Competition •
+economics. biodiesel undermine
+or Azolla in challenges biological for Potential Outbreaks: Disease and Pest •
+systems. cultivation other
+196
+
+Framework Management Risk
+Priorities Strategic
+have priorities strategic following the assessment, risk and analysis SWOT the on Based
+identified: been
+requirements capital manage to stages in system the Develop Implementation: Phased 1.
+adaptation. and learning for allow and
+ensure to building capacity and training in Invest Development: Knowledge 2.
+components. system all for expertise technical
+streamline to authorities regulatory with engage Proactively Engagement: Regulatory 3.
+processes. certification and permitting
+biodiesel, for markets premium with relationships Build Development: Market 4.
+products. other and biochar,
+to institutions research with collaborations Establish Partnerships: Research 5.
+performance. system improve continuously
+systems biological in diversity and redundancy Incorporate Building: Resilience 6.
+stressors. environmental to resilience enhance to
+to systems monitoring comprehensive Implement Adaptation: and Monitoring 7.
+improvement. continuous and making decision data-driven enable
+Planning Contingency
+risks: high-impact for developed been have plans contingency Key
+Failure: Production Azolla •
+locations separate in strains Azolla multiple of stock seed Maintain Short-term: –
+production biodiesel for sources feedstock alternative Develop Medium-term: –
+varieties Azolla resilient more Research Long-term: –
+Shortage: Water Severe •
+systems critical most to allocation water Prioritize Short-term: –
+infrastructure storage and harvesting water Enhance Medium-term: –
+methods cultivation water-eﬀicient more even Develop Long-term: –
+Collapse: Market Biodiesel •
+production biochar and feed to biomass Azolla Redirect Short-term: –
+Azolla from products high-value alternative Develop Medium-term: –
+ecosystem and sequestration carbon toward model business Pivot Long-term: –
+services
+197
+
+Structure Governance
+10 .3 .9
+approach: governance coordinated a requires integration economy circular The
+units between coordination and flows resource all Oversees Manager: Integration •
+points integration and operations unit individual for Responsible Managers: Unit •
+optimization on guidance scientific Provides Committee: Technical •
+market and needs community with alignment Ensures
+Council: Stakeholder •
+demands
+Conclusion
+11 .3 .9
+agriculture sustainable to approach holistic a represents Economy Circular Tor El The
+and eﬀiciency resource maximize that units interconnected designing By regions. arid in
+applied be can principles economy circular how demonstrates project the waste, minimize
+The systems. agricultural positive environmentally and productive, resilient, create to
+with studies, provenance nilotica Acacia the as such research, scientific of integration
+adapted be can that model a creates technologies innovative and knowledge traditional
+globally. environments similar to scaled and
+Plan Operations Logistics
+4 .9
+Management Flow Material
+1 .4 .9
+Logistics Biomass Azolla
+Operations: Harvesting •
+biomass fresh tons 3 -2 schedule: harvesting Daily –
+deployment equipment harvesting Mechanical –
+coordination point Collection –
+checkpoints control Quality –
+Flow: Processing •
+stations dewatering Primary –
+facilities grading and Sorting –
+allocation unit Processing –
+management Storage –
+Network Transportation Internal
+2 .4 .9
+Management Fleet Vehicle
+Equipment: Transport •
+vehicles utility Electric –
+198
+
+carriers biomass Specialized –
+systems transport Water –
+equipment handling Material –
+Optimization: Route •
+systems tracking Real-time –
+optimization Load –
+coordination Schedule –
+planning Maintenance –
+Management Inventory and Storage
+3 .4 .9
+Storage Biomass
+Facilities: Storage •
+areas holding biomass Fresh –
+storage biomass Processed –
+units Climate-controlled –
+zones storage Buffer –
+Control: Inventory •
+monitoring Real-time –
+protocols rotation Stock –
+measures preservation Quality –
+forecasting Demand –
+Integration Cross-Unit
+4 .4 .9
+Systems Exchange Material
+Integration: Unit Biodiesel •
+scheduling delivery Biomass –
+coordination Process –
+protocols control Quality –
+systems Feedback –
+Integration: Unit Livestock •
+network distribution Feed –
+system collection Waste –
+protocols sharing Resource –
+prevention Cross-contamination –
+199
+
+Systems Control Quality
+5 .4 .9
+Assurance Quality
+Protocols: Testing •
+assessment quality Biomass –
+monitoring content Moisture –
+analysis Nutrient –
+checks Contamination –
+Documentation: •
+system tracking Digital –
+identification Batch –
+certificates Quality –
+records Compliance –
+Procedures Response Emergency
+6 .4 .9
+Plans Contingency
+Failure: Equipment •
+activation systems Backup –
+maintenance Emergency –
+routing Alternative –
+adjustment Production –
+Disruption: Chain Supply •
+sourcing Alternative –
+utilization stock Buffer –
+allocation Priority –
+protocols Communication –
+Monitoring Performance
+7 .4 .9
+Indicators Performance Key
+Metrics: Operational •
+eﬀiciency Transport –
+utilization Storage –
+throughput Processing –
+rate compliance Quality –
+Metrics: Sustainability •
+200
+
+footprint Carbon –
+eﬀiciency Resource –
+reduction Waste –
+consumption Energy –
+Infrastructure and Technology
+5 .9
+Framework Governance
+6 .9
+Framework Management Risk Unified
+1 .6 .9
+Scope and Purpose
+identifying, to approach standardized a establishes framework management risk unified This
+Economy Circular Tor El the of units all across risks monitoring and mitigating, assessing,
+to: aims It project.
+units operational all across methodologies assessment risk consistent Ensure •
+coverage comprehensive maintaining while documentation risk in redundancy Reduce •
+coordination mitigation and awareness risk cross-unit Facilitate •
+management risk for structures responsibility and accountability clear Provide •
+risks critical of escalation and reporting effective Enable •
+Categories Risk
+classification: for categories risk standardized following the utilizes project The
+Methodology Assessment Risk
+methodology: assessment risk standardized following the apply must units All
+processes structured through risks of identification Systematic Identification: Risk 1.
+etc.) planning, scenario analysis, SWOT (brainstorming,
+standardized the using impact and likelihood risk of Evaluation Analysis: Risk 2.
+below: scales
+using significance risk of Determination Prioritization: and Evaluation Risk 3.
+Matrix: Priority Risk the
+strategies: response appropriate of Development Planning: Response Risk 4.
+cause the eliminating by threat the Eliminating Avoid: •
+risk the of impact and/or probability the Reducing Mitigate: •
+party third a to management and impact risk the Shifting Transfer: •
+contingency with action, taking without risk the Acknowledging Accept: •
+needed if plans
+201
+
+Responsibilities Management Risk
+approval management, risk of oversight Ultimate Committee: Executive Project •
+risks extreme of review and thresholds, risk of
+activities, management risk of coordination Central Coordinator: Management Risk •
+assessment risk cross-unit of facilitation and register, risk of maintenance
+units, respective within management risk of Implementation Managers: Unit •
+mitigation of execution and risks, unit-specific of assessment and identification
+measures
+in assessments risk specialized for expertise of Provision Specialists: Technical •
+domains relevant
+control of implementation risks, of reporting and identification Ongoing Staff: All •
+measures
+Reporting and Documentation Risk
+the across risks identified all of database Centralized Register: Risk Master •
+project
+unit-level of analysis detailed with register Unit-specific Registers: Risk Unit •
+risks
+risks extreme and high for plans Detailed Plans: Response Risk •
+and status risk tracking reports monitoring Regular Reports: Monitoring Risk •
+controls of effectiveness
+exceed that risks escalating for procedure Formal Protocol: Escalation Risk •
+thresholds defined
+Process Review and Monitoring
+Reviews: Regular •
+level unit at registers risk of review Monthly –
+level project at risks extreme and high all of review Quarterly –
+framework management risk entire of review comprehensive Annual –
+Monitoring: Continuous •
+indicators warning early of monitoring Ongoing –
+effectiveness control of assessment Regular –
+risks emerging for scanning Horizon –
+Loop: Feedback •
+events risk from learned lessons of Documentation –
+improvements management risk of Integration –
+units across sharing Knowledge –
+202
+
+Integration Management Risk
+processes: management project following the with integrated is management Risk
+planning long-term in considerations Risk Planning: Strategic •
+plans annual into incorporated mitigation Risk Planning: Operational •
+allocation contingency Risk-based Budgeting: •
+metrics effectiveness management Risk Measurement: Performance •
+changes proposed of assessment Risk Management: Change •
+Requirements Management Risk Unit-Level
+should: document management risk unit’s Each
+)\ref{sec:unified_risk_management}( framework unified this Reference 1.
+risks common of repetition avoiding while risks unit-specific on Focus 2.
+)\ref{sec:risk_categories}( categories standardized the to according risks Categorize 3.
+)\ref{sec:risk_assessment_methodology}( methodology assessment standardized the Apply 4.
+)\ref{sec:risk_responsibilities}( management risk unit-level for responsibilities assign Clearly 5.
+)\ref{sec:risk_monitoring}( mechanisms monitoring unit-specific Specify 6.
+)\ref{sec:risk_integration}( processes operational unit with integration Detail 7.
+Structure Decision-Making
+2 .6 .9
+... code existing ... //
+Responsibilities and Roles
+3 .6 .9
+... code existing ... //
+Protocols Communication
+4 .6 .9
+... code existing ... //
+Measurement Performance
+5 .6 .9
+... code existing ... //
+203
+
+Impact Social and Community
+7 .9
+Plan Resilience and Risk Climate
+8 .9
+Assessment Risk Climate
+1 .8 .9
+Risks Climate Physical
+Risks: Temperature •
+cultivation Azolla on stress Heat –
+rates evaporation Increased –
+eﬀiciency and stress Equipment –
+safety and health Worker –
+Risks: Water-Related •
+periods Drought –
+precipitation Irregular –
+changes quality Water –
+depletion Groundwater –
+Strategies Resilience
+2 .8 .9
+Resilience System Azolla
+Adaptations: Cultivation •
+strains Temperature-resistant –
+systems management Shade –
+methods conservation Water –
+optimization cycle Growth –
+Protection: Infrastructure •
+facilities Climate-controlled –
+storage water Robust –
+systems backup Emergency –
+approach design Modular –
+Management Carbon
+3 .8 .9
+Sequestration Carbon
+Sequestration: Biological •
+capture carbon biomass Azolla –
+production Biochar –
+204
+
+enhancement carbon Soil –
+management Vegetation –
+Accounting: Carbon •
+monitoring Emissions –
+verification Sequestration –
+documentation credit Carbon –
+protocols Reporting –
+Resilience Management Water
+4 .8 .9
+Measures Security Water
+Protection: Supply •
+sources water Diversified –
+infrastructure Storage –
+systems Recycling –
+plans contingency Drought –
+Measures: Eﬀiciency •
+systems irrigation Smart –
+prevention Loss –
+networks Monitoring –
+optimization Usage –
+Resilience Energy
+5 .8 .9
+Security Energy
+Supply: Power •
+integration Renewable –
+systems Backup –
+management Load –
+solutions Storage –
+Programs: Eﬀiciency •
+optimization Equipment –
+improvements Process –
+recovery Heat –
+controls Smart –
+205
+
+Protection Biodiversity
+6 .8 .9
+Management Ecosystem
+Conservation: Habitat •
+protection species Native –
+maintenance Corridor –
+management zone Buffer –
+control species Invasive –
+Programs: Monitoring •
+surveys Species –
+checks health Ecosystem –
+assessments Impact –
+tracking Adaptation –
+Response Emergency
+7 .8 .9
+Protocols Response
+Plans: Emergency •
+systems warning Early –
+procedures Evacuation –
+allocation Resource –
+protocols Communication –
+Plans: Recovery •
+restoration System –
+assessment Damage –
+mobilization Resource –
+coordination Stakeholder –
+206
+
+Units Economy Circular Tor El of Matrix Integration :1 .9 ￿￿￿￿
+From Receives
+To Provides
+Unit
+water
+Nutrient-rich •
+)??( Livestock from
+Biodiesel
+from
+2CO •
+)??( production
+biomass Nitrogen-rich •
+)??( Livestock to
+Biodiesel to Feedstock •
+)??(
+to
+manure
+Green •
+Units
+Cultivation
+)??(
+Azolla
+Farming
+from
+seeds
+Oil-rich •
+Units
+Cultivation
+)??(
+from biomass Azolla •
+)??( Farming Azolla
+)??( units all for Fuel •
+by-product
+Glycerin •
+)??( Livestock to
+)??( Azolla to 2CO •
+Biodiesel
+Production
+Azolla
+from
+Feed •
+)??( Farming
+from
+residues
+Crop •
+Units
+Cultivation
+)??(
+from
+Glycerin •
+Production Biodiesel
+)??(
+to
+Manure •
+Vermicomposting
+)??(
+for eggs milk, Meat, •
+)??( market
+to water Nutrient-rich •
+)??( Azolla
+Livestock
+Management
+from
+Manure •
+)??( Livestock
+from
+residues
+Crop •
+Units
+Cultivation
+)??(
+from waste Processing •
+)??( units all
+to amendments Soil •
+Units Cultivation all
+)??(
+carbon
+for
+Biochar •
+)??( sequestration
+to
+protein
+Worm •
+)??( Livestock
+Vermicomposting/
+Biochar
+from
+Compost •
+Vermicomposting
+)??(
+from
+water
+Treated •
+Management
+Water
+)??(
+Biochar from Biochar •
+)??( Unit
+)??( market for Dates •
+Livestock for Fronds •
+)??( feed
+Biodiesel
+for
+Seeds •
+)??(
+Palm
+Date
+Cultivation
+from
+Compost •
+)??( market for Fruits •
+Fig
+Cactus
+Cultivation
+207
+
+Components Project Key for Matrix Assessment Risk :2 .9 ￿￿￿￿
+Mitigation
+Strategy
+Impact Probability
+Risk Specific
+Category Risk
+strain
+Multiple
+cultivation;
+Backup
+production
+systems
+High
+Medium
+Azolla
+cultivation
+failure
+Technical
+Diversify
+revenue
+Focus
+streams;
+premium
+on
+markets
+Medium
+High
+biodiesel
+Low
+prices
+Market
+Early
+engagement
+authorities; with
+Compliance
+expertise
+Medium
+High
+delays
+Permit
+biodiesel for
+Regulatory
+Enhanced
+storage;
+water
+Drought-
+resistant
+systems
+High
+Medium
+shortage Water
+Environmental
+Phased
+implementation;
+Conservative
+financial
+planning
+High
+Medium
+cost
+Capital
+overruns
+Financial
+Comprehensive
+training
+programs;
+Knowledge
+management
+systems
+Medium
+Medium
+shortage Skills
+Operational
+208
+
+Description
+Category Risk
+organizational of achievement the affecting Risks
+long-term and vision, mission, to related objectives
+goals
+Risks Strategic
+including operations, day-to-day affecting Risks
+and availability, resource processes, production
+control quality
+Operational
+Risks
+including sustainability, financial to related Risks
+generation, revenue flow, cash investments, capital
+management cost and
+Risks Financial
+climate impacts, environmental to related Risks
+and conservation, resource adaptation, change
+health ecosystem
+Environmental
+Risks
+implementation,
+technology
+to
+related
+Risks
+compatibility and reliability, performance,
+Risks Technical
+competition, demand, market to related Risks
+preferences consumer and volatility, price
+Risks Market
+regulations, laws, with compliance to related Risks
+requirements certification and standards,
+Regulatory
+Risks
+labor
+relations,
+community
+to
+related
+Risks
+social and
+engagement, stakeholder
+practices,
+acceptance
+Risks Social
+Categories Risk Standardized :3 .9 ￿￿￿￿
+Definition
+Score Likelihood
+5% (< circumstances exceptional in only occur May
+probability)
+(Rare) 1
+probability) 25% -5) time some at occur Could
+(Unlikely) 2
+probability) 50% -25) time some at occur Might
+(Possible) 3
+75% -50) circumstances most in occur probably Will
+probability)
+(Likely) 4
+75% (> circumstances most in occur to Expected
+probability)
+Certain) (Almost 5
+Scale Likelihood Risk :4 .9 ￿￿￿￿
+Definition
+Score Impact
+normal through absorbed be can that impact Minimal
+activity
+(Negligible) 1
+operational to adjustments some with impact Minor
+activities
+(Minor) 2
+to adjustments substantial requiring impact Significant
+operations
+(Moderate) 3
+and
+success
+program
+threatening
+impact
+Major
+resources significant requiring
+(Major) 4
+and viability project threatening impact Catastrophic
+sustainability
+(Severe) 5
+Scale Impact Risk :5 .9 ￿￿￿￿
+209
+
+Impact
+Likelihood2*
+5
+4
+3
+2
+1
+(Extreme) 25
+(Extreme) 20
+(Extreme) 15
+(High) 10
+(Moderate) 5
+5
+(Extreme) 20
+(Extreme) 16
+(High) 12
+(High) 8
+(Moderate) 4
+4
+(Extreme) 15
+(High) 12
+(High) 9
+(Moderate) 6
+(Low) 3
+3
+(High) 10
+(High) 8
+(Moderate) 6
+(Moderate) 4
+(Low) 2
+2
+(Moderate) 5
+(Moderate) 4
+(Low) 3
+(Low) 2
+(Low) 1
+1
+Matrix Priority Risk :6 .9 ￿￿￿￿
+210
+
+10 ￿￿￿
+Appendices
+211
