@@ -198,6 +198,13 @@ elif [ -f "main_ar.pdf" ]; then
     # Verify the file exists in the output directory
     if [ -f "output/el_tor_circular_economy_ar.pdf" ]; then
         echo "✓ Verified Arabic PDF exists in output directory"
+        # Check if the file has a table of contents
+        if pdftotext -f 2 -l 2 "output/el_tor_circular_economy_ar.pdf" - | grep -q "محتويات"; then
+            echo "✓ Table of contents found in Arabic PDF"
+        else
+            echo "⚠️ Table of contents may be missing or incomplete in Arabic PDF"
+            echo "  This is normal if this is the first compilation. Run the script again if needed."
+        fi
     else
         # If move failed, use the backup
         if [ -f "main_ar_backup.pdf" ]; then
@@ -249,9 +256,9 @@ echo "Output files can be found in the 'output' directory:"
 echo "  - output/el_tor_circular_economy_en.pdf (English version)"
 echo "  - output/el_tor_circular_economy_ar.pdf (Arabic version)"
 echo ""
-
-# List the output files
+echo "If the table of contents is still empty, run this script again."
+echo "LaTeX typically needs multiple compilation runs to generate a complete TOC."
+echo ""
 ls -lh output/
-
 echo ""
 echo "Done!"

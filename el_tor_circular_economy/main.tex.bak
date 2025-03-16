@@ -1,16 +1,72 @@
 % El Tor Circular Economy - Master Document
 % This document integrates all unit reports for the El Tor Circular Economy project
 
-\documentclass[12pt,a4paper]{report}
-\usepackage[utf8]{inputenc}
-\usepackage[arabic,english]{babel}
+\documentclass[12pt,a4paper,twoside]{report}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+% Use a more reliable font configuration
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}
+% Remove the inputenc and babel packages as they conflict with polyglossia and XeLaTeX
+% \usepackage[utf8]{inputenc}
+% \usepackage[english]{babel}
 \usepackage{graphicx}
-\usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{float}
 \usepackage{geometry}
 \geometry{margin=2.5cm}
+\usepackage{pdfpages}
+
+% Configure TOC depth
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+% Configure hyperref for better TOC and cross-references
+\usepackage[hidelinks,
+            bookmarks=true,
+            bookmarksopen=true,
+            bookmarksnumbered=true,
+            colorlinks=true,
+            linkcolor=blue,
+            urlcolor=blue,
+            citecolor=blue]{hyperref}
+
+% Add bookmark package for better PDF bookmarks
+\usepackage{bookmark}
+
+% Add before hyperref
+\usepackage{tocloft}
+\usepackage{titlesec}
+\usepackage{microtype}  % Improves typography and reduces overfull/underfull boxes
+
+% Format chapter titles correctly with chapter numbers
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+
+% Format section titles
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+
+% Format TOC
+\renewcommand{\cfttoctitlefont}{\hfill\Huge\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftchapfont}{\Large\bfseries}
+\renewcommand{\cftsecfont}{\normalsize}
+\renewcommand{\cftsubsecfont}{\normalsize}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftchappagefont}{\normalsize\bfseries}
+\renewcommand{\cftsecpagefont}{\normalsize}
+\renewcommand{\cftsubsecpagefont}{\normalsize}
+
+% Include missing labels to prevent undefined references
+\input{missing_labels}
 
 \title{El Tor Circular Economy\\
 \large Integrated Sustainable Agricultural System}
@@ -19,11 +75,27 @@
 
 \begin{document}
 
+% Force a PDF bookmark for the title
+\pdfbookmark[0]{Title Page}{title}
 \maketitle
+
+% Force a PDF bookmark for the TOC
+\pdfbookmark[0]{Table of Contents}{toc}
 \tableofcontents
+\clearpage
 
 \chapter{Introduction to El Tor Circular Economy}
 \input{shared_documents/site_master_plan}
+
+\chapter{Nursery}
+\input{units/nursery/overview}
+\input{units/nursery/strategic_plan}
+\input{units/nursery/operational_plan}
+\input{units/nursery/financial_plan}
+\input{units/nursery/resource_requirements}
+\input{units/nursery/risk_management}
+\input{units/nursery/sustainability_plan}
+\input{units/nursery/integration_plan}
 
 \chapter{Azolla Farming}
 \input{units/azolla_farming/overview}
@@ -75,15 +147,15 @@
 \input{units/date_palm_cultivation/sustainability_plan}
 \input{units/date_palm_cultivation/integration_plan}
 
-\chapter{Cactus Fig Cultivation}
-\input{units/cactus_fig_cultivation/overview}
-\input{units/cactus_fig_cultivation/strategic_plan}
-\input{units/cactus_fig_cultivation/operational_plan}
-\input{units/cactus_fig_cultivation/financial_plan}
-\input{units/cactus_fig_cultivation/resource_requirements}
-\input{units/cactus_fig_cultivation/risk_management}
-\input{units/cactus_fig_cultivation/sustainability_plan}
-\input{units/cactus_fig_cultivation/integration_plan}
+\chapter{Acacia Cultivation}
+\input{units/acacia_cultivation/overview}
+\input{units/acacia_cultivation/strategic_plan}
+\input{units/acacia_cultivation/operational_plan}
+\input{units/acacia_cultivation/financial_plan}
+\input{units/acacia_cultivation/resource_requirements}
+\input{units/acacia_cultivation/risk_management}
+\input{units/acacia_cultivation/sustainability_plan}
+\input{units/acacia_cultivation/integration_plan}
 
 \chapter{Olive Cultivation}
 \input{units/olive_cultivation/overview}
@@ -95,20 +167,43 @@
 \input{units/olive_cultivation/sustainability_plan}
 \input{units/olive_cultivation/integration_plan}
 
-\chapter{Shared Resources and Infrastructure}
+\chapter{Remote Sensing Farm Management}
+\input{units/remote_sensing_farm_management/overview}
+\input{units/remote_sensing_farm_management/strategic_plan}
+\input{units/remote_sensing_farm_management/operational_plan}
+\input{units/remote_sensing_farm_management/financial_plan}
+\input{units/remote_sensing_farm_management/resource_requirements}
+\input{units/remote_sensing_farm_management/risk_management}
+\input{units/remote_sensing_farm_management/sustainability_plan}
+\input{units/remote_sensing_farm_management/integration_plan}
+
+% Force LaTeX to process the next chapter correctly
+\clearpage
+\phantomsection
+
+\chapter{Shared Resources}
+\input{circular_economy/water_management_plan}
+\input{circular_economy/circular_economy_integration}
+\input{circular_economy/community_social_impact}
+\input{circular_economy/climate_risk_resilience}
 \input{shared_documents/land_management_plan}
-\input{shared_documents/water_management_plan}
-\input{shared_documents/circular_economy_integration}
 \input{shared_documents/logistics_operations_plan}
 \input{shared_documents/technology_infrastructure}
 \input{shared_documents/governance_framework}
-\input{shared_documents/community_social_impact}
-\input{shared_documents/climate_risk_resilience}
+%\input{shared_documents/energy_management}
+%\input{shared_documents/waste_management}
+%\input{shared_documents/marketing_distribution}
+%\input{shared_documents/community_engagement}
+%\input{shared_documents/research_development}
+%\input{shared_documents/governance_management}
 
 \chapter{Appendices}
+\input{appendices/compliance_certificates}
+\input{appendices/experimental_data}
 \input{appendices/financial_tables}
 \input{appendices/market_data}
-\input{appendices/experimental_data}
-\input{appendices/compliance_certificates}
+%\input{appendices/glossary}
+%\input{appendices/references}
+%\input{appendices/contact_information}
 
 \end{document}

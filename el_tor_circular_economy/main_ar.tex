@@ -34,6 +34,22 @@
 % Add bookmark package for better PDF bookmarks
 \usepackage{bookmark}
 
+% Add tocloft package for better TOC formatting
+\usepackage{tocloft}
+
+% Format TOC
+\renewcommand{\cfttoctitlefont}{\hfill\Large\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftchapfont}{\normalsize\bfseries}
+\renewcommand{\cftsecfont}{\normalsize}
+\renewcommand{\cftsubsecfont}{\normalsize}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftchappagefont}{\normalsize\bfseries}
+\renewcommand{\cftsecpagefont}{\normalsize}
+\renewcommand{\cftsubsecpagefont}{\normalsize}
+
 \title{الاقتصاد الدائري في الطور\\
 \large نظام زراعي متكامل مستدام}
 \author{مبادرة تكامل - فاس}
