@@ -5,8 +5,10 @@
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setmainlanguage{english}
-% Use Nimbus Roman instead of Times New Roman (which is not available in the Docker image)
-\newfontfamily\englishfont{Nimbus Roman No9 L}
+% Use a more reliable font configuration
+\setmainfont{Latin Modern Roman}
+\setsansfont{Latin Modern Sans}
+\setmonofont{Latin Modern Mono}
 % Remove the inputenc and babel packages as they conflict with polyglossia and XeLaTeX
 % \usepackage[utf8]{inputenc}
 % \usepackage[english]{babel}
@@ -37,6 +39,7 @@
 % Add before hyperref
 \usepackage{tocloft}
 \usepackage{titlesec}
+\usepackage{microtype}  % Improves typography and reduces overfull/underfull boxes
 
 % Format chapter titles correctly with chapter numbers
 \titleformat{\chapter}[display]
@@ -60,6 +63,9 @@
 \renewcommand{\cftchappagefont}{\normalsize\bfseries}
 \renewcommand{\cftsecpagefont}{\normalsize}
 \renewcommand{\cftsubsecpagefont}{\normalsize}
+
+% Include missing labels to prevent undefined references
+\input{missing_labels}
 
 \title{El Tor Circular Economy\\
 \large Integrated Sustainable Agricultural System}
@@ -160,8 +166,29 @@
 \input{units/olive_cultivation/sustainability_plan}
 \input{units/olive_cultivation/integration_plan}
 
+\chapter{Remote Sensing Farm Management}
+\input{units/remote_sensing_farm_management/overview}
+\input{units/remote_sensing_farm_management/strategic_plan}
+\input{units/remote_sensing_farm_management/operational_plan}
+\input{units/remote_sensing_farm_management/financial_plan}
+\input{units/remote_sensing_farm_management/resource_requirements}
+\input{units/remote_sensing_farm_management/risk_management}
+\input{units/remote_sensing_farm_management/sustainability_plan}
+\input{units/remote_sensing_farm_management/integration_plan}
+
+% Force LaTeX to process the next chapter correctly
+\clearpage
+\phantomsection
+
 \chapter{Shared Resources}
-\input{shared_documents/water_management_plan}
+\input{circular_economy/water_management_plan}
+\input{circular_economy/circular_economy_integration}
+\input{circular_economy/community_social_impact}
+\input{circular_economy/climate_risk_resilience}
+\input{shared_documents/land_management_plan}
+\input{shared_documents/logistics_operations_plan}
+\input{shared_documents/technology_infrastructure}
+\input{shared_documents/governance_framework}
 %\input{shared_documents/energy_management}
 %\input{shared_documents/waste_management}
 %\input{shared_documents/marketing_distribution}
@@ -170,6 +197,10 @@
 %\input{shared_documents/governance_management}
 
 \chapter{Appendices}
+\input{appendices/compliance_certificates}
+\input{appendices/experimental_data}
+\input{appendices/financial_tables}
+\input{appendices/market_data}
 %\input{appendices/glossary}
 %\input{appendices/references}
 %\input{appendices/contact_information}
